@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: This is a hero headline.
+    title: This is a NLLP 2021 headline <3
     subtitle: '### This is a super-cool hero subhead.'
     image: images/avatar.png
     image_alt: Author avatar
