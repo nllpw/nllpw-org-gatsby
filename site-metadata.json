@@ -8,16 +8,16 @@
                 "url": "/"
             },
             {
-                "label": "Generic",
-                "url": "/generic/"
+                "label": "Talk Series",
+                "url": "/talks/"
             },
             {
-                "label": "Elements",
-                "url": "/elements/"
+                "label": "Workshop",
+                "url": "/workshop/"
             },
             {
-                "label": "Ipsum",
-                "url": "/ipsum/"
+                "label": "Resources",
+                "url": "/resources/"
             }
         ]
     },
