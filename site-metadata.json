@@ -22,7 +22,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=vanilla&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; NLLP 2021 Rulesss",
         "has_social": true,
         "social_links": [
             {
@@ -31,23 +31,18 @@
                 "new_window": true
             },
             {
-                "label": "Instagram",
+                "label": "Youtube",
                 "url": "https://www.instagram.com/",
                 "new_window": true
             },
             {
-                "label": "GitHub",
+                "label": "Google Groups",
                 "url": "https://github.com/",
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
+                "label": "Join us on Slack!",
                 "url": "https://www.linkedin.com/",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
                 "new_window": true
             }
         ]
