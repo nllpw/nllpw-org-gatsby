@@ -24,11 +24,3 @@ template: page
 ---
 
 Dates, location and that it’s collocated with EMNLP 2021.
-
-[Call for Papers](/workshop/call)
-
-[Program](/workshop/program)
-
-[Committees](/workshop/committees)
-
-[Invited Speakers](/workshop/speakers)
