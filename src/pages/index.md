@@ -1,89 +1,64 @@
 ---
-title: Home
-sections:
-  - section_id: hero
-    type: section_hero
-    title: This is a NLLP 2021 headline <3
-    subtitle: '### This is a super-cool hero subhead.'
-    image: images/avatar.png
-    image_alt: Author avatar
-  - title: Text
-    section_id: intro
-    type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
-
-      ### This is an H3. Use it for subheads and subsections.
-
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
-
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
-  - title: Recent Posts
-    section_id: posts
-    type: section_posts
-    has_more_link: true
-    more_link_text: Read more
-  - title: A Cat
-    section_id: cat
-    type: section_content
-    image: images/art.svg
-    image_alt: Geometric pattern
-    content: >-
-      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
-      aliquet placerat commodo. 
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
-
-      Id massa aliquet arcu accumsan lorem amet accumsan.
-
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
+title: NLLP 2021 Headline <3
+subtitle: Just a nllp subtitle for the page
 seo:
-  title: Stackbit Vanilla Theme
-  description: The preview of the Vanilla theme
+  title: Just a Generic Page
+  description: This is a generic page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Vanilla Theme
+      value: Just a Generic Page
       keyName: property
     - name: 'og:description'
-      value: The preview of the Vanilla theme
+      value: This is a generic page
       keyName: property
-    - name: 'og:image'
-      value: images/vanilla-preview.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
-      value: summary_large_image
+      value: summary
     - name: 'twitter:title'
-      value: Stackbit Vanilla Theme
+      value: Just a Generic Page
     - name: 'twitter:description'
-      value: The preview of the Vanilla theme
-    - name: 'twitter:image'
-      value: images/vanilla-preview.png
-      relativeUrl: true
-template: advanced
+      value: This is a generic page
+template: page
 ---
+
+<div class="grid-2-1">
+  <div class="grid-2-1-left">
+
+**Slack**: link
+
+**Youtube**: link
+
+**Twitter**: link
+
+**Hashtag**: hashtag
+
+**Google Groups**: link 
+
+**E-mail**: email
+
+  </div>
+
+  <div class="grid-2-1-right">
+    <a class="twitter-timeline" data-height="350" data-dnt="true" href="https://twitter.com/NllpWorkshop?ref_src=twsrc%5Etfw">Tweets by NllpWorkshop</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
+
+## Goal
+
+We aim to bring together researchers and practitioners from Data Science (DS), Natural Language Processing (NLP), Machine Learning (ML) and other Artificial Intelligence (AI) disciplines, and the legal domain.
+
+The NLLP workshop was held for the first time in 2019, collocated with the Conference of the North-American Association of Computational Linguistics (NAACL). The first edition consisted of 12 original papers, 9 of which are archived in the workshop proceedings.
+
+Building on the success of the first edition, the 2nd edition of the NLLP workshop will be collocated with KDD 2020.
+
+## Motivation
+
+As electronic information becomes increasingly available around the world, automated tools for processing that information have grown apace. These tools can be especially effective and time-saving on text where information can be distilled in interesting ways including auto-summarization, named-entity extraction, machine translation, sentiment analysis, topic classification and others. As a result, natural language processing (NLP) applications are popular in important commercial contexts such as finance and healthcare.
+
+The Legal domain however is still largely underrepresented in the NLP literature despite its enormous potential for generating interesting research problems on a par with other important commercial areas. In fact the US Legal Services market alone is valued at 211 billion according to US government price indices.
+
+The accessibility of legal texts in the US in particular was an issue in the past preventing some researchers from working on legal NLP problems. Over the last few years however, more legal corpora have come online at low- or no-cost including the BYU Corpus, the Free Law Project and the expansion of resources published by the Library of Congress through Law.gov. A variety of growing electronic legal resources already exist free of charge for countries in Europe and Asia. Thus we feel that the timing is excellent to bring together researchers from around the world to focus on NLP problems in this area.
+
+We consider “legal text” to include litigation-related corpora such as dockets, opinions and court transcripts but also corpora based on patents, briefs, public financial filings, civil code, local ordinances, privacy policies, law enforcement records, congressional records and speeches.
