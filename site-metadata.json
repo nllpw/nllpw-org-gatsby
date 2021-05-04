@@ -13,7 +13,25 @@
             },
             {
                 "label": "Workshop",
-                "url": "/workshop/"
+                "url": "/workshop/",
+                "children": [
+                    {
+                        "label": "Call for Papers",
+                        "url": "/workshop/call/"
+                    },
+                    {
+                        "label": "Program",
+                        "url": "/workshop/program/"
+                    },
+                    {
+                        "label": "Committees",
+                        "url": "/workshop/committees/"
+                    },
+                    {
+                        "label": "Invited Speakers",
+                        "url": "/workshop/speakers/"
+                    }
+                ]
             },
             {
                 "label": "Resources",
