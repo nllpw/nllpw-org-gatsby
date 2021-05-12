@@ -1,5 +1,5 @@
 ---
-title: Just a Generic Page
+title: Committees Page
 subtitle: Just a generic subtitle for the page
 seo:
   title: Just a Generic Page

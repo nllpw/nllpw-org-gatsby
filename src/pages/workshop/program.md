@@ -1,5 +1,5 @@
 ---
-title: Just a Generic Page
+title: Program Page
 subtitle: Just a generic subtitle for the page
 seo:
   title: Just a Generic Page

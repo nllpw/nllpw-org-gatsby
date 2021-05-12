@@ -28,8 +28,18 @@
                         "url": "/workshop/committees/"
                     },
                     {
-                        "label": "Invited Speakers",
+                        "label": "Speakers",
                         "url": "/workshop/speakers/"
+                    },
+                    {
+                        "label": "NLLP 2020",
+                        "url": "https://sites.google.com/view/nllp/home",
+                        "new_window": true
+                    },
+                    {
+                        "label": "NLLP 2019",
+                        "url": "https://sites.google.com/view/nllp/nllp-2019",
+                        "new_window": true
                     }
                 ]
             },
