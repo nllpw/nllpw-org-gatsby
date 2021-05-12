@@ -21,8 +21,12 @@
     grid-template-rows: 1fr;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
-    
 }
     
 .grid-2-1-left { grid-area: 1 / 1 / 2 / 2; }
-.grid-2-1-right { grid-area: 1 / 2 / 2 / 3; }
+.grid-2-1-right { 
+    grid-area: 1 / 2 / 2 / 3; 
+    @media screen and (max-width: $tablet) {
+        display: none;
+    }
+}
