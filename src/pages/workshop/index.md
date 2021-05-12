@@ -1,5 +1,5 @@
 ---
-title: Just a Generic Page
+title: Workshop 2021 Page Title
 subtitle: Just a generic subtitle for the page
 seo:
   title: Just a Generic Page
@@ -27,8 +27,3 @@ Dates, location and that it’s collocated with EMNLP 2021.
 
 [Call for Papers](/workshop/call)
 
-[Program](/workshop/program)
-
-[Committees](/workshop/committees)
-
-[Invited Speakers](/workshop/speakers)
