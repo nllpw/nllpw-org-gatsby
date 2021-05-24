@@ -1,6 +1,6 @@
 ---
-title: Program Page
-subtitle: Just a generic subtitle for the page
+title: Program
+subtitle: Workshop schedule and presentation links
 seo:
   title: Just a Generic Page
   description: This is a generic page
@@ -23,4 +23,4 @@ seo:
 template: page
 ---
 
-Dates, location and that it’s collocated with EMNLP 2021.
+Coming soon

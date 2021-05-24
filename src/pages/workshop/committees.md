@@ -1,6 +1,6 @@
 ---
-title: Committees Page
-subtitle: Just a generic subtitle for the page
+title: Committees
+subtitle: Overview of the Organizing and Program Committees
 seo:
   title: Just a Generic Page
   description: This is a generic page
@@ -23,4 +23,14 @@ seo:
 template: page
 ---
 
-Dates, location and that it’s collocated with EMNLP 2021.
+## Organizing Committee 
+
+- [Nikolaos Aletras](http://nikosaletras.com) ― University of Sheffield
+- [Ion Androutsopoulos](http://www2.aueb.gr/users/ion/) ―  Athens University of Economics and Business
+- Leslie Barrett ― Bloomberg Law
+- [Catalina Goanta](https://www.maastrichtuniversity.nl/catalina.goanta) - Maastricht University
+- Daniel Preotiuc-Pietro ― Bloomberg LP
+
+## Programe Committee
+
+Coming soon
