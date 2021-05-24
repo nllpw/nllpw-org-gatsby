@@ -1,6 +1,6 @@
 ---
-title: NLLP 2021 Headline <3
-subtitle: Just a nllp subtitle for the page
+title: NLLP Workshop 2021
+subtitle: Third workshop on Natural Legal Language Processing <br> (co-located with EMNLP 2021)
 seo:
   title: Just a Generic Page
   description: This is a generic page
@@ -26,17 +26,20 @@ template: page
 <div class="grid-2-1">
   <div class="grid-2-1-left">
 
-**Slack**: link
+**Slack**: Join our [Slack community](https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw)
 
-**Youtube**: link
+**Youtube**: Watch our latest [Workshop and Talks presentations](https://www.youtube.com/channel/UCqqT9g-V0IsghloVF6S75dw)
 
-**Twitter**: link
+**Twitter**: Follow the latest developments in the [legal NLP community](https://twitter.com/nllpworkshop?lang=en)
 
-**Hashtag**: hashtag
+**Hashtags**: #nnlp #nlproc
 
-**Google Groups**: link 
+**Google Groups**: Join our mailing list on [Google groups](https://groups.google.com/forum/#!forum/nllp) 
 
-**E-mail**: email
+**Workshop PC**: Check out the members of the [Programme Committee](https://groups.google.com/forum/#!forum/nllp) 
+
+**E-mail**: Contact us [by email](nllp.chairs@gmail.com)
+
 
   </div>
 
@@ -47,18 +50,19 @@ template: page
 
 ## Goal
 
-We aim to bring together researchers and practitioners from Data Science (DS), Natural Language Processing (NLP), Machine Learning (ML) and other Artificial Intelligence (AI) disciplines, and the legal domain.
+The NLLP workshop series explores methods and applications of Natural Language Processing (NLP) for the Legal Domain by focusing on 1. legal text; and 2. text with legal significance. On the one hand, legal text (e.g., case law, legal rules, contracts) has distinct characteristics such as specialised vocabulary, particularly formal syntax, domain-specific semantics etc., to the extent that legal language is often classified as a ”sublanguage”, i.e. legalese which makes it challenging for generic NLP tools to work accurately. Developing novel NLP for legal text methods holds the promise of transforming the legal services sector (the US Legal Services market alone is valued at $211 billion according to US government price indices). On the other hand, the Internet is full of text with legal significance (e.g. detecting advertising language, dark patterns etc.), especially since national and supranational regulators have been paving the way to a new market focused on public interest technology such as consumer forensics. The interest of public authorities in developing market monitoring tools is at an all-time high, yet relevant multidisciplinary research expertise remains scattered.
 
-The NLLP workshop was held for the first time in 2019, collocated with the Conference of the North-American Association of Computational Linguistics (NAACL). The first edition consisted of 12 original papers, 9 of which are archived in the workshop proceedings.
+The growth and recognition of Legal NLP as an important research area is evidenced by the fact that legal NLP papers have recently been presented at the main sessions of top NLP conferences (including EMNLP 2019, ACL 2019, ACL 2020), some of which with preliminary versions presented at this workshop. The 2020 COLING CfP also lists Legal NLP as a distinct application domain.
 
-Building on the success of the first edition, the 2nd edition of the NLLP workshop will be collocated with KDD 2020.
 
 ## Motivation
 
-As electronic information becomes increasingly available around the world, automated tools for processing that information have grown apace. These tools can be especially effective and time-saving on text where information can be distilled in interesting ways including auto-summarization, named-entity extraction, machine translation, sentiment analysis, topic classification and others. As a result, natural language processing (NLP) applications are popular in important commercial contexts such as finance and healthcare.
+NLP technologies allow legal practitioners and decision-makers to make more informed decisions, optimize legal strategies and serve clients/consumers/citizens in a more cost-efficient way. The fast-paced, multi-jurisdictional world of law is a growing area of application for NLP, offering data sources which are often multilingual and multimodal. For example, evidentiary data sets used in private and public legal practice require in-depth image analysis and speech recognition technologies complement text data (e.g., opinions and judgments) currently dominating the area. Hence, the legal domain has enormous potential for generating interesting research problems on a par with other commercial areas such as Finance, Clinical Psychology and Healthcare, for which NLP-specific workshops have a strong history (FinNL, BioNLP, CLPsych, Clinical NLP among others). At the same time, legal NLP research can equally create societal impact by informing regulators how to best protect certain categories of citizens at risk (e.g. vulnerable consumers), or by enhancing citizen education and access to justice. The growth and recognition of Legal NLP as an important research area is evidenced by the fact that legal NLP papers have recently been presented at the main sessions of top NLP conferences (including EMNLP 2019, ACL 2019, ACL 2020), some of which with preliminary versions presented at this workshop. The 2020 COLING CfP also lists Legal NLP as a distinct application domain.
 
-The Legal domain however is still largely underrepresented in the NLP literature despite its enormous potential for generating interesting research problems on a par with other important commercial areas. In fact the US Legal Services market alone is valued at 211 billion according to US government price indices.
+Following the success of the first two editions of the NLLP workshop (NAACL 2019, KDD 2020), we aim to bring researchers and practitioners from NLP, machine learning and other artificial intelligence disciplines together with legal practitioners and researchers. We welcome submissions describing original work on:
 
-The accessibility of legal texts in the US in particular was an issue in the past preventing some researchers from working on legal NLP problems. Over the last few years however, more legal corpora have come online at low- or no-cost including the BYU Corpus, the Free Law Project and the expansion of resources published by the Library of Congress through Law.gov. A variety of growing electronic legal resources already exist free of charge for countries in Europe and Asia. Thus we feel that the timing is excellent to bring together researchers from around the world to focus on NLP problems in this area.
-
-We consider “legal text” to include litigation-related corpora such as dockets, opinions and court transcripts but also corpora based on patents, briefs, public financial filings, civil code, local ordinances, privacy policies, law enforcement records, congressional records and speeches.
+- **Applications and experimental results of NLP in legal tasks including**: Legal Citation Resolution, Case Outcome Analysis and Prediction, Models of Legal Reasoning, E-Discovery, Legal Document Summarization, Information Extraction, Information Retrieval, Bias and Privacy, etc.;
+- **New tasks**: Description of new legal tasks for NLP, structured overviews of a specific task with the goal of identifying new areas for research;
+- **Position papers** presenting new visions, challenges and changes to existing research practices;
+- **Resources**: Creation of publicly available curated and/or annotated data sets that can be used by the community;
+- **Demos**: System descriptions using NLP on legal data and industrial applications.
