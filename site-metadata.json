@@ -76,5 +76,6 @@
         ]
     },
     "title": "NLLP Workshop 2021",
-    "domain": "https://adorable-spider-f59d7.netlify.app"
+    "domain": "https://adorable-spider-f59d7.netlify.app",
+    "favicon": "/images/favicon.png"
 }
