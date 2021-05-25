@@ -1,6 +1,6 @@
 {
     "header": {
-        "title": "Stackbit Vanilla",
+        "title": "NLLP Workshop 2021",
         "has_nav": true,
         "nav_links": [
             {
@@ -75,6 +75,6 @@
             }
         ]
     },
-    "title": "Stackbit Vanilla Theme",
+    "title": "NLLP Workshop 2021",
     "domain": "https://adorable-spider-f59d7.netlify.app"
 }
