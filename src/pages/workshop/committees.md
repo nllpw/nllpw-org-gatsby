@@ -2,24 +2,26 @@
 title: Committees
 subtitle: Overview of the Organizing and Program Committees
 seo:
-  title: Just a Generic Page
-  description: This is a generic page
+  title: Committees
+  description: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. The program committee, the speakers and the official program will be updated soon.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Just a Generic Page
+      value: Committees - NLLP Workshop 2021
       keyName: property
     - name: 'og:description'
-      value: This is a generic page
+      value: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. The program committee, the speakers and the official program will be updated soon.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Just a Generic Page
+      value: Committees - NLLP Workshop 2021
     - name: 'twitter:description'
-      value: This is a generic page
+      value: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. The program committee, the speakers and the official program will be updated soon.
+    - name: 'keywords'
+      value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
 ---
 

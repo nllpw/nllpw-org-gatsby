@@ -2,24 +2,26 @@
 title: NLLP Workshop 2021
 subtitle: Third workshop on Natural Legal Language Processing <br> (co-located with EMNLP 2021)
 seo:
-  title: Just a Generic Page
-  description: This is a generic page
+  title: Home
+  description: Third workshop on Natural Legal Language Processing (NLLP 2021) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2021.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Just a Generic Page
+      value: NLLP Workshop 2021
       keyName: property
     - name: 'og:description'
-      value: This is a generic page
+      value: Third workshop on Natural Legal Language Processing (NLLP 2021) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2021.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Just a Generic Page
+      value: NLLP Workshop 2021
     - name: 'twitter:description'
-      value: This is a generic page
+      value: Third workshop on Natural Legal Language Processing (NLLP 2021) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2021.
+    - name: 'keywords'
+      value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
 ---
 
@@ -36,9 +38,9 @@ template: page
 
 **Google Groups**: Join our mailing list on [Google groups](https://groups.google.com/forum/#!forum/nllp) 
 
-**Workshop PC**: Check out the members of the [Programme Committee](https://groups.google.com/forum/#!forum/nllp) 
+**Workshop PC**: Check out the members of the [Programme Committee](/workshop/committees) 
 
-**E-mail**: Contact us [by email](nllp.chairs@gmail.com)
+**E-mail**: Contact us [by email](mailto:nllp.chairs@gmail.com)
 
 
   </div>

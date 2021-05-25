@@ -2,24 +2,26 @@
 title: NLLP Talks 
 subtitle: Informal multidisciplinary presentations and discussions of recent work 
 seo:
-  title: Talk Series
+  title: NLLP Talks
   description: This is a page about the Talk Series
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Talk Series
+      value: NLLP Talks - NLLP Workshop 2021
       keyName: property
     - name: 'og:description'
-      value: Talk Series
+      value: The NLLP Talks series brings together researchers from academia and industry working at the intersection of law and NLP. The group convenes every month and explores recent research in this multidisciplinary space
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Talk Series
+      value: NLLP Talks - NLLP Workshop 2021
     - name: 'twitter:description'
-      value: Talk Series
+      value: The NLLP Talks series brings together researchers from academia and industry working at the intersection of law and NLP. The group convenes every month and explores recent research in this multidisciplinary space
+    - name: 'keywords'
+      value: 'nllp, nllp talks, nllp presentations, emnlp, nlp, nlp talks, nlp presentations, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
 ---
 
