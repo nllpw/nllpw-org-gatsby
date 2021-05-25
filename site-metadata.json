@@ -50,27 +50,27 @@
         ]
     },
     "footer": {
-        "content": "&copy; NLLP 2021 Rulesss",
+        "content": "&copy; NLLP Workshop 2021. Built with  <a href=\"https://www.gatsbyjs.com/\" target=\"_blank\" rel=\"noopener\">Gatsby</a>. Deployed on  <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener\">Netlify</a>.",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/nllpworkshop?lang=en",
                 "new_window": true
             },
             {
                 "label": "Youtube",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.youtube.com/channel/UCqqT9g-V0IsghloVF6S75dw",
                 "new_window": true
             },
             {
                 "label": "Google Groups",
-                "url": "https://github.com/",
+                "url": "https://groups.google.com/forum/#!forum/nllp",
                 "new_window": true
             },
             {
                 "label": "Join us on Slack!",
-                "url": "https://www.linkedin.com/",
+                "url": "https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw",
                 "new_window": true
             }
         ]

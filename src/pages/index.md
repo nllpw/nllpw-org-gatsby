@@ -38,9 +38,9 @@ template: page
 
 **Google Groups**: Join our mailing list on [Google groups](https://groups.google.com/forum/#!forum/nllp) 
 
-**Workshop PC**: Check out the members of the [Programme Committee](https://groups.google.com/forum/#!forum/nllp) 
+**Workshop PC**: Check out the members of the [Programme Committee](/workshop/committees) 
 
-**E-mail**: Contact us [by email](nllp.chairs@gmail.com)
+**E-mail**: Contact us [by email](mailto:nllp.chairs@gmail.com)
 
 
   </div>
