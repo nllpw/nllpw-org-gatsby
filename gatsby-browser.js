@@ -4,6 +4,7 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
+
 // onPreRouteUpdate() and onRouteUpdate() are called before onInitialClientRender,
 // use initialized flag to ensure that window.onGatsbyPreRouteUpdate() and
 // window.onGatsbyRouteUpdate() will not be called before
