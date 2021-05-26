@@ -2,48 +2,86 @@
 title: Call for papers
 subtitle: Submit your legal NLP work to NLLP 2021
 seo:
-  title: Call for papers
-  description: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. The program committee, the speakers and the official program will be updated soon.
+  title: Just a Generic Page
+  description: This is a generic page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Call for papers - NLLP Workshop 2021
+      value: Just a Generic Page
       keyName: property
     - name: 'og:description'
-      value: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. The program committee, the speakers and the official program will be updated soon.
+      value: This is a generic page
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Call for papers - NLLP Workshop 2021
+      value: Just a Generic Page
     - name: 'twitter:description'
-      value: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. The program committee, the speakers and the official program will be updated soon.
-    - name: 'keywords'
-      value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
+      value: This is a generic page
 template: page
 ---
 
 ## Goal
 
-Following the success of the first two editions of the NLLP workshop (NAACL 2019, KDD 2020), we aim to bring researchers and practitioners from NLP, machine learning and other artificial intelligence disciplines together with legal practitioners and researchers. We welcome submissions describing original work on:
+Following the success of the first two editions of the NLLP workshop (NAACL 2019, KDD 2020), we aim to bring researchers and practitioners from NLP, machine learning and other artificial intelligence disciplines together with legal practitioners and researchers. We welcome submissions describing original work on legal data, as well as data with legal relevance, such as:
 
-- **Applications and experimental results of NLP in legal tasks** including: Legal Citation Resolution, Case Outcome Analysis and Prediction, Models of Legal Reasoning, E-Discovery, Legal Document Summarization, Information Extraction, Information Retrieval, Bias and Privacy, etc.;
-- **New tasks**: Description of new legal tasks for NLP, structured overviews of a specific task with the goal of identifying new areas for research;
-- **Position papers** presenting new visions, challenges and changes to existing research practices;
-- **Resources**: Creation of publicly available curated and/or annotated data sets that can be used by the community;
-- **Demos**: System descriptions using NLP on legal data and industrial applications.
+**Applications of DS/AI/NLP/ML to legal tasks including:** 
+- Legal Citation Resolution
+- Case Outcome Analysis and Prediction
+- Models of Legal Reasoning
+- E-Discovery
+- Lexical and other Data Resources for the Legal Domain
+- Bias and Privacy 
+
+**Experimental results using and adapting DS/AI/NLP/ML methods for legal data including:** 
+- Classification
+- Information Retrieval
+- Anomaly Detection
+- Clustering
+- Knowledge Base Population
+- Multimedia Search
+- Link Analysis
+- Entity Recognition and Disambiguation
+- Training and Using Embeddings
+- Parsing
+- Dialogue and Discourse Analysis
+- Text Summarization and Generation
+- Relation and Event Extraction
+- Anaphora Resolution
+- Question Answering
+- Query Understanding
+- Combining Text with Structured Data
+
+**Tasks**
+- Description of new legal tasks for DS/AI/NLP/ML
+- Structured overviews of a specific task with the goal of identifying new areas for research
+- Position papers presenting new visions, challenges and changes to existing research practices
+
+**Resources**
+- Creation of curated and/or annotated data sets that can be publicly released and used by the community to advance the field
+
+**Demos**
+- Descriptions of systems which use DS/AI/NLP/ML technologies for legal text 
+
+**Industrial Research**
+- Industrial applications
+- Papers describing research on proprietary data
+
+**Interdisciplinary position papers**
+- Legal or socio-legal analyses relating to the role NLP can play in the legal field
+- Critical reflections on the legality and ethics of data collection and processing practices
 
 ## Submission
 
 We accept papers reporting original (unpublished) research of two types:
-- Long papers (max 6 pages + references)
-- Short papers (max 3 pages + references)
+- Long papers (max 8 pages + references);
+- Short papers (max 4 pages + references).
 
 To submit a paper, please access the [submission link]().
 
-Conference proceedings will be published on the CEUR Workshop Proceedings.
+Conference proceedings will be published on the ACL Anthology.
 
 ### Non-archival option
 
@@ -63,7 +101,7 @@ The review process is double-blind. Submitted papers must not include author nam
 
 ### Submission Style & Format Guidelines
 
-Submissions to the workshop must be in PDF and formatted according to the new Standard ACM Conference Proceedings Template. For LaTeX users: unzip acmart.zip, make, and use sample-sigconf.tex as a template.
+Submissions to the workshop must be in PDF and formatted according to the new Standard ACL Conference Proceedings Template. For LaTeX users: unzip acmart.zip, make, and use sample-sigconf.tex as a template.
 Additional information about formatting and style files is available online at: https://www.acm.org/publications/proceedings-template.
 Papers that do not meet the formatting requirements will be rejected without review.
 

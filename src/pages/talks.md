@@ -33,4 +33,15 @@ The NLLP Talks series brings together researchers from academia and industry wor
 
 ## Past presentations
 
+
+### April 2021
+
+- Ilias Chalkidis presented his work on ["Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases"](https://arxiv.org/abs/2103.13084). This paper was further discussed by Gijs van Dijck.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AWyuI065o2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### May 2021
+
+- Andrea Galassi & Kasper Drazewski presented their work on [cross-lingual annotation in legal texts](https://www.aclweb.org/anthology/2020.coling-main.79/). This paper was further discussed by Monika Leszczynska.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fImtpIRKf4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
