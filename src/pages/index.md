@@ -36,9 +36,7 @@ template: page
 
 **Hashtags**: #nnlp #nlproc
 
-**Google Groups**: Join our mailing list on [Google groups](https://groups.google.com/forum/#!forum/nllp) 
-
-**Workshop PC**: Check out the members of the [Programme Committee](/workshop/committees) 
+**Google Groups**: Join our mailing list on [Google groups](https://groups.google.com/forum/#!forum/nllp)  
 
 **E-mail**: Contact us [by email](mailto:nllp.chairs@gmail.com)
 
