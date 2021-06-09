@@ -36,18 +36,44 @@ Following the success of the first two editions of the NLLP workshop (NAACL 2019
   - E-Discovery
   - Lexical and other Data Resources for the Legal Domain
   - Bias and Privacy
-- **Experimental results using and adapting NLP methods for legal data including**: Classification, Information Retrieval, Anomaly Detection, Clustering, Knowledge Base Population, Multimedia Search, Link Analysis, Entity Recognition and Disambiguation, Training and Using Embeddings, Parsing, Dialogue and Discourse Analysis, Text Summarization and Generation, Relation and Event Extraction, Anaphora Resolution, Question Answering, Query Understanding, Combining Text with Structured Data;
-- **Tasks**: Description of new legal tasks for NLP, Structured overviews of a specific task with the goal of identifying new areas for research, Position papers presenting new visions, challenges and changes to existing research practices;
-- **Resources**: Creation of curated and/or annotated data sets that can be publicly released and used by the community to advance the field;
-- **Demos**: Descriptions of systems which use NLP technologies for legal text;
-- **Industrial Research**: Industrial applications, Papers describing research on proprietary data;
-- **Interdisciplinary position papers**: Legal or socio-legal analyses relating to the role NLP can play in the legal field, Critical reflections on the legality and ethics of data collection and processing practices.
+- Experimental results using and adapting NLP methods for legal data including:
+  - Classification
+  - Information Retrieval
+  - Anomaly Detection
+  - Clustering
+  - Knowledge Base Population
+  - Multimedia Search
+  - Link Analysis
+  - Entity Recognition and Disambiguation
+  - Training and Using Embeddings
+  - Parsing
+  - Dialogue and Discourse Analysis
+  - Text Summarization and Generation
+  - Relation and Event Extraction
+  - Anaphora Resolution
+  - Question Answering
+  - Query Understanding
+  - Combining Text with Structured Data
+- Tasks:
+  - Description of new legal tasks for NLP
+  - Structured overviews of a specific task with the goal of identifying new areas for research
+  - Position papers presenting new visions, challenges and changes to existing research practices
+- Resources:
+  - Creation of curated and/or annotated data sets that can be publicly released and used by the community to advance the field
+- Demos:
+  - Descriptions of systems which use NLP technologies for legal text;
+- Industrial Research:
+  - Industrial applications
+  - Papers describing research on proprietary data
+- Interdisciplinary position papers:
+  - Legal or socio-legal analyses relating to the role NLP can play in the legal field
+  - Critical reflections on the legality and ethics of data collection and processing practices
 
 ## Submission
 
 We accept papers reporting original (unpublished) research of two types:
 - Long papers (max 8 pages + references)
-- Short papers (max 5 pages + references)
+- Short papers (max 4 pages + references)
 
 To submit a paper, please access the [submission link](https://www.softconf.com/emnlp2021/nllp/).
 
