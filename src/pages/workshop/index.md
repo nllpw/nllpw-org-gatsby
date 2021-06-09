@@ -26,13 +26,13 @@ template: page
 
 NLLP Workshop 2021 will take place on 10 November 2021, co-located with [EMNLP 2021](https://2021.emnlp.org/). 
 
-Call for papers is [now available](https://nllpw.org/workshop/call/).
+The call for papers is [now available](https://nllpw.org/workshop/call/).
 
-Invited Speakers:
+#### Invited Speakers:
 - [John Armour](https://www.law.ox.ac.uk/people/john-armour) - Oxford Law
 - [Sylvie Delacroix](https://www.birmingham.ac.uk/staff/profiles/law/delacroix-sylvie.aspx) - Birmingham Law & Alan Turing Institute
 
-Important Dates:
+#### Important Dates:
 - Submission deadline ― 20 August 2021
 - Notification ― 10 September 2021
 - Camera ready ― 17 September 2021
@@ -40,6 +40,6 @@ Important Dates:
 
 All deadlines are 11.59pm UTC -12h
 
-Past editions:
+#### Past editions:
 - [NLLP 2020](https://sites.google.com/view/nllp/home)
 - [NLLP 2019](https://sites.google.com/view/nllp/nllp-2019)

@@ -13,13 +13,13 @@ If you have any suggestions for additions to the lists below, please reach out t
 
 ## Publications
 
-### 2021
+#### 2021
 
 - Josef Valvoda, Tiago Pimentel, Niklas Stoehr, Ryan Cotterell, Simone Teufel: [*What About the Precedent: An Information-Theoretic Analysis of Common Law*](https://www.aclweb.org/anthology/2021.naacl-main.181.pdf). NAACL 2021
 - Ilias Chalkidis, Manos Fergadiotis, Dimitrios Tsarapatsanis, Nikolaos Aletras, Ion Androutsopoulos, Prodromos Malakasiotis: [*Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf). NAACL 2021
 - Dan Hendrycks, Collin Burns, Anya Chen, Spencer Ball: [*CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review*](https://arxiv.org/pdf/2103.06268.pdf)
 
-### 2020
+#### 2020
 
 - [NLLP 2020 Proceedings](http://ceur-ws.org/Vol-2645/)
 - Andrea Galassi, Kasper Drazewski, Marco Lippi, Paolo Torroni: [*Cross-lingual Annotation Projection in Legal Texts*](https://www.aclweb.org/anthology/2020.coling-main.79.pdf). COLING 2020
@@ -35,17 +35,18 @@ If you have any suggestions for additions to the lists below, please reach out t
 - Nuo Xu, Pinghui Wang, Long Chen, Li Pan, Xiaoyan Wang, Junzhou Zhao: [*Distinguish Confusing Law Articles for Legal Judgment Prediction*](https://arxiv.org/pdf/2004.02557.pdf). ACL 2020
 -  Elliott Ash, Sam Asher, Aditi Bhowmick, daniel Chen, Tanaya Devi, Christoph Goessmann, Paul Novosad, Bilal Siddiqi: [*Measuring Gender and Religious Bias in the Indian Judiciary*](https://shrug-assets-ddl.s3.amazonaws.com/static/main/assets/other/India_Courts_In_Group_Bias.pdf)
 
-### 2019
+#### 2019
 
 - [NLLP 2019 Proceedings](http://ceur-ws.org/Vol-2645/)
 - Abhilasha Ravichander, Alan W Black, Shomir Wilson, Thomas Norton and Norman Sadeh: [*Question Answering for Privacy Policies: Combining Computational and Legal Perspectives*](https://www.aclweb.org/anthology/D19-1500.pdf). EMNLP 2019
 - Paheli Bhattacharya, Kaustubh Hiware, Subham Rajgaria, Nilay Pochhi, Kripabandhu Ghosh, Saptarshi Ghosh: [*A Comparative Study of Summarization Algorithms Applied to Legal Case Judgments*](https://www.researchgate.net/publication/332256965_A_Comparative_Study_of_Summarization_Algorithms_Applied_to_Legal_Case_Judgments). ECIR 2019
 
-### 2018
+#### 2018
 
 - Haoxi Zhong, Zhipeng Guo, Cunchao Tu, Chaojun Xiao, Zhiyuan Liu, Maosong Sun: [*Legal Judgment Prediction via Topological Learning*](https://www.aclweb.org/anthology/D18-1390/). EMNLP 2018
 
 ## Data sets
+
 - [Open Legal Data project (German legal data)](http://openlegaldata.io/)
 - [EURLEX57K dataset](http://nlp.cs.aueb.gr/software_and_datasets/EURLEX57K/index.html) [[Chalkidis et al, 2019]](https://www.aclweb.org/anthology/W19-2209/) 
 - [Datasets from Lynx project](http://data.lynx-project.eu/dataset)
@@ -72,11 +73,13 @@ If you have any suggestions for additions to the lists below, please reach out t
 - [Securities Class Action Clearinghouse (Stanford Law)](https://securities.stanford.edu)
 
 ## Models
+
 - [Legal BERT](https://huggingface.co/nlpaueb/legal-bert-base-uncased) [[Chalkidis et al, 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.261/)
 - [NER Models for legal entities in German](https://github.com/elenanereiss/Legal-Entity-Recognition) [Leitner et al, 2020](https://www.aclweb.org/anthology/2020.lrec-1.551.pdf)
 - [Legal GPT-1 and GPT-2](https://github.com/applicaai/contract-discovery) [[Borchmann et al, 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.380.pdf)
 
 ## Related events and workshops
+
 - [International Conference on Artificial Intelligence and Law 2021 (ICAIL 2021)](https://icail.lawgorithm.com.br/)
 - [NLLP 2019 Workshop (NAACL 2019)](https://sites.google.com/view/nllp/nllp-2019?authuser=0)
 - [AI4LEGAL Workshop (ISWC 2019)](http://kr.di.uoa.gr/#iswc19-workshop)
@@ -88,5 +91,6 @@ If you have any suggestions for additions to the lists below, please reach out t
 - [Artificial Intelligence and the Law - Springer](https://www.springer.com/journal/10506)
 
 ## Other
+
 - [International Association for Artificial Intelligence and Law](http://www.iaail.org/)
 - [Special issue of the Artificial Intelligence and Law journal on Legal Text Analytics](https://link.springer.com/journal/10506/26/2/page/1)

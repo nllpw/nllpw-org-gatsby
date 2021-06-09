@@ -29,7 +29,13 @@ template: page
 
 Following the success of the first two editions of the NLLP workshop (NAACL 2019, KDD 2020), we aim to bring researchers and practitioners from NLP, machine learning and other artificial intelligence disciplines together with legal practitioners and researchers. We welcome submissions describing original work on legal data, as well as data with legal relevance, such as:
 
-- **Applications of NLP to legal tasks including, but not limited to**: Legal Citation Resolution, Case Outcome Analysis and Prediction, Models of Legal Reasoning, E-Discovery, Lexical and other Data Resources for the Legal Domain, Bias and Privacy;
+- Applications of NLP to legal tasks including, but not limited to:
+  - Legal Citation Resolution
+  - Case Outcome Analysis and Prediction
+  - Models of Legal Reasoning
+  - E-Discovery
+  - Lexical and other Data Resources for the Legal Domain
+  - Bias and Privacy
 - **Experimental results using and adapting NLP methods for legal data including**: Classification, Information Retrieval, Anomaly Detection, Clustering, Knowledge Base Population, Multimedia Search, Link Analysis, Entity Recognition and Disambiguation, Training and Using Embeddings, Parsing, Dialogue and Discourse Analysis, Text Summarization and Generation, Relation and Event Extraction, Anaphora Resolution, Question Answering, Query Understanding, Combining Text with Structured Data;
 - **Tasks**: Description of new legal tasks for NLP, Structured overviews of a specific task with the goal of identifying new areas for research, Position papers presenting new visions, challenges and changes to existing research practices;
 - **Resources**: Creation of curated and/or annotated data sets that can be publicly released and used by the community to advance the field;
