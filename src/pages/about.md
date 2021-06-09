@@ -27,13 +27,13 @@ template: page
 
 ## Goal
 
-The NLLP community aims to bring together researchers and practitioners from Natural Language Processing (NLP) and the legal domain who working on methods and applications of Natural Language Processing by focusing on legal text and text with legal significance.
+The NLLP community aims to bring together researchers and practitioners from Natural Language Processing (NLP) and the legal domain who work on methods and applications of Natural Language Processing by focusing on legal text and text with legal significance.
  
 Legal text has distinct characteristics such as specialised vocabulary, particularly formal syntax, domain-specific semantics etc., to the extent that legal language is often classified as a 'sublanguage' which makes it challenging for generic NLP tools to work accurately.
 
 We consider legal text to include litigation-related corpora such as dockets, opinions and court transcripts but also corpora based on patents, briefs, public financial filings, civil code, local ordinances, privacy policies, law enforcement records, congressional records and speeches.
 
-Developing novel NLP for legal text methods holds the promise of transforming the legal services sector, with the US Legal Services market alone is valued at $211 billion according to US government price indices.
+Developing novel NLP for legal text methods holds the promise of transforming the legal services sector, with the US Legal Services market alone valued at $211 billion according to US government price indices.
  
 On the other hand, the Internet is full of text with legal significance (e.g. advertising language, dark patterns), especially since national and supranational regulators have been paving the way to a new market focused on public interest technology such as consumer forensics.
 
