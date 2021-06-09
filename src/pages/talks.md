@@ -39,9 +39,7 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 **Date**: 14 May 2021
 
-**Title**: Cross-lingual Annotation Projection in Legal Texts
-
-**[Paper](https://www.aclweb.org/anthology/2020.coling-main.79.pdf)**
+**Title**: Cross-lingual Annotation Projection in Legal Texts ([Paper](https://www.aclweb.org/anthology/2020.coling-main.79.pdf))
 
 **Speakers**: Andrea Galassi (University of Bologna), Kasper Drazewski (Bureau Europeen des Unions de Consommateurs)
 
@@ -53,9 +51,7 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 **Date**: 16 April 2021
 
-**Title**: Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases
-
-**[Paper](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf)**
+**Title**: Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases ([Paper](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf))
 
 **Speaker**: Ilias Chalkidis (Athens University of Economics and Business)
 
