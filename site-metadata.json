@@ -58,23 +58,28 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/nllpworkshop?lang=en",
+                "label": "Slack",
+                "url": "https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw",
                 "new_window": true
-            },
+            },	    
             {
                 "label": "Youtube",
                 "url": "https://www.youtube.com/channel/UCqqT9g-V0IsghloVF6S75dw",
                 "new_window": true
             },
             {
+                "label": "Twitter",
+                "url": "https://twitter.com/nllpworkshop?lang=en",
+                "new_window": true
+            },    
+            {
                 "label": "Google Groups",
                 "url": "https://groups.google.com/forum/#!forum/nllp",
                 "new_window": true
             },
             {
-                "label": "Slack",
-                "url": "https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw",
+                "label": "E-Mail",
+                "url": "mailto:nllp.chairs@gmail.com",
                 "new_window": true
             }
         ]
