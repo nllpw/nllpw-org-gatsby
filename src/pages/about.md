@@ -12,16 +12,14 @@ seo:
       value: About NLLP - NLLP
       keyName: property
     - name: 'og:description'
-      value: The NLLP community aims to bring together researchers and practitioners from Natural Language Processing (NLP) and the legal domain who working on methods and applications of Natural Language Processing by focusing on:
-1. legal text; and 2. text with legal significance.
+      value: The NLLP community aims to bring together researchers and practitioners from Natural Language Processing (NLP) and the legal domain who working on methods and applications of Natural Language Processing by focusing on legal text and text with legal significance.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: About NLLP - NLLP
     - name: 'twitter:description'
-      value: The NLLP community aims to bring together researchers and practitioners from Natural Language Processing (NLP) and the legal domain who working on methods and applications of Natural Language Processing by focusing on:
-1. legal text; and 2. text with legal significance.
+      value: The NLLP community aims to bring together researchers and practitioners from Natural Language Processing (NLP) and the legal domain who working on methods and applications of Natural Language Processing by focusing on legal text and text with legal significance.
     - name: 'keywords'
       value: 'nllp, nllp talks, nllp presentations, emnlp, nlp, nlp talks, nlp presentations, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
