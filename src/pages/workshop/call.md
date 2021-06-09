@@ -3,7 +3,7 @@ title: Call for papers
 subtitle: Submit your legal NLP work to NLLP 2021
 seo:
   title: Call for papers
-  description: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. The program committee, the speakers and the official program will be updated soon.
+  description: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. 
   extra:
     - name: 'og:type'
       value: website
@@ -12,14 +12,14 @@ seo:
       value: Call for papers - NLLP Workshop 2021
       keyName: property
     - name: 'og:description'
-      value: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. The program committee, the speakers and the official program will be updated soon.
+      value: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Call for papers - NLLP Workshop 2021
     - name: 'twitter:description'
-      value: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. The program committee, the speakers and the official program will be updated soon.
+      value: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021.
     - name: 'keywords'
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
