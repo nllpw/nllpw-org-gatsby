@@ -1,6 +1,6 @@
 {
     "header": {
-        "title": "NLLP Workshop 2021",
+        "title": "NLLP",
         "has_nav": true,
         "nav_links": [
             {
@@ -46,11 +46,15 @@
             {
                 "label": "Resources",
                 "url": "/resources/"
-            }
+            },
+	    {
+		"label": "About",
+		"url": "/about/"
+	    }
         ]
     },
     "footer": {
-        "content": "&copy; NLLP Workshop 2021. Built with  <a href=\"https://www.gatsbyjs.com/\" target=\"_blank\" rel=\"noopener\">Gatsby</a>. Deployed on  <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener\">Netlify</a>.",
+        "content": "&copy; NLLP 2021. Built with  <a href=\"https://www.gatsbyjs.com/\" target=\"_blank\" rel=\"noopener\">Gatsby</a>. Deployed on  <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener\">Netlify</a>.",
         "has_social": true,
         "social_links": [
             {
@@ -69,13 +73,13 @@
                 "new_window": true
             },
             {
-                "label": "Join us on Slack!",
+                "label": "Slack",
                 "url": "https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw",
                 "new_window": true
             }
         ]
     },
-    "title": "NLLP Workshop 2021",
+    "title": "NLLP 2021",
     "domain": "https://adorable-spider-f59d7.netlify.app",
     "favicon": "/images/favicon.png",
     "seoPreview": "https://adorable-spider-f59d7.netlify.app/images/prev.png"
