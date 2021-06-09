@@ -29,8 +29,7 @@ template: page
 
 ## Goal
 
-The NLLP community aims to bring together researchers and practitioners from Natural Language Processing (NLP) and the legal domain who working on methods and applications of Natural Language Processing by focusing on:
-1. legal text; and 2. text with legal significance.
+The NLLP community aims to bring together researchers and practitioners from Natural Language Processing (NLP) and the legal domain who working on methods and applications of Natural Language Processing by focusing on legal text and text with legal significance.
  
 Legal text has distinct characteristics such as specialised vocabulary, particularly formal syntax, domain-specific semantics etc., to the extent that legal language is often classified as a 'sublanguage' which makes it challenging for generic NLP tools to work accurately.
 
