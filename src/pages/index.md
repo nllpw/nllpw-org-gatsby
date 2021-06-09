@@ -1,6 +1,6 @@
 ---
-title: NLLP Workshop 2021
-subtitle: Third workshop on Natural Legal Language Processing <br> (co-located with EMNLP 2021)
+title: Natural Legal Language Processing - NLLP
+subtitle: Natural Legal Language Processing - NLLP
 seo:
   title: Home
   description: Third workshop on Natural Legal Language Processing (NLLP 2021) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2021.
@@ -42,15 +42,15 @@ template: page
 
 ## Organizers
 
-[Nikolaos Aletras ― University of Sheffield](http://www.nikosaletras.com/)
+[Nikolaos Aletras](http://www.nikosaletras.com/) - University of Sheffield
 
-[Ion Androutsopoulos ― Athens University of Economics and Business](http://www.aueb.gr/users/ion/)
+[Ion Androutsopoulos](http://www.aueb.gr/users/ion/)  ― Athens University of Economics and Business
 
 Leslie Barrett ― Bloomberg Law
 
-[Catalina Goanta ― Maastricht University](https://www.maastrichtuniversity.nl/catalina.goanta)
+[Catalina Goanta](https://www.maastrichtuniversity.nl/catalina.goanta) - Maastricht University
 
-[Daniel Preotiuc-Pietro ― Bloomberg](http://www.preotiuc.ro)
+[Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg
 
   </div>
 
