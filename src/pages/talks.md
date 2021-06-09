@@ -40,18 +40,26 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 ## Past talks
 
-Date: 14 May 2021
-Title: Cross-lingual Annotation Projection in Legal Texts
-[Paper](https://www.aclweb.org/anthology/2020.coling-main.79.pdf)
-Speakers: Andrea Galassi (University of Bologna), Kasper Drazewski (Bureau Europeen des Unions de Consommateurs)
-Discussant: Monika Leszczynska (Maastricht University)
+**Date**: 14 May 2021
+
+**Title**: Cross-lingual Annotation Projection in Legal Texts
+
+**[Paper](https://www.aclweb.org/anthology/2020.coling-main.79.pdf)**
+
+**Speakers**: Andrea Galassi (University of Bologna), Kasper Drazewski (Bureau Europeen des Unions de Consommateurs)
+
+**Discussant**: Monika Leszczynska (Maastricht University)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fImtpIRKf4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Date: 16 April 2021
-Title: Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases
-[Paper](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf)
-Speaker: Ilias Chalkidis (Athens University of Economics and Business)
-Discussant: Gijs van Dijck (Maastricht University)
+**Date**: 16 April 2021
+
+**Title**: Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases
+
+**[Paper](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf)**
+
+**Speaker**: Ilias Chalkidis (Athens University of Economics and Business)
+
+**Discussant**: Gijs van Dijck (Maastricht University)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AWyuI065o2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
