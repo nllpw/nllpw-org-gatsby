@@ -26,7 +26,7 @@ template: page
 
 NLLP Workshop 2021 will take place on 10 November 2021, co-located with [EMNLP 2021](https://2021.emnlp.org/). 
 
-Call for papers is (now available)[https://nllpw.org/workshop/call/].
+Call for papers is [now available](https://nllpw.org/workshop/call/).
 
 Invited Speakers:
 - [John Armour](https://www.law.ox.ac.uk/people/john-armour) - Oxford Law

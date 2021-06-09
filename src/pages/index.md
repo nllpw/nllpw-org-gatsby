@@ -1,6 +1,6 @@
 ---
 title: Natural Legal Language Processing - NLLP
-subtitle: Natural Legal Language Processing - NLLP
+subtitle: 
 seo:
   title: Home
   description: Third workshop on Natural Legal Language Processing (NLLP 2021) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2021.
