@@ -25,12 +25,33 @@ seo:
 template: page
 ---
 
-The NLLP Talks series brings together researchers from academia and industry working at the intersection of law and NLP. The group convenes every month and explores recent research in this multidisciplinary space. By featuring presenters and discussants from complementary disciplines, the NLLP Talks series aims to further bridge law and computational linguistics. If you are interested in joining any of the events, presenting or discussing recent work, do reach out to us on the [Slack channel](https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw)! 
-
 ![Block Image](/images/talks.png)
 
+The NLLP Talks series brings together researchers from academia and industry working at the intersection of law and NLP. The talks explore in depth recent research in this multidisciplinary space. By featuring presenters and discussants from complementary disciplines, the NLLP Talks series aims to further bridge law and computational linguistics.
+
+The talks are scheduled every month on Fridays at 8am PST/11am EST/16 UK/17 CET time.
+
+Please follow announcements of upcoming talks on Twitter or our [Slack channel](https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw)
+
+Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish to present in this series.
+
+## Upcoming talks
 
 
-## Past presentations
+## Past talks
+
+Date: 14 May 2021
+Title: Cross-lingual Annotation Projection in Legal Texts
+[Paper](https://www.aclweb.org/anthology/2020.coling-main.79.pdf)
+Speakers: Andrea Galassi (University of Bologna), Kasper Drazewski (Bureau Europeen des Unions de Consommateurs)
+Discussant: Monika Leszczynska (Maastricht University)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fImtpIRKf4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Date: 16 April 2021
+Title: Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases
+[Paper](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf)
+Speaker: Ilias Chalkidis (Athens University of Economics and Business)
+Discussant: Gijs van Dijck (Maastricht University)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AWyuI065o2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

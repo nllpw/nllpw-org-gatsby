@@ -1,61 +1,49 @@
 ---
 title: Resources
-subtitle: Papers, models, data sets, and related events to NLLP 2021
+subtitle: 
 seo:
   title: Resources
-  description: Papers, models, data sets, and related events to NLLP 2021
+  description: Pubplication, models, data sets, and related events to NLLP 2021
   robots: 
     - nofollow
 template: page
 ---
 
-## Papers
+If you have any suggestions for additions to the lists below, please reach out to the [organizers](mailto:nllp.chairs@gmail.com).
 
-NAACL 2021
-- Ilias Chalkidis, Manos Fergadiotis, Dimitrios Tsarapatsanis, Nikolaos Aletras, Ion Androutsopoulos, Prodromos Malakasiotis: [*Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*](https://arxiv.org/pdf/2103.13084.pdf)
+## Publications
 
-COLING 2020
-- Andrea Galassi, Kasper Drazewski, Marco Lippi, Paolo Torroni: [*Cross-lingual Annotation Projection in Legal Texts*](https://www.aclweb.org/anthology/2020.coling-main.79.pdf) 
-- Phi Manh Kien, Ha-Thanh Nguyen, Ngo Xuan Bach, Vu Tran, Minh Le Nguyen, Tu Minh Phuong: [*Answering Legal Questions by Learning Neural Attentive Text Representation*](https://www.aclweb.org/anthology/2020.coling-main.86.pdf)
-- Shirong Shen, Guilin Qi, Zhen Li, Sheng Bi, Lusheng Wang: [*Hierarchical Chinese Legal event extraction via Pedal Attention Mechanism*](https://www.aclweb.org/anthology/2020.coling-main.9.pdf)
-- Yanguang Chen, Yuanyuan Sun, Zhihao Yang, Hongfei Lin: [*Joint Entity and Relation Extraction for Legal Documents with Legal Feature Enhancement*](https://www.aclweb.org/anthology/2020.coling-main.137.pdf)
+2021
 
-EMNLP 2020
-- Yiquan Wu, Kun Kuang, Yating Zhang, Xiaozhong Liu, Changlong Sun, Jun Xiao, Yueting Zhuang, Luo Si, Fei Wu: [*De-Biased Court’s View Generation with Causality*](https://www.aclweb.org/anthology/2020.emnlp-main.56.pdf)
-
-Findings of EMNLP 2020
-
-- Ilias Chalkidis, Manos Fergadiotis, Prodromos Malakasiotis, Nikolaos Aletras, Ion Androutsopoulos: [*LEGAL-BERT: The Muppets straight out of Law School*](https://arxiv.org/pdf/2010.02559.pdf)
-- Łukasz Borchmann, Dawid Wisniewski, Andrzej Gretkowski, Izabela Kosmala, Dawid Jurkiewicz, Łukasz Szałkiewicz, Gabriela Pałka, Karol Kaczmarek, Agnieszka Kaliska, Filip Graliński: [*Contract Discovery: Dataset and a Few-Shot Semantic Retrieval Challenge with Competitive Baselines*](https://arxiv.org/pdf/1911.03911.pdf)
-
-AAAI 2020
-
-- Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun: [*Jec-qa: A legal-domain question answering dataset*](https://arxiv.org/pdf/1911.12011.pdf)
-
-- Haoxi Zhong, Yuzhong Wang, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun: [*Iteratively Questioning and Answering for Interpretable Legal Judgment Prediction*](https://www.researchgate.net/publication/341875048_Iteratively_Questioning_and_Answering_for_Interpretable_Legal_Judgment_Prediction)
-
-ACL 2020
-
-- Nuo Xu, Pinghui Wang, Long Chen, Li Pan, Xiaoyan Wang, Junzhou Zhao: [*Distinguish Confusing Law Articles for Legal Judgment Prediction*](https://arxiv.org/pdf/2004.02557.pdf)
-
-EMNLP 2019
-
-- Abhilasha Ravichander, Alan W Black, Shomir Wilson, Thomas Norton and Norman Sadeh: [*Question Answering for Privacy Policies: Combining Computational and Legal Perspectives*](https://www.aclweb.org/anthology/D19-1500.pdf)
-
-ECIR 2019
-
-- Paheli Bhattacharya, Kaustubh Hiware, Subham Rajgaria, Nilay Pochhi, Kripabandhu Ghosh, Saptarshi Ghosh: [*A Comparative Study of Summarization Algorithms Applied to Legal Case Judgments*](https://www.researchgate.net/publication/332256965_A_Comparative_Study_of_Summarization_Algorithms_Applied_to_Legal_Case_Judgments)
-
-EMNLP 2018
-
-- Haoxi Zhong, Zhipeng Guo, Cunchao Tu, Chaojun Xiao, Zhiyuan Liu, Maosong Sun: [*Legal Judgment Prediction via Topological Learning*](https://www.aclweb.org/anthology/D18-1390/)
-
-Others
-
-- Elliott Ash, Sam Asher, Aditi Bhowmick, daniel Chen, Tanaya Devi, Christoph Goessmann, Paul Novosad, Bilal Siddiqi: [*Measuring Gender and Religious Bias in the Indian Judiciary*](https://shrug-assets-ddl.s3.amazonaws.com/static/main/assets/other/India_Courts_In_Group_Bias.pdf)
+- Josef Valvoda, Tiago Pimentel, Niklas Stoehr, Ryan Cotterell, Simone Teufel: [*What About the Precedent: An Information-Theoretic Analysis of Common Law*](https://www.aclweb.org/anthology/2021.naacl-main.181.pdf). NAACL 2021
+- Ilias Chalkidis, Manos Fergadiotis, Dimitrios Tsarapatsanis, Nikolaos Aletras, Ion Androutsopoulos, Prodromos Malakasiotis: [*Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf). NAACL 2021
 - Dan Hendrycks, Collin Burns, Anya Chen, Spencer Ball: [*CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review*](https://arxiv.org/pdf/2103.06268.pdf)
-- Prakash Poudyal, Jaromir Savelka, Aagje Ieven, Marie Francine Moens,Teresa Goncalves, Paulo Quaresma: [*ECHR: Legal Corpus for Argument Mining*](https://www.aclweb.org/anthology/2020.argmining-1.8.pdf)
-- Other ideas: [Github repository on legal papers](https://github.com/thunlp/LegalPapers)
+
+2020
+
+- [NLLP 2020 Proceedings](http://ceur-ws.org/Vol-2645/)
+- Andrea Galassi, Kasper Drazewski, Marco Lippi, Paolo Torroni: [*Cross-lingual Annotation Projection in Legal Texts*](https://www.aclweb.org/anthology/2020.coling-main.79.pdf). COLING 2020
+- Phi Manh Kien, Ha-Thanh Nguyen, Ngo Xuan Bach, Vu Tran, Minh Le Nguyen, Tu Minh Phuong: [*Answering Legal Questions by Learning Neural Attentive Text Representation*](https://www.aclweb.org/anthology/2020.coling-main.86.pdf). COLING 2020
+- Shirong Shen, Guilin Qi, Zhen Li, Sheng Bi, Lusheng Wang: [*Hierarchical Chinese Legal event extraction via Pedal Attention Mechanism*](https://www.aclweb.org/anthology/2020.coling-main.9.pdf). COLING 2020
+- Yanguang Chen, Yuanyuan Sun, Zhihao Yang, Hongfei Lin: [*Joint Entity and Relation Extraction for Legal Documents with Legal Feature Enhancement*](https://www.aclweb.org/anthology/2020.coling-main.137.pdf). COLING 2020
+- Prakash Poudyal, Jaromir Savelka, Aagje Ieven, Marie Francine Moens,Teresa Goncalves, Paulo Quaresma: [*ECHR: Legal Corpus for Argument Mining*](https://www.aclweb.org/anthology/2020.argmining-1.8.pdf). COLING 2020, Workshop on Argument Mining
+- Yiquan Wu, Kun Kuang, Yating Zhang, Xiaozhong Liu, Changlong Sun, Jun Xiao, Yueting Zhuang, Luo Si, Fei Wu: [*De-Biased Court’s View Generation with Causality*](https://www.aclweb.org/anthology/2020.emnlp-main.56.pdf). EMNLP 2020
+- Ilias Chalkidis, Manos Fergadiotis, Prodromos Malakasiotis, Nikolaos Aletras, Ion Androutsopoulos: [*LEGAL-BERT: The Muppets straight out of Law School*](https://arxiv.org/pdf/2010.02559.pdf). Findings of EMNLP 2020
+- Łukasz Borchmann, Dawid Wisniewski, Andrzej Gretkowski, Izabela Kosmala, Dawid Jurkiewicz, Łukasz Szałkiewicz, Gabriela Pałka, Karol Kaczmarek, Agnieszka Kaliska, Filip Graliński: [*Contract Discovery: Dataset and a Few-Shot Semantic Retrieval Challenge with Competitive Baselines*](https://arxiv.org/pdf/1911.03911.pdf). Findings of EMNLP 2020
+- Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun: [*Jec-qa: A legal-domain question answering dataset*](https://arxiv.org/pdf/1911.12011.pdf). AAAI 2020
+- Haoxi Zhong, Yuzhong Wang, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun: [*Iteratively Questioning and Answering for Interpretable Legal Judgment Prediction*](https://www.researchgate.net/publication/341875048_Iteratively_Questioning_and_Answering_for_Interpretable_Legal_Judgment_Prediction). AAAI 2020
+- Nuo Xu, Pinghui Wang, Long Chen, Li Pan, Xiaoyan Wang, Junzhou Zhao: [*Distinguish Confusing Law Articles for Legal Judgment Prediction*](https://arxiv.org/pdf/2004.02557.pdf). ACL 2020
+-  Elliott Ash, Sam Asher, Aditi Bhowmick, daniel Chen, Tanaya Devi, Christoph Goessmann, Paul Novosad, Bilal Siddiqi: [*Measuring Gender and Religious Bias in the Indian Judiciary*](https://shrug-assets-ddl.s3.amazonaws.com/static/main/assets/other/India_Courts_In_Group_Bias.pdf)
+
+2019
+
+- [NLLP 2019 Proceedings](http://ceur-ws.org/Vol-2645/)
+- Abhilasha Ravichander, Alan W Black, Shomir Wilson, Thomas Norton and Norman Sadeh: [*Question Answering for Privacy Policies: Combining Computational and Legal Perspectives*](https://www.aclweb.org/anthology/D19-1500.pdf). EMNLP 2019
+- Paheli Bhattacharya, Kaustubh Hiware, Subham Rajgaria, Nilay Pochhi, Kripabandhu Ghosh, Saptarshi Ghosh: [*A Comparative Study of Summarization Algorithms Applied to Legal Case Judgments*](https://www.researchgate.net/publication/332256965_A_Comparative_Study_of_Summarization_Algorithms_Applied_to_Legal_Case_Judgments). ECIR 2019
+
+2018
+
+- Haoxi Zhong, Zhipeng Guo, Cunchao Tu, Chaojun Xiao, Zhiyuan Liu, Maosong Sun: [*Legal Judgment Prediction via Topological Learning*](https://www.aclweb.org/anthology/D18-1390/). EMNLP 2018
 
 ## Data sets
 - [Open Legal Data project (German legal data)](http://openlegaldata.io/)
@@ -82,8 +70,6 @@ Others
 - [Website privacy policies annotated for data practices (Usable Privacy Policy Project)](https://www.usableprivacy.org/activities)
 - [US Congressional Bill Corpus 1993-2010](http://www.cs.cmu.edu/~ark/bills/) [[Yano et al, 2012]](http://www.cs.cmu.edu/~nasmith/papers/yano+smith+wilkerson.naacl12.pdf)
 - [Securities Class Action Clearinghouse (Stanford Law)](https://securities.stanford.edu)
-
-If you want to contribute a data set to this page, please contact the workshop organizers.
 
 ## Models
 - [Legal BERT](https://huggingface.co/nlpaueb/legal-bert-base-uncased) [[Chalkidis et al, 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.261/)
