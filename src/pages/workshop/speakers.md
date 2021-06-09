@@ -25,7 +25,7 @@ seo:
 template: page
 ---
 
-# John Armour (Oxford Law)
+## John Armour (Oxford Law)
 
 **Title**: TBA
 
@@ -33,7 +33,7 @@ template: page
 
 **Bio**: John Armour is Professor of Law and Finance at Oxford University and a Fellow of the  British Academy and the European Corporate Governance Institute.  He was previously a member of the Faculty of Law and the interdisciplinary Centre for Business Research at the University of Cambridge. He studied law (MA, BCL) at the University of Oxford and then at Yale Law School (LLM). He has held visiting posts at various institutions including the University of Auckland, the University of Chicago, Columbia Law School, the University of Frankfurt, the Max Planck Institute for Comparative Private Law in Hamburg, the University of Pennsylvania Law School and the University of Sydney. He is a member of the American Law Institute and an Academic Member of the Chancery Bar Association. Armour has published widely in the fields of company law, financial regulation, and corporate insolvency. His main research interest lies in the integration of legal and economic analysis, with particular emphasis on the impact on the real economy of changes in company law, corporate insolvency law and financial regulation. He serves as an Executive Editor of the Journal of Corporate Law Studies and the Journal of Law, Finance and Accounting, and has been involved in policy-related projects commissioned by the UK’s Department of Trade and Industry (now BEIS), Financial Services Authority (now FCA) and Insolvency Service, the Commonwealth Secretariat, and the World Bank. He served as a member of the European Commission’s Informal Company Law Expert Group from 2014-19.
 
-# Sylvie Delacroix (Birmingham Law & Alan Turing Institute)
+## Sylvie Delacroix (Birmingham Law & Alan Turing Institute)
 
 **Title**: TBA
 
