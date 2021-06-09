@@ -35,9 +35,6 @@ Please follow announcements of upcoming talks on Twitter or our [Slack channel](
 
 Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish to present in this series.
 
-## Upcoming talks
-
-
 ## Past talks
 
 **Date**: 14 May 2021
@@ -51,6 +48,8 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 **Discussant**: Monika Leszczynska (Maastricht University)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fImtpIRKf4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 **Date**: 16 April 2021
 
