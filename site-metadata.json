@@ -20,10 +20,6 @@
                         "url": "/workshop/call/"
                     },
                     {
-                        "label": "Program",
-                        "url": "/workshop/program/"
-                    },
-                    {
                         "label": "Committees",
                         "url": "/workshop/committees/"
                     },
