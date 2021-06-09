@@ -80,6 +80,7 @@ If you have any suggestions for additions to the lists below, please reach out t
 
 ## Related events and workshops
 
+- [Artificial Intelligence for Legal Assistance Shared Tasks 2021](https://sites.google.com/view/aila-2021/)
 - [International Conference on Artificial Intelligence and Law 2021 (ICAIL 2021)](https://icail.lawgorithm.com.br/)
 - [NLLP 2019 Workshop (NAACL 2019)](https://sites.google.com/view/nllp/nllp-2019?authuser=0)
 - [AI4LEGAL Workshop (ISWC 2019)](http://kr.di.uoa.gr/#iswc19-workshop)
