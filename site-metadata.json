@@ -1,6 +1,6 @@
 {
     "header": {
-        "title": "NLLP Workshop 2021",
+        "title": "NLLP",
         "has_nav": true,
         "nav_links": [
             {
@@ -18,10 +18,6 @@
                     {
                         "label": "Call for Papers",
                         "url": "/workshop/call/"
-                    },
-                    {
-                        "label": "Program",
-                        "url": "/workshop/program/"
                     },
                     {
                         "label": "Committees",
@@ -46,36 +42,45 @@
             {
                 "label": "Resources",
                 "url": "/resources/"
-            }
+            },
+	    {
+		"label": "About",
+		"url": "/about/"
+	    }
         ]
     },
     "footer": {
-        "content": "&copy; NLLP Workshop 2021. Built with  <a href=\"https://www.gatsbyjs.com/\" target=\"_blank\" rel=\"noopener\">Gatsby</a>. Deployed on  <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener\">Netlify</a>.",
+        "content": "&copy; NLLP 2021. Built with  <a href=\"https://www.gatsbyjs.com/\" target=\"_blank\" rel=\"noopener\">Gatsby</a>. Deployed on  <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener\">Netlify</a>.",
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/nllpworkshop?lang=en",
+                "label": "Slack",
+                "url": "https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw",
                 "new_window": true
-            },
+            },	    
             {
                 "label": "Youtube",
                 "url": "https://www.youtube.com/channel/UCqqT9g-V0IsghloVF6S75dw",
                 "new_window": true
             },
             {
+                "label": "Twitter",
+                "url": "https://twitter.com/nllpworkshop?lang=en",
+                "new_window": true
+            },    
+            {
                 "label": "Google Groups",
                 "url": "https://groups.google.com/forum/#!forum/nllp",
                 "new_window": true
             },
             {
-                "label": "Join us on Slack!",
-                "url": "https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw",
+                "label": "E-Mail",
+                "url": "mailto:nllp.chairs@gmail.com",
                 "new_window": true
             }
         ]
     },
-    "title": "NLLP Workshop 2021",
+    "title": "NLLP 2021",
     "domain": "https://adorable-spider-f59d7.netlify.app",
     "favicon": "/images/favicon.png",
     "seoPreview": "https://adorable-spider-f59d7.netlify.app/images/prev.png"
