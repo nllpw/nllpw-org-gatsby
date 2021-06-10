@@ -35,6 +35,16 @@ Please follow announcements of upcoming talks on Twitter or our [Slack channel](
 
 Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish to present in this series.
 
+## Upcoming talks
+
+**Date**: 25 June 2021
+
+**Title**: What about the Precedent: An Information-Theoretic Analysis of Common Law ([Paper](https://www.aclweb.org/anthology/2021.naacl-main.181.pdf))
+
+**Speaker**: Josef Valvoda (University of Cambridge)
+
+**Discussant**: TBA
+
 ## Past talks
 
 **Date**: 14 May 2021
