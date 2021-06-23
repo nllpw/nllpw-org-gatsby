@@ -15,9 +15,14 @@ If you have any suggestions for additions to the lists below, please reach out t
 
 #### 2021
 
+- [Proceedings of the 8th Competition on Legal Information Extraction and Entailment (COLIEE-2021)](https://sites.ualberta.ca/~rabelo/COLIEE2021/#2021-proc)
 - Josef Valvoda, Tiago Pimentel, Niklas Stoehr, Ryan Cotterell, Simone Teufel: [*What About the Precedent: An Information-Theoretic Analysis of Common Law*](https://www.aclweb.org/anthology/2021.naacl-main.181.pdf). NAACL 2021
 - Ilias Chalkidis, Manos Fergadiotis, Dimitrios Tsarapatsanis, Nikolaos Aletras, Ion Androutsopoulos, Prodromos Malakasiotis: [*Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf). NAACL 2021
 - Dan Hendrycks, Collin Burns, Anya Chen, Spencer Ball: [*CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review*](https://arxiv.org/pdf/2103.06268.pdf)
+- Lucia Zheng, Neel Guha, Brandon R. Anderson, Peter Henderson, Daniel E. Ho: [When Does Pretraining Help? Assessing Self-Supervised Learning for Law and the CaseHOLD Dataset of 53,000+ Legal Holdings](https://arxiv.org/pdf/2104.08671.pdf)
+- Julian Nyarko: [Stickiness and Incomplete Contracts](https://lawreview.uchicago.edu/sites/lawreview.uchicago.edu/files/Nyarko_IncompleteContracts_88UCLR1.pdf)
+- Noam Kolt: [Predicting Consumer Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844988)
+- David A. Hoffman, Anton Strezhnev: [Leases as Forms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3786326)
 
 #### 2020
 
@@ -47,6 +52,7 @@ If you have any suggestions for additions to the lists below, please reach out t
 
 ## Data sets
 
+- [CaseHold Data set](https://github.com/reglab/casehold)
 - [Open Legal Data project (German legal data)](http://openlegaldata.io/)
 - [EURLEX57K dataset](http://nlp.cs.aueb.gr/software_and_datasets/EURLEX57K/index.html) [[Chalkidis et al, 2019]](https://www.aclweb.org/anthology/W19-2209/) 
 - [Datasets from Lynx project](http://data.lynx-project.eu/dataset)
@@ -75,11 +81,13 @@ If you have any suggestions for additions to the lists below, please reach out t
 ## Models
 
 - [Legal BERT](https://huggingface.co/nlpaueb/legal-bert-base-uncased) [[Chalkidis et al, 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.261/)
+- [Legal BERT](https://github.com/reglab/casehold)[[Zheng et al, 2021 - using Harvard Law case corpus]](https://arxiv.org/pdf/2104.08671.pdf)
 - [NER Models for legal entities in German](https://github.com/elenanereiss/Legal-Entity-Recognition) [Leitner et al, 2020](https://www.aclweb.org/anthology/2020.lrec-1.551.pdf)
 - [Legal GPT-1 and GPT-2](https://github.com/applicaai/contract-discovery) [[Borchmann et al, 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.380.pdf)
 
 ## Related events and workshops
 
+- [Eigth Competition on Legal Information Extraction and Entailment (COLIEE 2021)](https://sites.ualberta.ca/~rabelo/COLIEE2021/)
 - [Artificial Intelligence for Legal Assistance Shared Tasks 2021](https://sites.google.com/view/aila-2021/)
 - [International Conference on Artificial Intelligence and Law 2021 (ICAIL 2021)](https://icail.lawgorithm.com.br/)
 - [NLLP 2019 Workshop (NAACL 2019)](https://sites.google.com/view/nllp/nllp-2019?authuser=0)
