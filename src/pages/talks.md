@@ -45,7 +45,7 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 **Discussant**: Michael Livermore (University of Virginia School of Law)
 
-**Registration**: https://bit.ly/2SnPSGI
+**Registration**: [Zoom registration link](https://bit.ly/2SnPSGI)
 
 ## Past talks
 
