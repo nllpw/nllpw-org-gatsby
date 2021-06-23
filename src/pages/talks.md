@@ -43,7 +43,9 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 **Speaker**: Josef Valvoda (University of Cambridge)
 
-**Discussant**: TBA
+**Discussant**: Michael Livermore (University of Virginia School of Law)
+
+**Registration**: [Zoom registration link](https://bit.ly/2SnPSGI)
 
 ## Past talks
 
