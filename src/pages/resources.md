@@ -87,6 +87,7 @@ If you have any suggestions for additions to the lists below, please reach out t
 
 ## Related events and workshops
 
+- [Online Workshop on the Computational Analysis of Law (OWCAL 2021)](https://www.law.virginia.edu/academics/program/owcal-conference-2021)
 - [Eigth Competition on Legal Information Extraction and Entailment (COLIEE 2021)](https://sites.ualberta.ca/~rabelo/COLIEE2021/)
 - [Artificial Intelligence for Legal Assistance Shared Tasks 2021](https://sites.google.com/view/aila-2021/)
 - [International Conference on Artificial Intelligence and Law 2021 (ICAIL 2021)](https://icail.lawgorithm.com.br/)
