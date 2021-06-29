@@ -37,6 +37,10 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 ## Upcoming talks
 
+
+
+## Past talks
+
 **Date**: 25 June 2021
 
 **Title**: What about the Precedent: An Information-Theoretic Analysis of Common Law ([Paper](https://www.aclweb.org/anthology/2021.naacl-main.181.pdf))
@@ -45,9 +49,9 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 **Discussant**: Michael Livermore (University of Virginia School of Law)
 
-**Registration**: [Zoom registration link](https://bit.ly/2SnPSGI)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DFo_jFCBxSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Past talks
+---
 
 **Date**: 14 May 2021
 
