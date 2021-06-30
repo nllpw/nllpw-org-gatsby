@@ -49,7 +49,7 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 **Discussant**: Michael Livermore (University of Virginia School of Law)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DFo_jFCBxSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DFo_jFCBxSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
