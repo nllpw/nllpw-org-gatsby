@@ -15,6 +15,9 @@ If you have any suggestions for additions to the lists below, please reach out t
 
 #### 2021
 
+- Vijit Malik, Rishabh Sanjay, Shubham Kumar Nigam, Kripabandhu Ghosh, Shouvik Kumar Guha, Arnab Bhattacharya, Ashutosh Modi: [*ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation*](https://arxiv.org/pdf/2105.13562.pdf). ACL 2021
+- Abhilasha Ravichander, Alan W Black, Thomas Norton, Shomir Wilson, Norman Sadeh: [*Breaking Down Walls of Text: How Can NLP Benefit Consumer Privacy?*](https://usableprivacy.org/static/files/ravichander_acl_2021.pdf). ACL 2021
+- Mukund Srinath, Shomir Wilson, C Lee Giles: [*Privacy at Scale: Introducing the PrivaSeer Corpus of Web Privacy Policies*](https://arxiv.org/pdf/2004.11131.pdf). ACL 2021
 - [Proceedings of the 8th Competition on Legal Information Extraction and Entailment (COLIEE-2021)](https://sites.ualberta.ca/~rabelo/COLIEE2021/#2021-proc)
 - Josef Valvoda, Tiago Pimentel, Niklas Stoehr, Ryan Cotterell, Simone Teufel: [*What About the Precedent: An Information-Theoretic Analysis of Common Law*](https://www.aclweb.org/anthology/2021.naacl-main.181.pdf). NAACL 2021
 - Ilias Chalkidis, Manos Fergadiotis, Dimitrios Tsarapatsanis, Nikolaos Aletras, Ion Androutsopoulos, Prodromos Malakasiotis: [*Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases*](https://www.aclweb.org/anthology/2021.naacl-main.22.pdf). NAACL 2021
