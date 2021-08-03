@@ -75,6 +75,8 @@ We accept papers reporting original (unpublished) research of two types:
 - Long papers (max 8 pages + references)
 - Short papers (max 4 pages + references)
 
+Appendices and acknowledgements do not count against the maximum page limit and should be formatted according to the guidelines below.
+
 To submit a paper, please access the [submission link](https://www.softconf.com/emnlp2021/NLLP).
 
 Conference proceedings will be published on the [ACL Anthology](https://aclanthology.org/).
