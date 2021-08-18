@@ -113,7 +113,7 @@ Papers that do not meet the formatting requirements will be rejected without rev
 
 ## Important deadlines
 
-- **Submission deadline** ― 20 August 2021
+- **Submission deadline** ― ~~20 August 2021~~ **30 August 2021**
 - **Notification** ― 10 September 2021
 - **Camera ready** ― 17 September 2021
 - **Workshop** ― 10 November 2021
