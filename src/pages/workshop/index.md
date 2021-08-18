@@ -33,7 +33,7 @@ The call for papers is [now available](https://nllpw.org/workshop/call/).
 - [Sylvie Delacroix](https://www.birmingham.ac.uk/staff/profiles/law/delacroix-sylvie.aspx) - Birmingham Law & Alan Turing Institute
 
 #### Important Dates:
-- Submission deadline ― 20 August 2021
+- Submission deadline (extended!) ― 30 August 2021
 - Notification ― 10 September 2021
 - Camera ready ― 17 September 2021
 - Workshop ― 10 November 2021
