@@ -37,6 +37,7 @@ template: page
 
 - [Tomaso Agnoloni](http://www.ittig.cnr.it/en/persone/ricerca/tommaso-agnoloni/) - Institute of Legal Information Theory and Technologies (Italy)
 - [Elliott Ash](https://elliottash.com/) - ETH Zurich (Switzerland)
+- Breck Baldwin - Columbia University (US)
 - [Andrew Blair-Stanek](https://www.law.umaryland.edu/Directory/profile.asp?id=893) - Johns Hopkins University (US)
 - Lukasz Borchmann - Applica.ai (Poland)
 - [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen (Denmark)
@@ -56,6 +57,7 @@ template: page
 - [Ilan Kernerman](http://www.elexicography.eu/portfolio-item/kernerman/) - K Dictionaries (Israel)
 - [Manolis Koubarakis](http://cgi.di.uoa.gr/~koubarak/) - University of Athens (Greece)
 - [Vasileios Lampos](https://www.lampos.net/) - University College London (UK)
+- Jochen Leidner - Coburg University (Germany)
 - [Monika Leszczynska] - Maastricht University (The Netherlands)
 - [Junyi Jessy Li](https://liberalarts.utexas.edu/linguistics/faculty/jl67946) - University of Texas at Austin (US)
 - [Ruta Liepina](https://www.maastrichtuniversity.nl/p70067150) - Maastricht University (The Netherlands)
