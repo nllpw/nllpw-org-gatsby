@@ -44,7 +44,7 @@ template: page
 - [Rajarathnam Chandramouli](http://www.mouli.me/) - Stevens Institute of Technology (US)
 - [Daniel Chen](http://users.nber.org/~dlchen/) - Toulouse School of Economics(France)
 - [Marina Danilevsky](http://marinadanilevsky.com/) - IBM Research (US)
-- Tony Davis - Georgetown University (US)
+- Tony Davis - Southern Oregon University (US)
 - [Stefania Degaetano-Ortlieb](https://stefaniadegaetano.com/) - Saarland University (Germany)
 - [Luigi Di Caro](https://luigidicaro.me/) - Turin University (Italy)
 - [Fabiana Di Porto](http://www.lawandtechnology.it/) - University of Salento (Italy)
