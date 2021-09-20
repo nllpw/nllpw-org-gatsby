@@ -37,13 +37,19 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 ## Upcoming talks
 
+**Date**: 24 September 2021
 
+**Title**: CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review ([Paper](https://arxiv.org/pdf/2103.06268))
+
+**Speaker**: Dan Hendrycks (UC Berkeley)
+
+**Discussant**: Mateusz Grochowski (Max Planck Institute for Comparative and International Law)
 
 ## Past talks
 
 **Date**: 25 June 2021
 
-**Title**: What about the Precedent: An Information-Theoretic Analysis of Common Law ([Paper](https://www.aclweb.org/anthology/2021.naacl-main.181.pdf))
+**Title**: What about the Precedent: An Information-Theoretic Analysis of Common Law ([Paper](https://www.aclweb.org/anthology/2021.naacl-main.181.pdf), [Data & Models](https://github.com/TheAtticusProject/cuad/))
 
 **Speaker**: Josef Valvoda (University of Cambridge)
 
