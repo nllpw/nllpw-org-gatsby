@@ -37,7 +37,13 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 ## Upcoming talks
 
+**Date**: 24 September 2021
 
+**Title**: CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review ([Paper](https://arxiv.org/abs/2103.06268))
+
+**Speaker**: Dan Hendrycks (UC Berkeley)
+
+**Discussant**: Joasia Luzak (Centre for European Legal Studies)
 
 ## Past talks
 
