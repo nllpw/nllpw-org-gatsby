@@ -24,8 +24,6 @@ seo:
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
 ---
-hey yo
-
 <table>
 	<tbody>
 		<tr bgcolor="#39A2DB">
