@@ -1,6 +1,6 @@
 ---
 title: Program
-subtitle: Workshop schedule and presentation links
+subtitle: Workshop schedule
 seo:
   title: Program
   description: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. The program committee, the speakers and the official program will be updated soon.
