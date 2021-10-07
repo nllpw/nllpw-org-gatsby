@@ -26,7 +26,7 @@ template: page
 ---
 <table>
 	<tbody>
-		<tr bgcolor="#39A2DB">
+		<tr bgcolor="#FDEFEF">
 			<td>
 			<table>
 				<tbody>
@@ -38,7 +38,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#39A2DB">
+		<tr bgcolor="#FDEFEF">
 			<td>
 			<table>
 				<tbody>
@@ -50,7 +50,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#A2DBFA">
+		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
@@ -62,7 +62,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -76,7 +76,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -90,7 +90,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -103,7 +103,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -117,7 +117,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -130,7 +130,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -143,7 +143,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#A2DBFA">
+		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
@@ -155,7 +155,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#A2DBFA">
+		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
@@ -167,7 +167,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -181,7 +181,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -195,7 +195,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -209,7 +209,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -223,7 +223,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -237,7 +237,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -251,7 +251,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -265,7 +265,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#A2DBFA">
+		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
@@ -277,7 +277,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#39A2DB">
+		<tr bgcolor="#FDEFEF">
 			<td>
 			<table>
 				<tbody>
@@ -290,7 +290,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#A2DBFA">
+		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
@@ -302,7 +302,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -315,7 +315,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -329,7 +329,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -343,7 +343,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -357,7 +357,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#A2DBFA">
+		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
@@ -369,7 +369,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#A2DBFA">
+		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
@@ -381,7 +381,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -395,7 +395,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -409,7 +409,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -423,7 +423,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -437,7 +437,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -450,7 +450,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -464,7 +464,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#A2DBFA">
+		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
@@ -476,7 +476,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#A2DBFA">
+		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
@@ -488,7 +488,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -502,7 +502,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -515,7 +515,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -529,7 +529,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -543,7 +543,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#A2DBFA">
+		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
@@ -555,7 +555,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -569,7 +569,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -583,7 +583,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#F3F4ED">
+		<tr bgcolor="#FDF6F0">
 			<td>
 			<table>
 				<tbody>
@@ -597,7 +597,7 @@ template: page
 			</table>
 			</td>
 		</tr>
-		<tr bgcolor="#39A2DB">
+		<tr bgcolor="#FDEFEF">
 			<td>
 			<table>
 				<tbody>
