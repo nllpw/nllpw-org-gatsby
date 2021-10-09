@@ -343,8 +343,8 @@ All times are EST
 					<tr>
 						<td nowrap="nowrap" valign="top">14:10 - 14:20 &nbsp;&nbsp;</td>
 						<td><b>Searching for Legal Documents at Paragraph Level: Automating Label Generation and Use of an Extended Attention Mask for Boosting Neural Models of Semantic Similarity</b> <br />
-						<em>Li Tang<sup>1</sup> and Simon Clematide<sup>2</sup></em><br />
-						<sup>1</sup>Institut f&uuml;r Computerlinguistik, Universit&auml;ten Z&uuml;rich, <sup>2</sup>University of Zurich</td>
+						<em>Li Tang and Simon Clematide</em><br />
+						Institut f&uuml;r Computerlinguistik, Universit&auml;ten Z&uuml;rich</td>
 					</tr>
 				</tbody>
 			</table>
