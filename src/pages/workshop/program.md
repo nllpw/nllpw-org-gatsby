@@ -97,7 +97,9 @@ template: page
 					<tr>
 						<td nowrap="nowrap" valign="top">09:30 - 09:45 &nbsp;&nbsp;</td>
 						<td><b>The Power of Legislatures in Hungary - A Text Reuse Analysis</b><br />
-						<i>Mikl&oacute;s Sebők (Centre for Social Sciences, Budapest), Anna Sz&eacute;kely (Centre for Social Sciences, Budapest), Istv&aacute;n J&aacute;ray (Centre for Social Sciences, Budapest)</i></td>
+						<em>Mikl&oacute;s Seb&#337;k,&nbsp;Anna Sz&eacute;kely, Istv&aacute;n J&aacute;ray</em><br />
+						Centre for Social Sciences, Budapest</td>
+						</td>
 					</tr>
 				</tbody>
 			</table>
@@ -124,7 +126,8 @@ template: page
 					<tr>
 						<td nowrap="nowrap" valign="top">10:00 - 10:15 &nbsp;&nbsp;</td>
 						<td><b>LexGLUE: A Benchmark Dataset for Legal Language Understanding in English</b><br />
-						<i>Ilias Chalkidis (University of Copenhagen); Abhik Jana (Universitat Hamburg); Dirk Hartung (Bucerius Law School); Michael Bommarito (Stanford Law School); Ion Androutsopoulos (Athens University of Economics and Business); Daniel Martin Katz (Illinois Tech - Chicago Kent College of Law); Nikolaos Aletras (University of Sheffield)</i></td>
+						<em>Ilias Chalkidis<sup>1</sup>, Abhik Jana<sup>2</sup>, Dirk Hartung<sup>3</sup>, Michael Bommarito<sup>4</sup>, Ion Androutsopoulos<sup>5</sup>, Daniel Martin Katz<sup>6</sup>, Nikolaos Aletras<sup>7</sup></em><br />
+						<sup>1</sup>University of Copenhagen, <sup>2</sup>Universitat Hamburg, <sup>3</sup>Bucerius Law School, <sup>4</sup>Stanford Law School, <sup>5</sup>Athens University of Economics and Business, <sup>6</sup>Illinois Tech - Chicago Kent College of Law, <sup>7</sup>University of Sheffield</td>
 					</tr>
 				</tbody>
 			</table>
@@ -137,7 +140,8 @@ template: page
 					<tr>
 						<td nowrap="nowrap" valign="top">10:15 - 10:30 &nbsp;&nbsp;</td>
 						<td><b>&#39;Just What do You Think You&#39;re Doing, Dave?&#39; A Checklist for Responsible Data Use in NLP</b><br />
-						<i>Anna Rogers (Center for Social Data Science, University of Copenhagen), Tim Baldwin (The University of Melbourne), Kobi Leins (King&rsquo;s College / London)</i></td>
+						<em>Anna Rogers<sup>1</sup>, Tim Baldwin<sup>2</sup>, Kobi Leins<sup>3</sup></em><br />
+							<sup>1</sup>Center for Social Data Science, University of Copenhagen, <sup>2</sup>The University of Melbourne, <sup>3</sup>King&rsquo;s College / London</td>
 					</tr>
 				</tbody>
 			</table>
@@ -309,7 +313,8 @@ template: page
 					<tr>
 						<td nowrap="nowrap" valign="top">13:45 - 14:00 &nbsp;&nbsp;</td>
 						<td><b>AutoLAW: Augmented Legal Reasoning through Legal Precedent Prediction</b><br />
-						<i>Robert Zev Mahari (Human Dynamics Group, MIT Media Lab, Massachusetts Institute of Technology; Harvard Law School)</i></td>
+						<em>Robert Zev Mahari</em><br />
+						Human Dynamics Group, MIT Media Lab, Massachusetts Institute of Technology; Harvard Law School</td>
 					</tr>
 				</tbody>
 			</table>
@@ -444,7 +449,8 @@ template: page
 					<tr>
 						<td nowrap="nowrap" valign="top">15:45 - 16:00 &nbsp;&nbsp;</td>
 						<td><b>ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts (Findings of EMNLP)</b><br />
-						<i>Yuta Koreeda (Research &amp; Development Group, Hitachi America Ltd.); Christopher Manning (Stanford University)</i></td>
+						<em>Yuta Koreeda<sup>1</sup> and Christopher Manning<sup>2</sup></em><br />
+						<sup>1</sup>Research &amp; Development Group, Hitachi America Ltd., <sup>2</sup>Stanford University</td>
 					</tr>
 				</tbody>
 			</table>
@@ -509,7 +515,8 @@ template: page
 					<tr>
 						<td nowrap="nowrap" valign="top">16:40 - 16:55 &nbsp;&nbsp;</td>
 						<td><b>Privacy Policy Question Answering Assistant A Query-Guided Extractive Summarization Approach</b><br />
-						<i>Moniba Keymanesh (The Ohio State University); Micha Elsner (The Ohio State University); Srinivasan Parthasarathy (The Ohio State University)</i></td>
+						<em>Moniba Keymanesh, Micha Elsner, Srinivasan Parthasarathy</em><br />
+						The Ohio State University</td>
 					</tr>
 				</tbody>
 			</table>
