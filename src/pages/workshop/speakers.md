@@ -39,7 +39,12 @@ template: page
 
 **Title**: Data Trusts as a Bottom-up Empowerment Tool
 
-**Abstract**: TBA
+**Abstract**: This presentation will focus on data trusts as a bottom-up empowerment tool. It will proceed from an analysis of the particular type of vulnerability concomitant with our 'leaking' data on a daily basis, to argue that data ownership is both unlikely and inadequate as an answer to the problems at stake. 
+There are three key problems that bottom-up data trusts seek to address:
+
+- Lack of mechanisms to empower groups, not just individuals
+- We can (and should) do better than 'make belief' consent.
+- We can (and should) do better when it comes to intelligent data sharing.
 
 ![Block Image](/images/sylvie-delacroix.jpg)
 
