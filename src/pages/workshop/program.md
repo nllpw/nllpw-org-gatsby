@@ -450,7 +450,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">15:45 - 16:00 &nbsp;&nbsp;</td>
-						<td><b>ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts (Findings of EMNLP)</b><br />
+						<td><b>ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts</b><br />
 						<em>Yuta Koreeda<sup>1</sup> and Christopher Manning<sup>2</sup></em><br />
 						<sup>1</sup>Research &amp; Development Group, Hitachi America Ltd., <sup>2</sup>Stanford University</td>
 					</tr>
@@ -465,8 +465,8 @@ All times are EST
 					<tr>
 						<td nowrap="nowrap" valign="top">16:00 - 16:10 &nbsp;&nbsp;</td>
 						<td><b>Named Entity Recognition in Historic Legal Text: A Transformer and State Machine Ensemble Method</b> <br />
-						<em>Fernando Trias<sup>1</sup>,&nbsp;Hongming Wang<sup>2</sup>,&nbsp;Sylvain Jaume<sup>1</sup>,&nbsp;Stratos Idreos<sup>1</sup></em><br />
-						<sup>1</sup>Harvard University, <sup>2</sup>Harvard Unviersity</td>
+						<em>Fernando Trias,&nbsp;Hongming Wang,&nbsp;Sylvain Jaume,&nbsp;Stratos Idreos</em><br />
+						Harvard University</td>
 					</tr>
 				</tbody>
 			</table>
@@ -598,7 +598,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">17:45 - 18:00 &nbsp;&nbsp;</td>
-						<td><b>Automatic Resolution of Domain Name Disputes</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.24.pdf" target="_blank">Automatic Resolution of Domain Name Disputes</a></b> <br />
 						<em>Wayan Vihikan<sup>1</sup>,&nbsp;Meladel Mistica<sup>2</sup>,&nbsp;Inbar Levy<sup>1</sup>,&nbsp;Andrew Christie<sup>1</sup>,&nbsp;Timothy Baldwin<sup>1</sup></em><br />
 						<sup>1</sup>The University of Melbourne, <sup>2</sup>The University of Queensland</td>
 					</tr>
