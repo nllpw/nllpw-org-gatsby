@@ -70,7 +70,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">09:00 - 09:15 &nbsp;&nbsp;</td>
-						<td><b>A Corpus for Multilingual Analysis of Online Terms of Service</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.1.pdf" target="_blank">A Corpus for Multilingual Analysis of Online Terms of Service</a></b> <br />
 						<em>Kasper Drawzeski<sup>1</sup>,&nbsp;Andrea Galassi<sup>2</sup>,&nbsp;Agnieszka Jablonowska<sup>3</sup>,&nbsp;Francesca Lagioia<sup>3</sup>,&nbsp;Marco Lippi<sup>4</sup>,&nbsp;Hans Micklitz<sup>3</sup>,&nbsp;Giovanni Sartor<sup>3</sup>,&nbsp;Giacomo Tagiuri<sup>3</sup>,&nbsp;Paolo Torroni<sup>5</sup></em><br />
 						<sup>1</sup>BEUC, <sup>2</sup>University of Bologna, <sup>3</sup>European University Institute, <sup>4</sup>University of Modena and Reggio Emilia, <sup>5</sup>Alma Mater - Universit&agrave; di Bologna</td>
 					</tr>
@@ -84,7 +84,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">09:15 - 09:30 &nbsp;&nbsp;</td>
-						<td><b>Named Entity Recognition in the Romanian Legal Domain</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.2.pdf" target="_blank">Named Entity Recognition in the Romanian Legal Domain</a></b> <br />
 						<em>Vasile Pais,&nbsp;Maria Mitrofan,&nbsp;Carol Luca Gasan,&nbsp;Vlad Coneschi,&nbsp;Alexandru Ianov</em><br />
 						Research Institute for Artificial Intelligence, Romanian Academy</td>
 					</tr>
@@ -113,7 +113,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">09:45 - 10:00 &nbsp;&nbsp;</td>
-						<td><b>Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.3.pdf" target="_blank">Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark</a></b> <br />
 						<em>Joel Niklaus<sup>1</sup>,&nbsp;Ilias Chalkidis<sup>2</sup>,&nbsp;Matthias St&uuml;rmer<sup>1</sup></em><br />
 						<sup>1</sup>University of Bern, <sup>2</sup>University of Copenhagen</td>
 					</tr>
@@ -179,7 +179,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">10:45 - 11:00 &nbsp;&nbsp;</td>
-						<td><b>Automated Extraction of Sentencing Decisions from Court Cases in the Hebrew Language</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.4.pdf" target="_blank">Automated Extraction of Sentencing Decisions from Court Cases in the Hebrew Language</a></b> <br />
 						<em>Mohr Wenger<sup>1</sup>,&nbsp;Tom Kalir<sup>1</sup>,&nbsp;Noga Berger<sup>2</sup>,&nbsp;Carmit Chalamish<sup>3</sup>,&nbsp;Renana Keydar<sup>1</sup>,&nbsp;Gabriel Stanovsky<sup>1</sup></em><br />
 						<sup>1</sup>The Hebrew University of Jerusalem, <sup>2</sup>The Association of Rape Crisis Centers in Israel, <sup>3</sup>The Association of Rape Crisis Centers in Israel, Bar-Ilan University, Israel.</td>
 					</tr>
@@ -193,7 +193,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">11:00 - 11:15 &nbsp;&nbsp;</td>
-						<td><b>A Multilingual Approach to Identify and Classify Exceptional Measures against COVID-19</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.5.pdf" target="_blank">A Multilingual Approach to Identify and Classify Exceptional Measures against COVID-19</a></b> <br />
 						<em>Georgios Tziafas<sup>1</sup>,&nbsp;Eugenie de Saint-Phalle<sup>1</sup>,&nbsp;Wietse de Vries<sup>1</sup>,&nbsp;Clara Egger<sup>1</sup>,&nbsp;Tommaso Caselli<sup>2</sup></em><br />
 						<sup>1</sup>University of Groningen, <sup>2</sup>Rijksuniversiteit Groningen</td>
 					</tr>
@@ -207,7 +207,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">11:15 - 11:30 &nbsp;&nbsp;</td>
-						<td><b>Multi-granular Legal Topic Classification on Greek Legislation</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.6.pdf" target="_blank">Multi-granular Legal Topic Classification on Greek Legislation</a></b> <br />
 						<em>Christos Papaloukas<sup>1</sup>,&nbsp;Ilias Chalkidis<sup>2</sup>,&nbsp;Konstantinos Athinaios<sup>1</sup>,&nbsp;Despina Pantazi<sup>3</sup>,&nbsp;Manolis Koubarakis<sup>1</sup></em><br />
 						<sup>1</sup>National and Kapodistrian University of Athens, <sup>2</sup>University of Copenhagen, <sup>3</sup>Department of Informatics and Telecommunications, National and Kapodistrian University of Athens</td>
 					</tr>
@@ -221,7 +221,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">11:30 - 11:40 &nbsp;&nbsp;</td>
-						<td><b>Machine Extraction of Tax Laws from Legislative Texts</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.7.pdf" target="_blank">Machine Extraction of Tax Laws from Legislative Texts</a></b> <br />
 						<em>Elliott Ash<sup>1</sup>,&nbsp;Malka Guillot<sup>2</sup>,&nbsp;Luyang Han<sup>1</sup></em><br />
 						<sup>1</sup>ETH Zurich, <sup>2</sup>Liege</td>
 					</tr>
@@ -235,7 +235,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">11:40 - 11:50 &nbsp;&nbsp;</td>
-						<td><b>jurBERT: A Romanian BERT Model for Legal Judgement Prediction</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.8.pdf" target="_blank">jurBERT: A Romanian BERT Model for Legal Judgement Prediction</a></b> <br />
 						<em>Mihai Masala<sup>1</sup>,&nbsp;Radu Cristian Alexandru Iacob<sup>1</sup>,&nbsp;Ana Sabina Uban<sup>2</sup>,&nbsp;Marina Cidota<sup>3</sup>,&nbsp;Horia Velicu<sup>4</sup>,&nbsp;Traian Rebedea<sup>1</sup>,&nbsp;Marius Popescu<sup>3</sup></em><br />
 						<sup>1</sup>University Politehnica of Bucharest, <sup>2</sup>Universitat Politecnica de Valencia, University of Bucharest, <sup>3</sup>University of Bucharest, <sup>4</sup>BRD Groupe Societe Generale</td>
 					</tr>
@@ -249,7 +249,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">11:50 - 12:00 &nbsp;&nbsp;</td>
-						<td><b>JuriBERT: A Masked-Language Model Adaptation for French Legal Text</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.9.pdf" target="_blank">JuriBERT: A Masked-Language Model Adaptation for French Legal Text</a></b> <br />
 						<em>Stella Douka<sup>1</sup>,&nbsp;Hadi Abdine<sup>1</sup>,&nbsp;Michalis Vazirgiannis<sup>1</sup>,&nbsp;Rajaa El Hamdani<sup>2</sup>,&nbsp;David Restrepo Amariles<sup>2</sup></em><br />
 						<sup>1</sup>Ecole Polytechnique, <sup>2</sup>HEC Paris</td>
 					</tr>
@@ -263,7 +263,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">12:00 - 12:10 &nbsp;&nbsp;</td>
-						<td><b>Few-shot and Zero-shot Approaches to Legal Text Classification: A Case Study in the Financial Sector</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.10.pdf" target="_blank">Few-shot and Zero-shot Approaches to Legal Text Classification: A Case Study in the Financial Sector</a></b> <br />
 						<em>Rajdeep Sarkar<sup>1</sup>,&nbsp;Atul Kr. Ojha<sup>2</sup>,&nbsp;Jay Megaro<sup>3</sup>,&nbsp;John Mariano<sup>3</sup>,&nbsp;Vall Herard<sup>3</sup>,&nbsp;John P. McCrae<sup>4</sup></em><br />
 						<sup>1</sup>Data Science Institute, NUI Galway, <sup>2</sup>Data Science Institute, Unit for Linguistic Data, National University of Ireland Galway, <sup>3</sup>FMR LLC, <sup>4</sup>Insight Center for Data Analytics, National University of Ireland Galway</td>
 					</tr>
@@ -328,7 +328,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">14:00 - 14:10 &nbsp;&nbsp;</td>
-						<td><b>A Free Format Legal Question Answering System</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.11.pdf" target="_blank">A Free Format Legal Question Answering System</a></b> <br />
 						<em>Soha Khazaeli<sup>1</sup>,&nbsp;Janardhana Punuru<sup>1</sup>,&nbsp;Chad Morris<sup>1</sup>,&nbsp;Sanjay Sharma<sup>1</sup>,&nbsp;Bert Staub<sup>1</sup>,&nbsp;Michael Cole<sup>1</sup>,&nbsp;Sunny Chiu-Webster<sup>2</sup>,&nbsp;Dhruv Sakalley<sup>3</sup></em><br />
 						<sup>1</sup>LexisNexis Legal &amp; Professional, <sup>2</sup>Facebook, <sup>3</sup>Sensibill</td>
 					</tr>
@@ -342,7 +342,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">14:10 - 14:20 &nbsp;&nbsp;</td>
-						<td><b>Searching for Legal Documents at Paragraph Level: Automating Label Generation and Use of an Extended Attention Mask for Boosting Neural Models of Semantic Similarity</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.12.pdf" target="_blank">Searching for Legal Documents at Paragraph Level: Automating Label Generation and Use of an Extended Attention Mask for Boosting Neural Models of Semantic Similarity</a></b> <br />
 						<em>Li Tang and Simon Clematide</em><br />
 						Institut f&uuml;r Computerlinguistik, Universit&auml;ten Z&uuml;rich</td>
 					</tr>
@@ -356,7 +356,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">14:20 - 14:30 &nbsp;&nbsp;</td>
-						<td><b>GerDaLIR: A German Dataset for Legal Information Retrieval</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.13.pdf" target="_blank">GerDaLIR: A German Dataset for Legal Information Retrieval</a></b> <br />
 						<em>Marco Wrzalik and Dirk Krechel</em><br />
 						RheinMain University of Applied Sciences</td>
 					</tr>
@@ -394,7 +394,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">14:45 - 15:00 &nbsp;&nbsp;</td>
-						<td><b>SPaR.txt, a Cheap Shallow Parsing Approach for Regulatory Texts</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.14.pdf" target="_blank">SPaR.txt, a Cheap Shallow Parsing Approach for Regulatory Texts</a></b> <br />
 						<em>Ruben Kruiper<sup>1</sup>,&nbsp;Ioannis Konstas<sup>1</sup>,&nbsp;Alasdair Gray<sup>1</sup>,&nbsp;Farhad Sadeghineko<sup>2</sup>,&nbsp;Richard Watson<sup>2</sup>,&nbsp;Bimal Kumar<sup>2</sup></em><br />
 						<sup>1</sup>Heriot-Watt University, <sup>2</sup>Northumbria University</td>
 					</tr>
@@ -408,7 +408,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">15:00 - 15:15 &nbsp;&nbsp;</td>
-						<td><b>Capturing Logical Structure of Visually Structured Documents with Multimodal Transition Parser</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.15.pdf" target="_blank">Capturing Logical Structure of Visually Structured Documents with Multimodal Transition Parser</a></b> <br />
 						<em>Yuta Koreeda<sup>1</sup> and Christopher Manning<sup>2</sup></em><br />
 						<sup>1</sup>Research &amp; Development Group, Hitachi America Ltd., <sup>2</sup>Stanford University</td>
 					</tr>
@@ -422,7 +422,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">15:15 - 15:30 &nbsp;&nbsp;</td>
-						<td><b>Legal Terminology Extraction with the Termolator</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.16.pdf" target="_blank">Legal Terminology Extraction with the Termolator</a></b> <br />
 						<em>Nhi Pham,&nbsp;Lachlan Pham,&nbsp;Adam Meyers</em><br />
 						New York University</td>
 					</tr>
@@ -436,7 +436,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">15:30 - 15:45 &nbsp;&nbsp;</td>
-						<td><b>Supervised Identification of Participant Slots in Contracts</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.17.pdf" target="_blank">Supervised Identification of Participant Slots in Contracts</a></b> <br />
 						<em>Dan Simonson</em><br />
 						BlackBoiler Inc</td>
 					</tr>
@@ -464,7 +464,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">16:00 - 16:10 &nbsp;&nbsp;</td>
-						<td><b>Named Entity Recognition in Historic Legal Text: A Transformer and State Machine Ensemble Method</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.18.pdf" target="_blank">Named Entity Recognition in Historic Legal Text: A Transformer and State Machine Ensemble Method</a></b> <br />
 						<em>Fernando Trias,&nbsp;Hongming Wang,&nbsp;Sylvain Jaume,&nbsp;Stratos Idreos</em><br />
 						Harvard University</td>
 					</tr>
@@ -502,7 +502,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">16:25 - 16:40 &nbsp;&nbsp;</td>
-						<td><b>Summarization of German Court Rulings</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.19.pdf" target="_blank">Summarization of German Court Rulings</a></b> <br />
 						<em>Ingo Glaser<sup>1</sup>,&nbsp;Sebastian Moser<sup>1</sup>,&nbsp;Florian Matthes<sup>2</sup></em><br />
 						<sup>1</sup>Technical University of Munich, <sup>2</sup>Technische Universit&auml;t M&uuml;nchen</td>
 					</tr>
@@ -530,7 +530,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">16:55 - 17:10 &nbsp;&nbsp;</td>
-						<td><b>Learning from Limited Labels for Long Legal Dialogue</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.20.pdf" target="_blank">Learning from Limited Labels for Long Legal Dialogue</a></b> <br />
 						<em>Jenny Hong,&nbsp;Derek Chong,&nbsp;Christopher Manning</em><br />
 						Stanford University</td>
 					</tr>
@@ -544,7 +544,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">17:10 - 17:20 &nbsp;&nbsp;</td>
-						<td><b>Automating Claim Construction in Patent Applications: The CMUmine Dataset</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.21.pdf" target="_blank">Automating Claim Construction in Patent Applications: The CMUmine Dataset</a></b> <br />
 						<em>Ozan Tonguz<sup>1</sup>,&nbsp;Yiwei Qin<sup>1</sup>,&nbsp;Yimeng Gu<sup>1</sup>,&nbsp;Hyun Moon<sup>2</sup></em><br />
 						<sup>1</sup>Electrical Computer Engineering at Carnegie Mellon University, <sup>2</sup>School of Engineering at Carnegie Mellon University</td>
 					</tr>
@@ -570,7 +570,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">17:20 - 17:30 &nbsp;&nbsp;</td>
-						<td><b>Effectively Leveraging BERT for Legal Document Classification</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.22.pdf" target="_blank">Effectively Leveraging BERT for Legal Document Classification</a></b> <br />
 						<em>Nut Limsopatham</em><br />
 						Microsoft AI+R</td>
 					</tr>
@@ -584,7 +584,7 @@ All times are EST
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">17:30 - 17:45 &nbsp;&nbsp;</td>
-						<td><b>Semi-automatic Triage of Requests for Free Legal Assistance</b> <br />
+						<td><b><a href="https://aclanthology.org/2021.nllp-1.23.pdf" target="_blank">Semi-automatic Triage of Requests for Free Legal Assistance</a></b> <br />
 						<em>Meladel Mistica<sup>1</sup>,&nbsp;Jey Han Lau<sup>2</sup>,&nbsp;Brayden Merrifield<sup>3</sup>,&nbsp;Kate Fazio<sup>3</sup>,&nbsp;Timothy Baldwin<sup>2</sup></em><br />
 						<sup>1</sup>The University of Queensland, <sup>2</sup>The University of Melbourne, <sup>3</sup>Justice Connect</td>
 					</tr>
