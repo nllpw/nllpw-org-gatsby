@@ -25,7 +25,7 @@ seo:
 template: page
 ---
 
-All times are EST
+All times are in AST time zone <a href="https://greenwichmeantime.com/time/to/ast-local/" target="_blank">(conversion tool)</a>
 <table>
 	<tbody>
 		<tr bgcolor="#FDEFEF">
