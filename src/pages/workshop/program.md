@@ -34,7 +34,7 @@ All times are in AST time zone <a href="https://greenwichmeantime.com/time/to/as
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">08:00 - 08:10 &nbsp;&nbsp;</td>
-						<td><a href="/nllp-2021-intro.pdf" target="_blank">Workshop opening</a></td>
+						<td><a href="/pdf/nllp-2021-intro.pdf" target="_blank">Workshop opening</a></td>
 					</tr>
 				</tbody>
 			</table>
