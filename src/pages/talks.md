@@ -37,6 +37,16 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 ## Upcoming talks
 
+**Date**: 17 December 2021
+
+**Title**: Breaking Down Walls of Text: How can NLP Benefit Consumer Privacy ([Paper](https://aclanthology.org/2021.acl-long.319.pdf))
+
+**Speaker**: Abhilasha Ravichander (Carnegie Mellon University)
+
+**Discussant**: Catalina Goanta (Maastricht University)
+
+## Past talks
+
 **Date**: 24 September 2021
 
 **Title**: CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review ([Paper](https://arxiv.org/pdf/2103.06268))
@@ -44,8 +54,6 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 **Speaker**: Dan Hendrycks (UC Berkeley)
 
 **Discussant**: Mateusz Grochowski (Max Planck Institute for Comparative and International Law)
-
-## Past talks
 
 **Date**: 25 June 2021
 
