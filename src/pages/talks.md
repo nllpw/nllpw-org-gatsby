@@ -35,7 +35,7 @@ Please follow announcements of upcoming talks on Twitter or our [Slack channel](
 
 Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish to present in this series.
 
-## Upcoming talks
+## Past talks
 
 **Date**: 17 December 2021
 
@@ -45,7 +45,7 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 **Discussant**: Catalina Goanta (Maastricht University)
 
-## Past talks
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y_aJnstKzOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Date**: 24 September 2021
 
