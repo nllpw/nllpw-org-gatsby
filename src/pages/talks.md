@@ -45,7 +45,7 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 **Discussant**: Ashutosh Modi (IIT Kanpur)
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WuVDZqMd1Uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Date**: 17 December 2021
 
