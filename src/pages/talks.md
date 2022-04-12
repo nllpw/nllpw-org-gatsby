@@ -47,6 +47,8 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WuVDZqMd1Uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 **Date**: 17 December 2021
 
 **Title**: Breaking Down Walls of Text: How can NLP Benefit Consumer Privacy ([Paper](https://aclanthology.org/2021.acl-long.319.pdf))
@@ -57,6 +59,8 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y_aJnstKzOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 **Date**: 24 September 2021
 
 **Title**: CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review ([Paper](https://arxiv.org/pdf/2103.06268))
@@ -64,6 +68,8 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 **Speaker**: Dan Hendrycks (UC Berkeley)
 
 **Discussant**: Mateusz Grochowski (Max Planck Institute for Comparative and International Law)
+
+---
 
 **Date**: 25 June 2021
 
