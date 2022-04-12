@@ -37,6 +37,18 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 
 ## Past talks
 
+**Date**: 1 April 2022
+
+**Title**: In-group bias in the Indian judiciary: Evidence from 5 million criminal cases ([Paper](https://www.devdatalab.org/judicial-bias))
+
+**Speaker**: Elliott Ash (ETH Zurich)
+
+**Discussant**: Ashutosh Modi (IIT Kanpur)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WuVDZqMd1Uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 **Date**: 17 December 2021
 
 **Title**: Breaking Down Walls of Text: How can NLP Benefit Consumer Privacy ([Paper](https://aclanthology.org/2021.acl-long.319.pdf))
