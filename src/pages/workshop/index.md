@@ -39,7 +39,7 @@ All deadlines are 11.59pm UTC -12h
 
 #### Sponsors:
 
-![Block Image](/images/bloomberg.png)
+<img src="/images/bloomberg.png width="300"/>
 
 #### Past editions:
 - [NLLP 2021](https://nllpw.org/workshop/nllp-2021)
