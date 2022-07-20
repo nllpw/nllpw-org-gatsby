@@ -24,7 +24,7 @@ seo:
 template: page
 ---
 
-NLLP Workshop 2022 will take place on Thursday 8 December 2021 in Abu Dhabi, UAE, co-located with [EMNLP 2022](https://2022.emnlp.org/). 
+NLLP Workshop 2022 will take place on Thursday 8 December 2022 in Abu Dhabi, UAE, co-located with [EMNLP 2022](https://2022.emnlp.org/). 
 
 #### Invited Speakers:
 - [Sofia Ranchord&aacute;s](https://www.rug.nl/staff/s.h.ranchordas/) - University of Groningen & LUISS Guido Carli
