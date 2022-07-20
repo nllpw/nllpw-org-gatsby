@@ -44,8 +44,6 @@ template: page
 
 [Nikolaos Aletras](http://www.nikosaletras.com/) - University of Sheffield
 
-[Ion Androutsopoulos](http://www.aueb.gr/users/ion/)  ― Athens University of Economics and Business
-
 Leslie Barrett ― Bloomberg Law
 
 [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen
