@@ -1,25 +1,24 @@
 ---
 title: Call for papers
-subtitle: Submit your legal NLP work to NLLP 2021
 seo:
-  title: Call for papers
-  description: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021. 
+  title: Home
+  description: The fourth workshop on Natural Legal Language Processing (NLLP 2022) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2022.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Call for papers - NLLP Workshop 2021
+      value: NLLP Workshop 2022
       keyName: property
     - name: 'og:description'
-      value: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021.
+      value: The fourth workshop on Natural Legal Language Processing (NLLP 2022) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2022.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Call for papers - NLLP Workshop 2021
+      value: NLLP Workshop 2022
     - name: 'twitter:description'
-      value: NLLP Workshop 2021 will take place on 10 November 2021, co-located with EMNLP 2021.
+      value: The fourth workshop on Natural Legal Language Processing (NLLP 2022) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2022.
     - name: 'keywords'
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
@@ -27,7 +26,7 @@ template: page
 
 ## Goal
 
-Following the success of the first two editions of the NLLP workshop (NAACL 2019, KDD 2020), we aim to bring researchers and practitioners from NLP, machine learning and other artificial intelligence disciplines together with legal practitioners and researchers. We welcome submissions describing original work on legal data, as well as data with legal relevance, such as:
+Following the success of the first three editions of the NLLP workshop (NAACL 2019, KDD 2020, EMNLP 2021), we aim to bring researchers and practitioners from NLP, machine learning and other artificial intelligence disciplines together with legal practitioners and researchers. We welcome submissions describing original work on legal data, as well as data with legal relevance, such as:
 
 - Applications of NLP to legal tasks including, but not limited to:
   - Legal Citation Resolution
@@ -77,7 +76,7 @@ We accept papers reporting original (unpublished) research of two types:
 
 Appendices and acknowledgements do not count against the maximum page limit and should be formatted according to the guidelines below.
 
-To submit a paper, please access the [submission link](https://www.softconf.com/emnlp2021/NLLP).
+To submit a paper, please access the [submission link](https://softconf.com/emnlp2022/NLLP).
 
 Conference proceedings will be published on the [ACL Anthology](https://aclanthology.org/).
 
@@ -87,7 +86,7 @@ The authors have the option of submitting previously unpublished research as non
 
 ### Dual Submission and Pre-print Policy
 
-Papers that have been or will be submitted to workshops, conferences or journals during the review period must indicate so at submission time. Authors of papers accepted for presentation at the NLLP 2021 workshop must notify the organizers by the camera-ready deadline as to whether the paper will be presented or withdrawn.
+Papers that have been or will be submitted to workshops, conferences or journals during the review period must indicate so at submission time. Authors of papers accepted for presentation at the NLLP 2022 workshop must notify the organizers by the camera-ready deadline as to whether the paper will be presented or withdrawn.
 
 If the preliminary version of a paper was posted in arXiv, the authors should NOT mention it as their own paper in the submission. Papers that violate the double-blind review requirements will be desk rejected. 
 
@@ -95,7 +94,7 @@ If the preliminary version of a paper was posted in arXiv, the authors should NO
 
 ### ACL Rolling Review
 
-Starting from this year, our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR before July 15, 2021 and have their reviews ready may submit their papers and reviews for consideration for the workshop up to one week before our notification date i.e. before 3 September 2021.
+Starting from this year, our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their reviews ready may submit their papers and reviews for consideration for the workshop up to one week before our notification date.
 
 ### Double-Blind reviewing
 
@@ -113,15 +112,14 @@ Papers that do not meet the formatting requirements will be rejected without rev
 
 ## Important deadlines
 
-- **Submission deadline** ― ~~20 August 2021~~ **30 August 2021**
-- **Notification** ― ~~10 September 2021~~ **22 September 2021**
-- **Camera ready** ― ~~17 September 2021~~ **30 September 2021**
-- **Workshop** ― 10 November 2021
+- **Submission deadline** ― 26 September 2022
+- **Notification** ― TBA
+- **Camera ready** ― TBA
+- **Workshop** ― 8 December 2022
 
 All deadlines are 11.59pm UTC -12h
 
 ## Presentation
 
-- We will follow the EMNLP 2021 recommendations around the workshop's form of organization. Currently, EMNLP 2021 is planned to be a hybrid event in Punta Cana, Dominican Republic, with both on-site and fully virtual participation possible.
 - Presentation format for each paper and schedule will be announced between acceptance notification and the camera-ready deadline.
-- At least one author of each accepted paper must register for the NLLP 2021 workshop by the registration deadline in order for the submission to be published in the proceedings.
+- At least one author of each accepted paper must register for the NLLP 2022 workshop by the registration deadline in order for the submission to be published in the proceedings.

@@ -3,23 +3,23 @@ title: Natural Legal Language Processing - NLLP
 subtitle: 
 seo:
   title: Home
-  description: Third workshop on Natural Legal Language Processing (NLLP 2021) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2021.
+  description: The fourth workshop on Natural Legal Language Processing (NLLP 2022) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2022.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: NLLP Workshop 2021
+      value: NLLP Workshop 2022
       keyName: property
     - name: 'og:description'
-      value: Third workshop on Natural Legal Language Processing (NLLP 2021) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2021.
+      value: The fourth workshop on Natural Legal Language Processing (NLLP 2022) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2022.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: NLLP Workshop 2021
+      value: NLLP Workshop 2022
     - name: 'twitter:description'
-      value: Third workshop on Natural Legal Language Processing (NLLP 2021) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2021.
+      value: The fourth workshop on Natural Legal Language Processing (NLLP 2022) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2022.
     - name: 'keywords'
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
@@ -44,9 +44,9 @@ template: page
 
 [Nikolaos Aletras](http://www.nikosaletras.com/) - University of Sheffield
 
-[Ion Androutsopoulos](http://www.aueb.gr/users/ion/)  ― Athens University of Economics and Business
-
 Leslie Barrett ― Bloomberg Law
+
+[Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen
 
 [Catalina Goanta](https://www.maastrichtuniversity.nl/catalina.goanta) - Maastricht University
 
