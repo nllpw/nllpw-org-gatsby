@@ -13,8 +13,20 @@ If you have any suggestions for additions to the lists below, please reach out t
 
 ## Publications
 
+#### 2022
+- Peter Henderson, Mark S. Krass, Lucia Zheng, Neel Guha, Christopher D. Manning, Dan Jurafsky, Daniel E. Ho: [Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset](https://arxiv.org/pdf/2207.00220.pdf). arXiv 2022.
+- Yixiao Ma, Qingyao Ai, Yueyue Wu, Yunqiu Shao, Yiqun Liu, Min Zhang, Shaoping Ma: [Incorporating Retrieval Information into the Truncation of Ranking Lists for Better Legal Search](https://dl.acm.org/doi/pdf/10.1145/3477495.3531998). SIGIR 2022
+- Weijie Yu, Zhongxiang Sun, Jun Xu, Zhenhua Dong, Xu Chen, Hongteng Xu, Ji-Rong Wen: [Explainable Legal Case Matching via Inverse Optimal Transport-based Rationale Extraction](https://dl.acm.org/doi/pdf/10.1145/3477495.3531974). SIGIR 2022
+- Yi Feng, Chuanyi Li, Vincent Ng: [Legal Judgment Prediction via Event Extraction with Constraints](https://aclanthology.org/2022.acl-long.48.pdf). ACL 2022
+- Antoine Louis, Gerasimos Spanakis: [A Statutory Article Retrieval Dataset in French](https://aclanthology.org/2022.acl-long.468.pdf). ACL 2022
+- Ilias Chalkidis, Abhik Jana, Dirk Hartung, Michael Bommarito, Ion Androutsopoulos, Daniel Martin Katz, Nikolaos Aletras: [LexGLUE: A Benchmark Dataset for Legal Language Understanding in English](https://aclanthology.org/2022.acl-long.297.pdf). ACL 2022
+- Arnav Kapoor, Mudit Dhawan, Anmol Goel, Arjun T H, Akshala Bhatnagar, Vibhu Agrawal, Amul Agrawal, Arnab Bhattacharya, Ponnurangam Kumaraguru, Ashutosh Modi: [HLDC: Hindi Legal Documents Corpus](https://aclanthology.org/2022.findings-acl.278.pdf). ACL Findings 2022
+- Feng Yao, Chaojun Xiao, Xiaozhi Wang, Zhiyuan Liu, Lei Hou, Cunchao Tu, Juanzi Li, Yun Liu, Weixing Shen, Maosong Sun: [LEVEN: A Large-Scale Chinese Legal Event Detection Dataset](https://aclanthology.org/2022.findings-acl.17.pdf). ACL Findings 2022
+- Sophia Althammer, Sebastian Hofstätter, Mete Sertkan, Suzan Verberne, Allan Hanbury: [PARM: A Paragraph Aggregation Retrieval Model for Dense Document-to-Document Retrieval](https://arxiv.org/pdf/2201.01614.pdf). ECIR 2022
+
 #### 2021
 
+- Ilias Chalkidis, Manos Fergadiotis, Ion Androutsopoulos: [MultiEURLEX -- A multi-lingual and multi-label legal document classification dataset for zero-shot cross-lingual transfer](https://aclanthology.org/2021.emnlp-main.559.pdf). EMNLP 2021
 - Vijit Malik, Rishabh Sanjay, Shubham Kumar Nigam, Kripabandhu Ghosh, Shouvik Kumar Guha, Arnab Bhattacharya, Ashutosh Modi: [*ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation*](https://arxiv.org/pdf/2105.13562.pdf). ACL 2021
 - Abhilasha Ravichander, Alan W Black, Thomas Norton, Shomir Wilson, Norman Sadeh: [*Breaking Down Walls of Text: How Can NLP Benefit Consumer Privacy?*](https://usableprivacy.org/static/files/ravichander_acl_2021.pdf). ACL 2021
 - Mukund Srinath, Shomir Wilson, C Lee Giles: [*Privacy at Scale: Introducing the PrivaSeer Corpus of Web Privacy Policies*](https://arxiv.org/pdf/2004.11131.pdf). ACL 2021
