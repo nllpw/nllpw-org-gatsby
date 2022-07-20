@@ -2,7 +2,6 @@
 title: Program
 subtitle: Workshop schedule
 seo:
-seo:
   title: Home
   description: The fourth workshop on Natural Legal Language Processing (NLLP 2022) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2022.
   extra:
