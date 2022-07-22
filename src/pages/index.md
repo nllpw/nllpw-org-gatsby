@@ -28,8 +28,8 @@ template: page
 <div class="grid-2-1">
   <div class="grid-2-1-left">
 
-**Slack**: Join our [Slack community](https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw)
-
+**Slack**: Join our [Slack community](https://join.slack.com/t/nllp/shared_invite/zt-1dag0kin4-IeoYogteA4fri_UgRRMJFQ)
+    
 **Youtube**: Watch our the latest [workshop presentations and talks](https://www.youtube.com/channel/UCqqT9g-V0IsghloVF6S75dw)
 
 **Twitter**: Follow the latest [NLLP announcements](https://twitter.com/nllpworkshop?lang=en)
