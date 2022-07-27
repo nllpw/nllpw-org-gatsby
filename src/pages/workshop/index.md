@@ -40,7 +40,7 @@ All deadlines are 11.59pm UTC -12h
 #### Sponsors:  
   
 [<img src="/images/bloomberg.png" width="300"/>](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/)
-[<img src="/images/lbox.png" width="300"/>]()
+[<img src="/images/lbox.png" width="300"/>](https://lbox.kr/)
 
 #### Past editions:
 - [NLLP 2021](https://nllpw.org/workshop/nllp-2021)
