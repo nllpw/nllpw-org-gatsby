@@ -37,9 +37,13 @@ NLLP Workshop 2022 will take place on Thursday 8 December 2022 in Abu Dhabi, UAE
 
 All deadlines are 11.59pm UTC -12h
 
-#### Sponsors:
+#### Sponsors:  
+  
+[<img src="/images/bloomberg.png" width="300"/>](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/)
 
-<img src="/images/bloomberg.png" width="300"/>
+<img src="/images/lbox.png" width="300"/>
+
+
 
 #### Past editions:
 - [NLLP 2021](https://nllpw.org/workshop/nllp-2021)
