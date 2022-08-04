@@ -1,5 +1,5 @@
 ---
-title: Natural Legal Language Processing - NLLP
+title: Natural Legal Language Processing - NLLP 2022
 subtitle: 
 seo:
   title: Home
