@@ -26,8 +26,7 @@ template: page
 
 NLLP Workshop 2022 will take place on Thursday 8 December 2022 in Abu Dhabi, UAE, co-located with [EMNLP 2022](https://2022.emnlp.org/). 
 
-#### Invited Speakers:
-- TBA
+The call for papers is [available here](https://nllpw.org/workshop/call/).
 
 #### Important Dates:
 - Submission deadline ― 26 September 2022
@@ -40,7 +39,9 @@ All deadlines are 11.59pm UTC -12h
 
 #### Sponsors:  
   
-[<img src="/images/bloomberg.png" width="250"/>](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/)  
+  
+[<img src="/images/bloomberg.png" width="250"/>](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/)
+
 [<img src="/images/lbox.png" width="250"/>](https://lbox.kr/)
 
 #### Past editions:
