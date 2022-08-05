@@ -92,9 +92,9 @@ If the preliminary version of a paper was posted in arXiv, the authors should NO
 
 **Exception**: Submissions with the non-archival option are excepted from these requirements. 
 
-### ACL Rolling Review
+### ACL Rolling Review Submissions
 
-Starting from this year, our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their reviews ready may submit their papers and reviews for consideration for the workshop up to one week before our notification date.
+Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until **15 October 2022**. This should include submissions to ARR for the 1 September deadline.
 
 ### Double-Blind reviewing
 
@@ -102,19 +102,18 @@ The review process is double-blind. Submitted papers must not include author nam
 
 ### Submission Style & Format Guidelines
 
-Submissions to the workshop must be in PDF and formatted according to the new Standard ACL Conference Proceedings Template.
+Paper submissions must use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files) ([Latex](https://github.com/acl-org/acl-style-files/tree/master/latex) and [Word](https://github.com/acl-org/acl-style-files/tree/master/word)). Please follow the paper formatting guidelines general to "*ACL" conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html).
 
-The templates are available on [Overleaf as a template](https://www.overleaf.com/latex/templates/emnlp-2021-template/hqchdxrsnwjs) and can also be downloaded directly ([LaTeX](https://2021.emnlp.org/files/emnlp2021-latex.zip), [Word](https://2021.emnlp.org/files/emnlp2021.docx)).
+Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
-Please follow the formatting documentation general to *ACL conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). The templates themselves contain only specific notes (e.g., LaTeX notes in the .tex file).
-
-Papers that do not meet the formatting requirements will be rejected without review.
+All long, short and theme papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines).
 
 ## Important deadlines
 
 - **Submission deadline** ― 26 September 2022
-- **Notification** ― TBA
-- **Camera ready** ― TBA
+- **Notification** ― 12 October 2022
+- **ARR Committment deadline** ― 15 October 2022
+- **Camera ready** ― 26 October 2022
 - **Workshop** ― 8 December 2022
 
 All deadlines are 11.59pm UTC -12h
