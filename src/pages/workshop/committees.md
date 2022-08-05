@@ -30,7 +30,7 @@ template: page
 - [Nikolaos Aletras](http://nikosaletras.com) - University of Sheffield
 - Leslie Barrett - Bloomberg Law
 - [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen 
-- [Catalina Goanta](https://www.maastrichtuniversity.nl/catalina.goanta) - Maastricht University
+- [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) - Uthrech University
 - [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg
 
 ## Programe Committee
