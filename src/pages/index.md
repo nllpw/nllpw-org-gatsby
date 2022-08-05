@@ -48,7 +48,7 @@ Leslie Barrett ― Bloomberg Law
 
 [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen
 
-[Catalina Goanta](https://www.maastrichtuniversity.nl/catalina.goanta) - Maastricht University
+[Catalina Goanta]([https://www.maastrichtuniversity.nl/catalina.goanta](https://www.uu.nl/staff/ECGoanta)) - Utrecht University
 
 [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg
 
