@@ -25,13 +25,5 @@ seo:
 template: page
 ---
 
-## Sofia Ranchordas (University of Groningen & LUISS Guido Carli)
-
-**Title**: TBA
-
-**Abstract**: TBA
-
-![Block Image](https://static.wixstatic.com/media/5a3d0a_a1643afa644947dbaadd38bb7a79575e~mv2.jpg/v1/fill/w_386,h_388,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/profile%20pic%20color%20Nov%202020_JPG.jpg)
-
-**Bio**: 
+TBA
 
