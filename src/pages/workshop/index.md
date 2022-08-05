@@ -27,20 +27,21 @@ template: page
 NLLP Workshop 2022 will take place on Thursday 8 December 2022 in Abu Dhabi, UAE, co-located with [EMNLP 2022](https://2022.emnlp.org/). 
 
 #### Invited Speakers:
-- [Sofia Ranchord&aacute;s](https://www.rug.nl/staff/s.h.ranchordas/) - University of Groningen & LUISS Guido Carli
+- TBA
 
 #### Important Dates:
 - Submission deadline ― 26 September 2022
-- Notification ― TBA
-- Camera ready ― TBA
+- Notification ― 12 October 2022
+- ARR Committment deadline ― 15 October 2022
+- Camera ready ― 26 October 2022
 - Workshop ― 8 December 2022
 
 All deadlines are 11.59pm UTC -12h
 
 #### Sponsors:  
   
-[<img src="/images/bloomberg.png" width="300"/>](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/)
-[<img src="/images/lbox.png" width="300"/>](https://lbox.kr/)
+[<img src="/images/bloomberg.png" width="250"/>](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/)  
+[<img src="/images/lbox.png" width="250"/>](https://lbox.kr/)
 
 #### Past editions:
 - [NLLP 2021](https://nllpw.org/workshop/nllp-2021)
