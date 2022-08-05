@@ -41,7 +41,6 @@ All deadlines are 11.59pm UTC -12h
   
   
 [<img src="/images/bloomberg.png" width="250"/>](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/)
-
 [<img src="/images/lbox.png" width="250"/>](https://lbox.kr/)
 
 #### Past editions:
