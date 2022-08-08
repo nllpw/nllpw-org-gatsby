@@ -60,7 +60,7 @@ template: page
 - [Peter Henderson](https://www.peterhenderson.co/) - Stanford University (US)
 - [Nils Holzenberger](https://www.cs.jhu.edu/~nholzen1/) - Johns Hopkins University (US)
 - [Daniel Katz](https://www.danielmartinkatz.com/) - Illinois Tech - Chicago Kent College of Law (US)
-- [Ilan Kernerman](http://www.elexicography.eu/portfolio-item/kernerman/) - K Dictionaries (Israel)
+- [Ilan Kernerman](http://www.elexicography.eu/portfolio-item/kernerman/) - Lexicala (Israel)
 - [Manolis Koubarakis](http://cgi.di.uoa.gr/~koubarak/) - University of Athens (Greece)
 - [Junyi Jessy Li](https://liberalarts.utexas.edu/linguistics/faculty/jl67946) - University of Texas at Austin (US)
 - [Ruta Liepina](https://www.maastrichtuniversity.nl/p70067150) - Maastricht University (The Netherlands)
