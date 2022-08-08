@@ -38,7 +38,7 @@ template: page
 - [Tomaso Agnoloni](http://www.ittig.cnr.it/en/persone/ricerca/tommaso-agnoloni/) - Institute of Legal Information Theory and Technologies (Italy)
 - [Ion Androutsopoulos](https://www2.aueb.gr/users/ion/) - Athens University of Economics and Business (Greece)
 - [Elliott Ash](https://elliottash.com/) - ETH Zurich (Switzerland)
-- [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) - Mohamed bin Zayed University of Artificial Intelligence (UAE)
+- [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) - Mohamed bin Zayed University of Artificial Intelligence (UAE) & The University of Melbourne (Australia)
 - Breck Baldwin - Columbia University (US)
 - [Andrew Blair-Stanek](https://www.law.umaryland.edu/Directory/profile.asp?id=893) - Johns Hopkins University (US)
 - [Lukasz Borchmann](https://borchmann.ai/) - Applica.ai (Poland)
