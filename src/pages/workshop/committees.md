@@ -45,6 +45,7 @@ template: page
 - [Rajarathnam Chandramouli](http://www.mouli.me/) - Stevens Institute of Technology (US)
 - [Daniel Chen](http://users.nber.org/~dlchen/) - Toulouse School of Economics (France)
 - [Ashish Chouhan](https://www.srh-hochschule-heidelberg.de/hochschule/hochschulteam/ashish-chouhan) -	Heidelberg University & SRH Hochschule Heidelberg (Germany)
+- [Corina Coupette](https://people.mpi-inf.mpg.de/~coupette/) - Max Planck Institute for Informatics (Germany)
 - [Marina Danilevsky](http://marinadanilevsky.com/) - IBM Research (US)
 - Tony Davis - Southern Oregon University (US)
 - [Stefania Degaetano-Ortlieb](https://stefaniadegaetano.com/) - Saarland University (Germany)
