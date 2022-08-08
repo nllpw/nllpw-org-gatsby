@@ -55,7 +55,7 @@ Leslie Barrett ― Bloomberg Law
   </div>
 
   <div class="grid-2-1-right">
-    <a class="twitter-timeline" data-height="350" data-dnt="true" href="https://twitter.com/NllpWorkshop?ref_src=twsrc%5Etfw">Tweets by NllpWorkshop</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" data-height="350" href="https://twitter.com/NllpWorkshop?ref_src=twsrc%5Etfw">Tweets by NllpWorkshop</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
 
