@@ -61,7 +61,6 @@ template: page
 - [Daniel Katz](https://www.danielmartinkatz.com/) - Illinois Tech - Chicago Kent College of Law (US)
 - [Ilan Kernerman](http://www.elexicography.eu/portfolio-item/kernerman/) - K Dictionaries (Israel)
 - [Manolis Koubarakis](http://cgi.di.uoa.gr/~koubarak/) - University of Athens (Greece)
-- [Vasileios Lampos](https://www.lampos.net/) - University College London (UK)
 - [Junyi Jessy Li](https://liberalarts.utexas.edu/linguistics/faculty/jl67946) - University of Texas at Austin (US)
 - [Ruta Liepina](https://www.maastrichtuniversity.nl/p70067150) - Maastricht University (The Netherlands)
 - How Khang Lim - Singapore Management University (Singapore)
