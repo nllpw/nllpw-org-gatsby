@@ -96,6 +96,10 @@ If the preliminary version of a paper was posted in arXiv, the authors should NO
 
 Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until **15 October 2022**. This should include submissions to ARR for the 1 September deadline.
 
+### EMNLP 2022 Submissions
+
+Authors of any papers that have been reviewed for EMNLP 2022 and were rejected have the opportunity to send their paper and reviews to be considered for publication in the NLLP workshop proceedings. The deadline for submitting papers and reviews is **15 October 2022**. The decision of publication will be announced by **22 October 2022*.
+
 ### Double-Blind reviewing
 
 The review process is double-blind. Submitted papers must not include author names and affiliations and they must be written in a way so that they do not break the double-blind reviewing process. If the preliminary version of a paper was posted in arXiv, the authors should NOT mention it as their own paper in the submission. Papers that violate the double-blind review requirements will be desk rejected.
@@ -113,6 +117,8 @@ All long, short and theme papers must follow the [ACL Author Guidelines](https:/
 - **Submission deadline** ― 26 September 2022
 - **Notification** ― 12 October 2022
 - **ARR Committment deadline** ― 15 October 2022
+- **Submission of EMNLP papers with reviews** ― 15 October 2022
+- **ARR and EMNLP notification** ― 22 October 2022
 - **Camera ready** ― 26 October 2022
 - **Workshop** ― 8 December 2022
 
