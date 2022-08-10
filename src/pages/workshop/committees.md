@@ -82,5 +82,5 @@ template: page
 - [Dimitrios Tsarapatsanis](https://www.sheffield.ac.uk/law/staff/dtsarapatsanis) - University of York (UK)
 - [Josef Valvoda](https://valvoda.github.io/) - Cambridge University (UK)
 - [Gijs Van Dijck](https://www.maastrichtuniversity.nl/gijs.vandijck) - Maastricht University (The Netherlands)
-- [Adam Wyner](http://www.swansea.ac.uk/staff/law/adamwyner/) - Swansea University (UK)
+- [Adam Wyner](https://www.swansea.ac.uk/staff/a.z.wyner/) - Swansea University (UK)
 - [Marcos Zampieri](https://mzampieri.com/) - Rochester Institute of Technology (US) 
