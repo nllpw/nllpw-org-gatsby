@@ -29,11 +29,13 @@ NLLP Workshop 2022 will take place on Thursday 8 December 2022 in Abu Dhabi, UAE
 The call for papers is [available here](https://nllpw.org/workshop/call/).
 
 #### Important Dates:
-- Submission deadline ― 26 September 2022
-- Notification ― 12 October 2022
-- ARR Committment deadline ― 15 October 2022
-- Camera ready ― 26 October 2022
-- Workshop ― 8 December 2022
+- **Submission deadline** ― 26 September 2022
+- **Notification** ― 12 October 2022
+- **ARR Committment deadline** ― 15 October 2022
+- **Submission of EMNLP papers with reviews** ― 15 October 2022
+- **ARR and EMNLP notification** ― 22 October 2022
+- **Camera ready** ― 26 October 2022
+- **Workshop** ― 8 December 2022
 
 All deadlines are 11.59pm UTC -12h
 
