@@ -94,11 +94,11 @@ If the preliminary version of a paper was posted in arXiv, the authors should NO
 
 ### ACL Rolling Review Submissions
 
-Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until **15 October 2022**. This should include submissions to ARR for the 1 September deadline. The committment should be done via the workshop submission website: https://softconf.com/emnlp2022/NLLP
+Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until **15 October 2022**. This should include submissions to ARR for the 1 September deadline. The committment should be done via the workshop submission website: https://softconf.com/emnlp2022/NLLP ("ACL Rolling Review Committment" submission type)
 
 ### EMNLP 2022 Submissions
 
-Authors of any papers that have been reviewed for EMNLP 2022 and were rejected have the opportunity to send their paper and reviews to be considered for publication in the NLLP workshop proceedings. The deadline for submitting papers and reviews is **15 October 2022**. The decision of publication will be announced by **22 October 2022**. The submission should be done via the workshop submission website: https://softconf.com/emnlp2022/NLLP
+Authors of any papers that have been reviewed for EMNLP 2022 and were rejected have the opportunity to send their paper and reviews to be considered for publication in the NLLP workshop proceedings. The deadline for submitting papers and reviews is **15 October 2022**. The decision of publication will be announced by **22 October 2022**. The submission should be done via the workshop submission website: https://softconf.com/emnlp2022/NLLP ("EMNLP 2022 Submission with reviews" submission type)
 
 ### Double-Blind reviewing
 
