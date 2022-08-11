@@ -74,6 +74,7 @@ template: page
 - [Georg Rehm](http://georg-re.hm/) - DFKI (Germany)
 - George Sanchez - Thomson Reuters (US)
 - [Thibault Schrepel](https://thibaultschrepel.com/en/)	- Vrije Universiteit (The Netherlands)
+- [Sebastian Schwemer](http://schwemer.dk/) - University of Copenhagen (Denmark)
 - [Mathias Siems](https://www.eui.eu/people?id=mathias-siems) - European University Institute (Italy)
 - [Dan Simonson](http://thedansimonson.com/) - BlackBoiler LLC (US)
 - [Jerrold Soh](https://www.linkedin.com/in/jerroldsoh/?originalSubdomain=sg) - Singapore Management University (Singapore)
