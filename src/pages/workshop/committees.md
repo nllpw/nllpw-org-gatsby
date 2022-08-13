@@ -73,6 +73,7 @@ template: page
 - [Paulo Quaresma](http://www.di.uevora.pt/~pq/) - Universidade de Évora (Portugalia)
 - [Georg Rehm](http://georg-re.hm/) - DFKI (Germany)
 - George Sanchez - Thomson Reuters (US)
+- [Cristiana Santos](https://rel-incode.github.io/cristianasantos/) - Utrecht University (The Netherlands)
 - [Thibault Schrepel](https://thibaultschrepel.com/en/)	- Vrije Universiteit (The Netherlands)
 - [Sebastian Schwemer](http://schwemer.dk/) - University of Copenhagen (Denmark)
 - [Mathias Siems](https://www.eui.eu/people?id=mathias-siems) - European University Institute (Italy)
