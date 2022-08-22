@@ -86,3 +86,4 @@ template: page
 - [Gijs Van Dijck](https://www.maastrichtuniversity.nl/gijs.vandijck) - Maastricht University (The Netherlands)
 - [Adam Wyner](https://www.swansea.ac.uk/staff/a.z.wyner/) - Swansea University (UK)
 - [Marcos Zampieri](https://mzampieri.com/) - Rochester Institute of Technology (US) 
+- [Miri Zilka](http://www.eng.cam.ac.uk/profiles/mz477) - University of Cambridge (UK)
