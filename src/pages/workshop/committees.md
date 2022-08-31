@@ -68,7 +68,7 @@ template: page
 - [Antoine Louis](https://www.maastrichtuniversity.nl/p70072559) - Maastricht University (The Netherlands)
 - [Prodromos Malakasiotis](http://pages.cs.aueb.gr/~rulller/) - NCSR "Demokritos" & Athens University of Economics and Business (Greece)
 - [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html) - New York University (US)
-- [Jelena Mitrovic](http://jelena.mitrovic.rs/) - University of Passau (Germany)
+- [Jelena Mitrović](https://ca-roll.github.io/) - University of Passau (Germany) & Institute for AI R&D of Serbia (Serbia)
 - [Pietro Ortolani](http://www.pietroortolani.com/) - Radboud University (The Netherlands)
 - [Paulo Quaresma](http://www.di.uevora.pt/~pq/) - Universidade de Évora (Portugalia)
 - [Georg Rehm](http://georg-re.hm/) - DFKI (Germany)
