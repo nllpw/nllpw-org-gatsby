@@ -28,6 +28,8 @@ NLLP Workshop 2022 will take place on Thursday 8 December 2022 in Abu Dhabi, UAE
 
 The call for papers is [available here](https://nllpw.org/workshop/call/).
 
+Michael Livermore (University of Virginia School of Law) is the [invited speaker](https://nllpw.org/workshop/speakers/).
+
 #### Important Dates:
 - **Submission deadline** ― 26 September 2022
 - **Notification** ― 12 October 2022
