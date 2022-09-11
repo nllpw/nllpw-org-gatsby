@@ -25,8 +25,6 @@ seo:
 template: page
 ---
 
-# Invited Speakers
-
 ## Michael Livermore (University of Virginia School of Law)
 
 **Title**: Finding the Law
