@@ -25,7 +25,7 @@ seo:
 template: page
 ---
 
-## Michael Livermore (University of Virginia School of Law)
+### Michael Livermore (University of Virginia School of Law)
 
 **Title**: Finding the Law
 
