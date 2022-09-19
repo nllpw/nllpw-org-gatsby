@@ -80,6 +80,10 @@ To submit a paper, please access the [submission link](https://softconf.com/emnl
 
 Conference proceedings will be published on the [ACL Anthology](https://aclanthology.org/).
 
+### Ethics section
+
+The NLLP workshop adheres to the same standards regarding [ethics as the EMNLP 2022 conference](https://2022.emnlp.org/calls/main_conference_papers/#ethics-policy). Authors will be allowed extra space after the 8th page (4th for short papers) for an optional broader impact statement or other discussion of ethics. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted.
+
 ### Non-archival option
 
 The authors have the option of submitting previously unpublished research as non-archival, meaning that only the abstract will be published in the conference proceedings. We expect these submissions to describe the same quality of work as archival submissions. These will be reviewed following the same procedure as archival submissions. This option accommodates publication of the work or a superset at a later date in a conference or journal which does not allow previously archived work and to encourage presentation and feedback on mature, yet unpublished work. Non-archival submissions should adhere to the same formatting and length constraints as archival submissions.
@@ -114,12 +118,13 @@ All long, short and theme papers must follow the [ACL Author Guidelines](https:/
 
 ## Important deadlines
 
-- **Submission deadline** ― 26 September 2022
-- **Notification** ― 12 October 2022
+- **Submission deadline** ― 3 October ~~26 September 2022~~
 - **ARR Committment deadline** ― 15 October 2022
 - **Submission of EMNLP papers with reviews** ― 15 October 2022
-- **ARR and EMNLP notification** ― 22 October 2022
-- **Camera ready** ― 26 October 2022
+- **Notification** ― 19 October 2022 ~~12 October 2022~~
+- **ARR and EMNLP notification** ― 29 October 22022 ~~22 October 2022~~
+- **Camera ready due** ― 3 November 2022 ~~26 October 2022~~
+- **Presentation due** ― 16 November 2022z
 - **Workshop** ― 8 December 2022
 
 All deadlines are 11.59pm UTC -12h
