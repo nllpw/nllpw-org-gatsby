@@ -122,7 +122,7 @@ All long, short and theme papers must follow the [ACL Author Guidelines](https:/
 - **ARR Committment deadline** ― 15 October 2022
 - **Submission of EMNLP papers with reviews** ― 15 October 2022
 - **Notification** ― 19 October 2022 ~~12 October 2022~~
-- **ARR and EMNLP notification** ― 29 October 22022 ~~22 October 2022~~
+- **ARR and EMNLP notification** ― 22 October 2022
 - **Camera ready due** ― 3 November 2022 ~~26 October 2022~~
 - **Presentation due** ― 16 November 2022z
 - **Workshop** ― 8 December 2022
