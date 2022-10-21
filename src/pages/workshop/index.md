@@ -34,8 +34,8 @@ Michael Livermore (University of Virginia School of Law) is the [invited speaker
 - **Submission deadline** ― 3 October 2022 ~~26 September 2022~~
 - **ARR Committment deadline** ― 15 October 2022
 - **Submission of EMNLP papers with reviews** ― 15 October 2022
-- **Notification** ― 19 October 2022 ~~12 October 2022~~
-- **ARR and EMNLP notification** ― 22 October 2022
+- **ARR and EMNLP notification** ― 19 October 2022 ~~22 October 2022~~
+- **Direct Nubmission Notification** ― 21 October 2022 ~~12 October 2022~~
 - **Camera ready due** ― 3 November 2022 ~~26 October 2022~~
 - **Presentation due** ― 16 November 2022
 - **Workshop** ― 8 December 2022
