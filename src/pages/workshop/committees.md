@@ -27,11 +27,11 @@ template: page
 
 ## Organizing Committee 
 
-- [Nikolaos Aletras](http://nikosaletras.com) - University of Sheffield
-- Leslie Barrett - Bloomberg Law
-- [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen 
-- [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) - Uthrech University
-- [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg
+- [Nikolaos Aletras](http://nikosaletras.com) - University of Sheffield (UK)
+- Leslie Barrett - Bloomberg Law (US)
+- [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen (Denmark)
+- [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) - Uthrech University (The Netherlands)
+- [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg (US)
 
 ## Programe Committee
 
@@ -39,7 +39,6 @@ template: page
 - [Ion Androutsopoulos](https://www2.aueb.gr/users/ion/) - Athens University of Economics and Business (Greece)
 - [Elliott Ash](https://elliottash.com/) - ETH Zurich (Switzerland)
 - [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) - Mohamed bin Zayed University of Artificial Intelligence (UAE) & The University of Melbourne (Australia)
-- Breck Baldwin - Columbia University (US)
 - [Andrew Blair-Stanek](https://www.law.umaryland.edu/Directory/profile.asp?id=893) - Johns Hopkins University (US)
 - [Lukasz Borchmann](https://borchmann.ai/) - Applica.ai (Poland)
 - [Rajarathnam Chandramouli](http://www.mouli.me/) - Stevens Institute of Technology (US)
@@ -69,18 +68,17 @@ template: page
 - [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html) - New York University (US)
 - [Jelena Mitrović](https://ca-roll.github.io/) - University of Passau (Germany) & Institute for AI R&D of Serbia (Serbia)
 - [Pietro Ortolani](http://www.pietroortolani.com/) - Radboud University (The Netherlands)
-- [Paulo Quaresma](http://www.di.uevora.pt/~pq/) - Universidade de Évora (Portugalia)
 - [Georg Rehm](http://georg-re.hm/) - DFKI (Germany)
 - George Sanchez - Thomson Reuters (US)
 - [Cristiana Santos](https://rel-incode.github.io/cristianasantos/) - Utrecht University (The Netherlands)
 - [Thibault Schrepel](https://thibaultschrepel.com/en/)	- Vrije Universiteit (The Netherlands)
-- [Sebastian Schwemer](http://schwemer.dk/) - University of Copenhagen (Denmark)
 - [Dan Simonson](http://thedansimonson.com/) - BlackBoiler LLC (US)
 - [Jerrold Soh](https://www.linkedin.com/in/jerroldsoh/?originalSubdomain=sg) - Singapore Management University (Singapore)
 - [Gerasimos Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/welcome-to-my-personal-website/contact-2/) - Maastricht University (The Netherlands)
 - [Andrea Tagarelli](http://people.dimes.unical.it/andreatagarelli/) - University of Calabria (Italy)
 - [Dimitrios Tsarapatsanis](https://www.sheffield.ac.uk/law/staff/dtsarapatsanis) - University of York (UK)
 - [Josef Valvoda](https://valvoda.github.io/) - Cambridge University (UK)
+- Jacob van de Kerkhof - Uthrech University (The Netherlands)
 - [Gijs Van Dijck](https://www.maastrichtuniversity.nl/gijs.vandijck) - Maastricht University (The Netherlands)
 - [Genta Indra Winata](https://gentawinata.com/) - Bloomberg (US)
 - [Adam Wyner](https://www.swansea.ac.uk/staff/a.z.wyner/) - Swansea University (UK)
