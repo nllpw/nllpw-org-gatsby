@@ -31,7 +31,7 @@ The NLLP Talks series brings together researchers from academia and industry wor
 
 The talks are scheduled every month on Fridays at 8am PST/11am EST/16 UK/17 CET time.
 
-Please follow announcements of upcoming talks on Twitter or our [Slack channel](https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw)
+Please follow announcements of upcoming talks on Twitter or our [Slack channel](https://join.slack.com/t/nllp/shared_invite/zt-1dag0kin4-IeoYogteA4fri_UgRRMJFQ)
 
 Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish to present in this series.
 
