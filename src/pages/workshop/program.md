@@ -188,7 +188,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">14:40 - 14:45</td>
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b><a href="" target="_blank">Legal-Tech Open Diaries: Lesson learned on how to develop and deploy light-weight models in the era of humongous Language Models</a></b> <br />
-			Stelios Maroudas (Cognitiv+, Athens University of Economics and Business); Sotiris Legkas (Cognitiv+, Athens University of Economics and Business); Prodromos Malakasiotis (Workable Software Limited); Ilias Chalkidis (University of Copenhagen)</td>
+			Stelios Maroudas (Cognitiv+, Athens University of Economics and Business); Sotiris Legkas (Cognitiv+, Athens University of Economics and Business); Prodromos Malakasiotis (Athens University of Economics and Business); Ilias Chalkidis (University of Copenhagen)</td>
 		</tr>		
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">14:45 - 14:50</td>
