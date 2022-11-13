@@ -30,48 +30,63 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 	<tbody>
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">09:00 - 10:40</td>
-			<td>Session 1 (Chair: Ilias Chalkidis)</td>
+			<td><b>Session 1 (Chair: Ilias Chalkidis)</b></td>
 		</tr>
 		<tr bgcolor="#FDEFEF">
 			<td nowrap="nowrap" valign="top">09:00 - 09:10</td>
 			<td valign="top"><b>Workshop opening</b></td>
 		</tr>
 		<tr bgcolor="#FDF6F0">
-			<td nowrap="nowrap" valign="top">09:00 - 09:15</td>
+			<td nowrap="nowrap" valign="top">09:10 - 09:15</td>
 			<td><b><a href="https://openreview.net/forum?id=z1d8fUiS8Cr" target="_blank">Multi-LexSum: Real-world Summaries of Civil Rights Lawsuits at Multiple Granularities</a></b> <br />
 			Zejiang Shen (MIT); Kyle Lo (Allen Institute for Artificial Intelligence); Lauren Yu (University of Michigan); Nathan Dahlberg; Margo Schlanger (University of Michigan); Doug Downey (Allen Institute for AI, Northwestern University)</td>
 		</tr>
+		<tr bgcolor="#FDF6F0">
+			<td nowrap="nowrap" valign="top">09:15 - 09:20</td>
+			<td><b><a href="" target="_blank">NAME</a></b> <br />
+			AUTHORS</td>
+		</tr>		
+		<tr bgcolor="#FDF6F0">
+			<td nowrap="nowrap" valign="top">09:20 - 09:25</td>
+			<td><b><a href="" target="_blank">NAME</a></b> <br />
+			AUTHORS</td>
+		</tr>
+		<tr bgcolor="#FDF6F0">
+			<td nowrap="nowrap" valign="top">09:25 - 09:35</td>
+			<td><b>Joint Q\amp;A</b> <br />
+			AUTHORS</td>
+		</tr>
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">10:40 - 11:00</td>
-			<td>Break</td>
+			<td><b>Break</b></td>
 		</tr>				
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">11:00 - 12:40</td>
-			<td>Session 2 (Chairs: Nikolaos Aletras &amp; Leslie Barrett)</td>
+			<td><b>Session 2 (Chairs: Nikolaos Aletras &amp; Leslie Barrett)</b></td>
 		</tr>		
 		<tr bgcolor="#FDEFEF">
 			<td nowrap="nowrap" valign="top">11:00 - 12:00</td>
-			<td valign="top"><b>Keynote Talk: Finding the Law - Mike Livermore (University of Virginia School of Law)</b></td>			
+			<td valign="top"><b>Keynote Talk</b><br />Finding the Law - Mike Livermore (University of Virginia School of Law)</td>			
 		</tr>			
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">12:40 - 14:00</td>
-			<td>Lunch &amp; In-Person Poster Session (Lunch provided)</td>
+			<td><b>Lunch &amp; In-Person Poster Session (Lunch provided)</b></td>
 		</tr>	
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">14:00 - 15:30</td>
-			<td>Session 3 (Chair: Catalina Goanta)</td>
+			<td><b>Session 3 (Chair: Catalina Goanta)</b></td>
 		</tr>				
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">15:30 - 16:00</td>
-			<td>Break</td>
+			<td><b>Break</b></td>
 		</tr>	
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">16:00 - 17:30</td>
-			<td>Session 4 (Chair: Daniel Preotiuc-Pietro)</td>
+			<td><b>Session 4 (Chair: Daniel Preotiuc-Pietro)</b></td>
 		</tr>		
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">17:30 - 18:30</td>
-			<td>Panel Discussion (From NLLP to legal NLP: The Future of the Field) &amp; Best Presentation Award</td>
+			<td><b>Panel Discussion (From NLLP to legal NLP: The Future of the Field) &amp; Best Presentation Award</b></td>
 		</tr>		
  </tbody>
 </table>
