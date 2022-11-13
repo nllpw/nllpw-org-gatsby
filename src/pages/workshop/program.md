@@ -26,7 +26,7 @@ template: page
 ---
 
 All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-emirates/abu-dhabi/")</a>
-<table border-spacing: 5px;>
+<table>
 	<tbody>
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">09:00 - 10:40</td>
@@ -291,7 +291,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 			<td><b>Joint Q&amp;A</b></td>
 		</tr>	
 		<tr bgcolor="#F8E2CF">
-			<td nowrap="nowrap" valign="top">17:30 - 18:30</td>
+			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">17:30 - 18:30</td>
 			<td><b>Panel Discussion (From NLLP to legal NLP: The Future of the Field) &amp; Best Presentation Award</b></td>
 		</tr>		
  </tbody>
