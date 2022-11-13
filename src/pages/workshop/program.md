@@ -44,7 +44,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">09:15 - 09:20</td>
 			<td><b><a href="" target="_blank">Extractive Summarization of Legal Decisions using Multi-task Learning and Maximal Marginal Relevance</a></b> <br />
-			AUTHORS</td>
+			Abhishek Agarwal; Shanshan Xu; Matthias Grabmair</td>
 		</tr>		
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">09:20 - 09:25</td>
@@ -53,8 +53,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">09:25 - 09:35</td>
-			<td><b>Joint Q&amp;A</b> <br />
-			AUTHORS</td>
+			<td><b>Joint Q&amp;A</b></td>
 		</tr>			
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">09:35 - 09:40</td>
@@ -74,7 +73,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">09:50 - 09:55</td>
 			<td><b><a href="" target="_blank">Revisiting Transformer-based Models for Long Document Classification</a></b> <br />
-			AUTHORS</td>
+			Xiang Dai; Ilias Chalkidis; Sune Darkner; Desmond Elliott</td>
 		</tr>			
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">09:55 - 10:00</td>
@@ -99,12 +98,11 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">10:15 - 10:20</td>
 			<td><b><a href="" target="_blank">Validity Assessment of Legal Will Statements as Natural Language Inference</a></b> <br />
-			AUTHORS</td>
+			Alice Saebom Kwak; Jacob O. Israelsen; Clayton T. Morrison; Derek E. Bambauer; Saumya K. Debray; Mihai Surdeanu</td>
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">10:20 - 10:40</td>
-			<td><b>Joint Q&amp;A</b> <br />
-			AUTHORS</td>
+			<td><b>Joint Q&amp;A</b></td>
 		</tr>			
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">10:40 - 11:00</td>
@@ -146,8 +144,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">12:25 - 12:40</td>
-			<td><b>Joint Q&amp;A</b> <br />
-			AUTHORS</td>
+			<td><b>Joint Q&amp;A</b></td>
 		</tr>			
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">12:40 - 14:00</td>
@@ -181,13 +178,12 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">14:20 - 14:35</td>
-			<td><b>Joint Q&amp;A</b> <br />
-			AUTHORS</td>
+			<td><b>Joint Q&amp;A</b></td>
 		</tr>		
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">14:35 - 14:40</td>
 			<td><b><a href="" target="_blank">Do Charge Prediction Models Learn Legal Theory?</a></b> <br />
-			AUTHORS</td>
+			An Zhenwei; Quzhe Huang; Cong Jiang; Yansong Feng; Dongyan Zhao</td>
 		</tr>		
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">14:40 - 14:45</td>
@@ -216,8 +212,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">15:05 - 15:30</td>
-			<td><b>Joint Q&amp;A</b> <br />
-			AUTHORS</td>
+			<td><b>Joint Q&amp;A</b></td>
 		</tr>	
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">15:30 - 16:00</td>
@@ -259,8 +254,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">16:30 - 16:45</td>
-			<td><b>Joint Q&amp;A</b> <br />
-			AUTHORS</td>
+			<td><b>Joint Q&amp;A</b></td>
 		</tr>	
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">16:45 - 16:50</td>
@@ -280,12 +274,12 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">17:00 - 17:05</td>
 			<td><b><a href="" target="_blank">Can AMR Assist Legal and Logical Reasoning?</a></b> <br />
-			AUTHORS</td>
+			Nikolaus Schrack (University of Copenhagen); Ruixiang Cui (University of Copenhagen); Hugo A. Lopez (Technical University of Denmark); Daniel Hershcovich (University of Copenhagen)</td>
 		</tr>		
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">17:05 - 17:10</td>
 			<td><b><a href="" target="_blank">LawngNLI: a long-premise benchmark for evaluating models on in-domain generalization to long contexts and implication-based retrieval</a></b> <br />
-			AUTHORS</td>
+			William Bruno; Dan Roth</td>
 		</tr>		
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">17:10 - 17:15</td>
@@ -294,8 +288,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td nowrap="nowrap" valign="top">17:15 - 17:30</td>
-			<td><b>Joint Q&amp;A</b> <br />
-			AUTHORS</td>
+			<td><b>Joint Q&amp;A</b></td>
 		</tr>	
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">17:30 - 18:30</td>
