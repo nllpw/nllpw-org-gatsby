@@ -25,40 +25,28 @@ seo:
 template: page
 ---
 
-All times are in (GST time zone)[https://greenwichmeantime.com/time/united-arab-emirates/abu-dhabi/"]</a>
+All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-emirates/abu-dhabi/")</a>
 <table>
 	<tbody>
-		<tr bgcolor="#FDEFEF">
-			<td>
-			<table>
-				<tbody>
-					<tr>
-						<td nowrap="nowrap" valign="top">08:00 - 08:10 &nbsp;&nbsp;</td>
-						<td><a href="/pdf/nllp-2021-intro.pdf" target="_blank">Workshop opening</a></td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-		</tr>
-		<tr bgcolor="#FDEFEF">
-			<td>
-			<table>
-				<tbody>
-					<tr>
-						<td nowrap="nowrap" valign="top">08:10 - 09:00 &nbsp;&nbsp;</td>
-						<td valign="top"><b>Invited Speaker: <i>John Armour</i></b></td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-		</tr>
 		<tr bgcolor="#F8E2CF">
 			<td>
 			<table>
 				<tbody>
 					<tr>
-						<td nowrap="nowrap" valign="top">09:00 - 10:30 &nbsp;&nbsp;</td>
-						<td valign="top"><b>Session 1</b></td>
+						<td nowrap="nowrap" valign="top">09:00 - 10:40 &nbsp;&nbsp;</td>
+						<td>Session 1</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr bgcolor="#FDEFEF">
+			<td>
+			<table>
+				<tbody>
+					<tr>
+						<td nowrap="nowrap" valign="top">09:00 - 09:10 &nbsp;&nbsp;</td>
+						<td valign="top"><b>Workshop opening</b></td>
 					</tr>
 				</tbody>
 			</table>
@@ -70,9 +58,8 @@ All times are in (GST time zone)[https://greenwichmeantime.com/time/united-arab-
 				<tbody>
 					<tr>
 						<td nowrap="nowrap" valign="top">09:00 - 09:15 &nbsp;&nbsp;</td>
-						<td><b><a href="https://aclanthology.org/2021.nllp-1.1.pdf" target="_blank">A Corpus for Multilingual Analysis of Online Terms of Service</a></b> <br />
-						<em>Kasper Drawzeski<sup>1</sup>,&nbsp;Andrea Galassi<sup>2</sup>,&nbsp;Agnieszka Jablonowska<sup>3</sup>,&nbsp;Francesca Lagioia<sup>3</sup>,&nbsp;Marco Lippi<sup>4</sup>,&nbsp;Hans Micklitz<sup>3</sup>,&nbsp;Giovanni Sartor<sup>3</sup>,&nbsp;Giacomo Tagiuri<sup>3</sup>,&nbsp;Paolo Torroni<sup>5</sup></em><br />
-						<sup>1</sup>BEUC, <sup>2</sup>University of Bologna, <sup>3</sup>European University Institute, <sup>4</sup>University of Modena and Reggio Emilia, <sup>5</sup>Alma Mater - Universit&agrave; di Bologna</td>
+						<td><b><a href="https://openreview.net/forum?id=z1d8fUiS8Cr" target="_blank">Multi-LexSum: Real-world Summaries of Civil Rights Lawsuits at Multiple Granularities</a></b> <br />
+						Zejiang Shen (MIT); Kyle Lo (Allen Institute for Artificial Intelligence); Lauren Yu (University of Michigan); Nathan Dahlberg; Margo Schlanger (University of Michigan); Doug Downey (Allen Institute for AI, Northwestern University)</td>
 					</tr>
 				</tbody>
 			</table>
