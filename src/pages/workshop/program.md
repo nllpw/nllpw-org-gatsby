@@ -26,7 +26,7 @@ template: page
 ---
 
 All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-emirates/abu-dhabi/")</a>
-<table>
+<table border-spacing: 5px;>
 	<tbody>
 		<tr bgcolor="#F8E2CF">
 			<td nowrap="nowrap" valign="top">09:00 - 10:40</td>
