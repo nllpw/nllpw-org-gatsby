@@ -24,9 +24,15 @@ seo:
 template: page
 ---
 
-NLLP Workshop 2022 will take place on Thursday 8 December 2022 in Abu Dhabi, UAE, co-located with [EMNLP 2022](https://2022.emnlp.org/). 
+NLLP Workshop 2022 is co-located with the [EMNLP 2022](https://2022.emnlp.org/) conference. 
 
-The call for papers is [available here](https://nllpw.org/workshop/call/).
+The workshop will take place in a hybrid format on Thursday 8 December 2022.
+
+The physical location will be in Capital Suite 8 in the Abu Dhabi National Exhibition Centre in Abu Dhabi, UAE ([details](https://2022.emnlp.org/venue)).
+
+The workshop will also allow remote presentations via Zoom (available only for [conference participants](https://2022.emnlp.org/registration/)) and on our [YouTube channel](https://www.youtube.com/c/NaturalLegalLanguageProcessingWorkshop).
+
+The program is now [available](https://nllpw.org/workshop/program/).
 
 Michael Livermore (University of Virginia School of Law) is the [invited speaker](https://nllpw.org/workshop/speakers/).
 
