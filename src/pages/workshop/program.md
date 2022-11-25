@@ -135,7 +135,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">12:15 - 12:20</td>
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b><a href="" target="_blank">Detecting Relevant Differences Between Similar Legal Texts</a></b> <br />
-			Xiang Li (University of Ottawa); Jianxun Gao (University of Ottawa); Diana Inkpen (University of Ottawa); Wolfgang Alschner (University of Ottawa)</td>
+			Xiang Li (University of Ottawa); Jiaxun Gao (University of Ottawa); Diana Inkpen (University of Ottawa); Wolfgang Alschner (University of Ottawa)</td>
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">12:20 - 12:25</td>
