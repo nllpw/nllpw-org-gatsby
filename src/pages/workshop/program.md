@@ -98,7 +98,7 @@ All times are in [GST time zone](https://greenwichmeantime.com/time/united-arab-
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">10:15 - 10:20</td>
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b><a href="" target="_blank">Validity Assessment of Legal Will Statements as Natural Language Inference</a></b> <br />
-			Alice Saebom Kwak; Jacob O. Israelsen; Clayton T. Morrison; Derek E. Bambauer; Saumya K. Debray; Mihai Surdeanu</td>
+			Alice Saebom Kwak (The University of Arizona); Jacob O. Israelsen (The University of Arizona); Clayton T. Morrison (The University of Arizona); Derek E. Bambauer (The University of Arizona); Mihai Surdeanu (The University of Arizona)</td>
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">10:20 - 10:40</td>
