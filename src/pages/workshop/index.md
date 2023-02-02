@@ -24,29 +24,15 @@ seo:
 template: page
 ---
 
-NLLP Workshop 2022 is co-located with the [EMNLP 2022](https://2022.emnlp.org/) conference. 
+NLLP Workshop 2022 took place on 8 December 2022, co-located with the [EMNLP 2022](https://2022.emnlp.org/) conference.
 
-The workshop will take place in a hybrid format on Thursday 8 December 2022.
+The workshop proceedings are available [here](https://aclanthology.org/events/emnlp-2022/#2022nllp-1).
 
-The physical location will be in Capital Suite 8 in the Abu Dhabi National Exhibition Centre in Abu Dhabi, UAE ([details](https://2022.emnlp.org/venue)).
+The recording of the workshop is available [here](https://www.youtube.com/watch?v=cdHE7u9vfSk&ab_channel=NaturalLegalLanguageProcessingWorkshop).
 
-The workshop will also allow remote presentations via Zoom (available only for [conference participants](https://2022.emnlp.org/registration/)) and on our [YouTube channel](https://www.youtube.com/c/NaturalLegalLanguageProcessingWorkshop).
+The program is available [here](https://nllpw.org/workshop/program/).
 
-The program is now [available](https://nllpw.org/workshop/program/).
-
-Michael Livermore (University of Virginia School of Law) is the [invited speaker](https://nllpw.org/workshop/speakers/).
-
-#### Important Dates:
-- **Submission deadline** ― 3 October 2022 ~~26 September 2022~~
-- **ARR Committment deadline** ― 15 October 2022
-- **Submission of EMNLP papers with reviews** ― 15 October 2022
-- **ARR and EMNLP notification** ― 19 October 2022 ~~22 October 2022~~
-- **Direct Nubmission Notification** ― 21 October 2022 ~~12 October 2022~~
-- **Camera ready due** ― 3 November 2022 ~~26 October 2022~~
-- **Presentation due** ― 16 November 2022
-- **Workshop** ― 8 December 2022
-
-All deadlines are 11.59pm UTC -12h
+Michael Livermore (University of Virginia School of Law) was the [invited speaker](https://nllpw.org/workshop/speakers/).
 
 #### Sponsors:  
   
