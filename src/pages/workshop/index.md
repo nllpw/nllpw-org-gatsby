@@ -24,6 +24,8 @@ seo:
 template: page
 ---
 
+The NLLP Workshop 2023 will take place in December 2022 (date to be confirmed) and will be co-located with the EMNLP 2023 conference in Singapore.
+
 NLLP Workshop 2022 took place on 8 December 2022, co-located with the [EMNLP 2022](https://2022.emnlp.org/) conference.
 
 The workshop proceedings are available [here](https://aclanthology.org/events/emnlp-2022/#2022nllp-1).
