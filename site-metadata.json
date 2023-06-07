@@ -1,95 +1,99 @@
 {
-    "header": {
-        "title": "NLLP",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/"
-            },
-            {
-                "label": "Talk Series",
-                "url": "/talks/"
-            },
-            {
-                "label": "Workshop",
-                "url": "/workshop/",
-                "children": [
-                    {
-                        "label": "Call for Papers",
-                        "url": "/workshop/call/"
-                    },
-                    {
-                        "label": "Program",
-                        "url": "/workshop/program/"
-                    },
-                    {
-                        "label": "Committees",
-                        "url": "/workshop/committees/"
-                    },
-                    {
-                        "label": "Speakers",
-                        "url": "/workshop/speakers/"
-                    },
-		    {
-			"label": "NLLP 2021",
-			"url": "/workshop/nllp-2021"
-		    },
-                    {
-                        "label": "NLLP 2020",
-                        "url": "https://sites.google.com/view/nllp/home",
-                        "new_window": true
-                    },
-                    {
-                        "label": "NLLP 2019",
-                        "url": "https://sites.google.com/view/nllp/nllp-2019",
-                        "new_window": true
-                    }
-                ]
-            },
-            {
-                "label": "Resources",
-                "url": "/resources/"
-            },
-	    {
-		"label": "About",
-		"url": "/about/"
-	    }
+  "header": {
+    "title": "NLLP",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Talk Series",
+        "url": "/talks/"
+      },
+      {
+        "label": "Workshop",
+        "url": "/workshop/",
+        "children": [
+          {
+            "label": "Call for Papers",
+            "url": "/workshop/call/"
+          },
+          {
+            "label": "Program",
+            "url": "/workshop/program/"
+          },
+          {
+            "label": "Committees",
+            "url": "/workshop/committees/"
+          },
+          {
+            "label": "Speakers",
+            "url": "/workshop/speakers/"
+          },
+          {
+            "label": "NLLP 2022",
+            "url": "/workshop/nllp-2022"
+          },
+          {
+            "label": "NLLP 2021",
+            "url": "/workshop/nllp-2021"
+          },
+          {
+            "label": "NLLP 2020",
+            "url": "https://sites.google.com/view/nllp/home",
+            "new_window": true
+          },
+          {
+            "label": "NLLP 2019",
+            "url": "https://sites.google.com/view/nllp/nllp-2019",
+            "new_window": true
+          }
         ]
-    },
-    "footer": {
-        "content": "&copy; NLLP 2022. Built with  <a href=\"https://www.gatsbyjs.com/\" target=\"_blank\" rel=\"noopener\">Gatsby</a>. Deployed on  <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener\">Netlify</a>.",
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "Slack",
-                "url": "https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw",
-                "new_window": true
-            },	    
-            {
-                "label": "Youtube",
-                "url": "https://www.youtube.com/channel/UCqqT9g-V0IsghloVF6S75dw",
-                "new_window": true
-            },
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/nllpworkshop?lang=en",
-                "new_window": true
-            },    
-            {
-                "label": "Google Groups",
-                "url": "https://groups.google.com/forum/#!forum/nllp",
-                "new_window": true
-            },
-            {
-                "label": "E-Mail",
-                "url": "mailto:nllp.chairs@gmail.com",
-                "new_window": true
-            }
-        ]
-    },
-    "title": "NLLP 2022",
-    "domain": "https://adorable-spider-f59d7.netlify.app",
-    "favicon": "/images/favicon.png",
-    "seoPreview": "https://adorable-spider-f59d7.netlify.app/images/prev.png"
+      },
+      {
+        "label": "Resources",
+        "url": "/resources/"
+      },
+      {
+        "label": "About",
+        "url": "/about/"
+      }
+    ]
+  },
+  "footer": {
+    "content": "&copy; NLLP 2022. Built with  <a href=\"https://www.gatsbyjs.com/\" target=\"_blank\" rel=\"noopener\">Gatsby</a>. Deployed on  <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener\">Netlify</a>.",
+    "has_social": true,
+    "social_links": [
+      {
+        "label": "Slack",
+        "url": "https://join.slack.com/t/nllp/shared_invite/zt-qrjzyncj-5Rq4AXnMKQVLkwWSQknRHw",
+        "new_window": true
+      },
+      {
+        "label": "Youtube",
+        "url": "https://www.youtube.com/channel/UCqqT9g-V0IsghloVF6S75dw",
+        "new_window": true
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/nllpworkshop?lang=en",
+        "new_window": true
+      },
+      {
+        "label": "Google Groups",
+        "url": "https://groups.google.com/forum/#!forum/nllp",
+        "new_window": true
+      },
+      {
+        "label": "E-Mail",
+        "url": "mailto:nllp.chairs@gmail.com",
+        "new_window": true
+      }
+    ]
+  },
+  "title": "NLLP 2022",
+  "domain": "https://adorable-spider-f59d7.netlify.app",
+  "favicon": "/images/favicon.png",
+  "seoPreview": "https://adorable-spider-f59d7.netlify.app/images/prev.png"
 }
