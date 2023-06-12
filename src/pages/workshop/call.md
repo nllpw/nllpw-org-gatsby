@@ -2,23 +2,23 @@
 title: Call for papers
 seo:
   title: Home
-  description: The fourth workshop on Natural Legal Language Processing (NLLP 2022) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2022.
+  description: The fourth workshop on Natural Legal Language Processing (NLLP 2023) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2023.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: NLLP Workshop 2022
+      value: NLLP Workshop 2023
       keyName: property
     - name: 'og:description'
-      value: The fourth workshop on Natural Legal Language Processing (NLLP 2022) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2022.
+      value: The fourth workshop on Natural Legal Language Processing (NLLP 2023) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2023.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: NLLP Workshop 2022
+      value: NLLP Workshop 2023
     - name: 'twitter:description'
-      value: The fourth workshop on Natural Legal Language Processing (NLLP 2022) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2022.
+      value: The fourth workshop on Natural Legal Language Processing (NLLP 2023) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2023.
     - name: 'keywords'
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
@@ -78,7 +78,7 @@ We accept papers reporting original (unpublished) research of two types:
 
 Appendices and acknowledgements do not count against the maximum page limit and should be formatted according to the guidelines below.
 
-To submit a paper, please access the [submission link](https://softconf.com/emnlp2022/NLLP).
+To submit a paper, please access the [submission link](https://softconf.com/emnlp2023/nllp2023).
 
 Conference proceedings will be published on the [ACL Anthology](https://aclanthology.org/).
 
@@ -92,7 +92,7 @@ The authors have the option of submitting previously unpublished research as non
 
 ### Dual Submission and Pre-print Policy
 
-Papers that have been or will be submitted to workshops, conferences or journals during the review period must indicate so at submission time. Authors of papers accepted for presentation at the NLLP 2022 workshop must notify the organizers by the camera-ready deadline as to whether the paper will be presented or withdrawn.
+Papers that have been or will be submitted to workshops, conferences or journals during the review period must indicate so at submission time. Authors of papers accepted for presentation at the NLLP 2023 workshop must notify the organizers by the camera-ready deadline as to whether the paper will be presented or withdrawn.
 
 If the preliminary version of a paper was posted in arXiv, the authors should NOT mention it as their own paper in the submission. Papers that violate the double-blind review requirements will be desk rejected. 
 
@@ -100,7 +100,7 @@ If the preliminary version of a paper was posted in arXiv, the authors should NO
 
 ### ACL Rolling Review Submissions
 
-Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until **10 October 2023**. This should include submissions to ARR for the 15 August deadline.  The decision of publication will be announced by 17 October 2023.  The committment should be done via the workshop submission website: https://softconf.com/emnlp2023/nllp2023/ ("ACL Rolling Review Committment" submission type)
+Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until **10 October 2023**. This should include submissions to ARR for the **15 August** deadline.  The decision of publication will be announced by **17 October 2023**.  The committment should be done via the workshop submission website: https://softconf.com/emnlp2023/nllp2023/ ("ACL Rolling Review Committment" submission type)
 
 ### EMNLP 2023 Submissions
 
