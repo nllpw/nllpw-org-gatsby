@@ -26,7 +26,7 @@ template: page
 
 ## Goal
 
-Following the success of the first three editions of the NLLP workshop (NAACL 2019, KDD 2020, EMNLP 2021), we aim to bring researchers and practitioners from NLP, machine learning and other artificial intelligence disciplines together with legal practitioners and researchers. We welcome submissions describing original work on legal data, as well as data with legal relevance, such as:
+Following the success of the first four editions of the NLLP workshop (NAACL 2019, KDD 2020, EMNLP 2021, EMNLP 2022), we aim to bring researchers and practitioners from NLP, machine learning and other artificial intelligence disciplines together with legal practitioners and researchers. We welcome submissions describing original work on legal data, as well as data with legal relevance, such as:
 
 - Applications of NLP to legal tasks including, but not limited to:
   - Legal Citation Resolution
@@ -67,6 +67,8 @@ Following the success of the first three editions of the NLLP workshop (NAACL 20
 - Interdisciplinary position papers:
   - Legal or socio-legal analyses relating to the role NLP can play in the legal field
   - Critical reflections on the legality and ethics of data collection and processing practices
+  - Critical reflections about the benefits and challenges of Large Language Models (LLMs) from a legal and regulatory perspective
+  - Critical reflections on the legality and ethics of data collection and processing practices
 
 ## Submission
 
@@ -82,7 +84,7 @@ Conference proceedings will be published on the [ACL Anthology](https://aclantho
 
 ### Ethics section
 
-The NLLP workshop adheres to the same standards regarding [ethics as the EMNLP 2022 conference](https://2022.emnlp.org/calls/main_conference_papers/#ethics-policy). Authors will be allowed extra space after the 8th page (4th for short papers) for an optional broader impact statement or other discussion of ethics. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted.
+The NLLP workshop adheres to the same standards regarding [ethics as the EMNLP 2023 conference](https://2023.emnlp.org/calls/main_conference_papers/#ethics-policy). Authors will be allowed extra space after the 8th page (4th for short papers) for an optional broader impact statement or other discussion of ethics. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted.
 
 ### Non-archival option
 
@@ -98,11 +100,11 @@ If the preliminary version of a paper was posted in arXiv, the authors should NO
 
 ### ACL Rolling Review Submissions
 
-Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until **15 October 2022**. This should include submissions to ARR for the 1 September deadline. The committment should be done via the workshop submission website: https://softconf.com/emnlp2022/NLLP ("ACL Rolling Review Committment" submission type)
+Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until **10 October 2023**. This should include submissions to ARR for the 15 August deadline.  The decision of publication will be announced by 17 October 2023.  The committment should be done via the workshop submission website: https://softconf.com/emnlp2023/nllp2023/ ("ACL Rolling Review Committment" submission type)
 
-### EMNLP 2022 Submissions
+### EMNLP 2023 Submissions
 
-Authors of any papers that have been reviewed for EMNLP 2022 and were rejected have the opportunity to send their paper and reviews to be considered for publication in the NLLP workshop proceedings. The deadline for submitting papers and reviews is **15 October 2022**. The decision of publication will be announced by **22 October 2022**. The submission should be done via the workshop submission website: https://softconf.com/emnlp2022/NLLP ("EMNLP 2022 Submission with reviews" submission type)
+Authors of any papers that have been reviewed for EMNLP 2023 and were rejected have the opportunity to send their paper and reviews to be considered for publication in the NLLP workshop proceedings. The deadline for submitting papers and reviews is **10 October 2023**. The decision of publication will be announced by **17 October 2023**. The submission should be done via the workshop submission website: [https://softconf.com/emnlp2023/nllp2023] ("EMNLP 2023 Submission with reviews" submission type)
 
 ### Double-Blind reviewing
 
@@ -118,18 +120,18 @@ All long, short and theme papers must follow the [ACL Author Guidelines](https:/
 
 ## Important deadlines
 
-- **Submission deadline** ― 3 October 2022 ~~26 September 2022~~
-- **ARR Committment deadline** ― 15 October 2022
-- **Submission of EMNLP papers with reviews** ― 15 October 2022
-- **Notification** ― 19 October 2022 ~~12 October 2022~~
-- **ARR and EMNLP notification** ― 22 October 2022
-- **Camera ready due** ― 3 November 2022 ~~26 October 2022~~
-- **Presentation due** ― 16 November 2022
-- **Workshop** ― 8 December 2022
+- **Submission deadline** ― 18 September 2023
+- **Notification** ― 6 October 2023
+- **Submission of EMNLP papers with reviews** ― 10 October 2023
+- **ARR Committment deadline** ― 10 October 2023
+- **ARR and EMNLP notification** ― 17 October 2023
+- **Camera ready due** ― 20 October 2023 
+- **Presentation due** ― 1 December 2023
+- **Workshop** ― 7 December 2023
 
 All deadlines are 11.59pm UTC -12h
 
 ## Presentation
 
 - Presentation format for each paper and schedule will be announced between acceptance notification and the camera-ready deadline.
-- At least one author of each accepted paper must register for the NLLP 2022 workshop by the registration deadline in order for the submission to be published in the proceedings.
+- At least one author of each accepted paper must register for the NLLP 2023 workshop by the registration deadline in order for the submission to be published in the proceedings.
