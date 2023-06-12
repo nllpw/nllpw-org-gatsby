@@ -44,6 +44,7 @@ Michael Livermore (University of Virginia School of Law) was the [invited speake
 [<img src="/images/erc.png" width="250"/>]()
 
 #### Past editions:
+- [NLLP 2022](https://nllpw.org/workshop/nllp-2022)
 - [NLLP 2021](https://nllpw.org/workshop/nllp-2021)
 - [NLLP 2020](https://sites.google.com/view/nllp/home)
 - [NLLP 2019](https://sites.google.com/view/nllp/nllp-2019)
