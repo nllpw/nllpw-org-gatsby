@@ -30,7 +30,7 @@ The NLLP Workshop 2023 will take place on **8 December 2023** and will be co-loc
 
 The full call for papers can be found [here](https://nllpw.org/workshop/call/). To submit a paper, please access the [submission link](https://softconf.com/emnlp2023/nllp2023).
 
-#### Important deadlines
+#### Important dates
 
 - **Submission deadline** ― 18 September 2023
 - **Notification** ― 6 October 2023
@@ -46,10 +46,17 @@ All deadlines are 11.59pm UTC -12h
 #### Organizing Committee 
 
 - [Nikolaos Aletras](http://nikosaletras.com) - University of Sheffield (UK)
-- Leslie Barrett - Bloomberg Law (US)
+- Leslie Barrett - Bloomberg (US)
 - [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen (Denmark)
-- [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) - Uthrech University (The Netherlands)
+- [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) - Utrecht University (The Netherlands)
 - [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg (US)
+
+<img src="/images/poster.png" width="250"/>
+
+#### Sponsors
+
+[<img src="/images/bloomberg.png" width="250"/>](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/)
+[<img src="/images/ercwhite.png" width="250"/>](https://humanads.eu)
 
 #### Past editions:
 - [NLLP 2022](https://nllpw.org/workshop/nllp-2022)
