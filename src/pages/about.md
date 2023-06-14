@@ -43,7 +43,7 @@ The interest of public authorities in developing market monitoring tools is at a
 
 As electronic information becomes increasingly available around the world, automated tools for processing that information have grown apace. These tools can be especially effective and time-saving on text where information can be distilled in interesting ways including auto-summarization, named-entity extraction, machine translation, sentiment analysis, topic classification and others. As a result, natural language processing (NLP) applications are popular in important commercial contexts such as finance and healthcare.
 
-The Legal domain however is still largely underrepresented in the NLP literature despite its enormous potential for generating interesting research problems on a par with other important commercial areas.
+The Legal Domain however is still largely underrepresented in the NLP literature despite its enormous potential for generating interesting research problems on a par with other important commercial areas.
 
 The accessibility of legal texts in the US in particular was an issue in the past preventing some researchers from working on legal NLP problems. Over the last few years however, more legal corpora have come online at low- or no-cost including the BYU Corpus, the Free Law Project and the expansion of resources published by the Library of Congress through Law.gov. A variety of growing electronic legal resources already exist free of charge for countries in Europe and Asia. Thus we feel that the timing is excellent to bring together researchers from around the world to focus on NLP problems in this area.
 
@@ -53,7 +53,9 @@ The NLLP workshop was held for the first time in 2019, collocated with the Confe
 
 Building on the success of the first edition, the 2nd edition of the NLLP workshop was held online and collocated with KDD 2020. 
 
-In 2021, the NLLP monthly talks series was started to provide an open transdisciplinary forum for discussing the most recent research in the topics of relevance to the community.
+In 2021, the NLLP Talks series was started to provide an open transdisciplinary forum for discussing the most recent research in the topics of relevance to the community.
 
-The NLLP 2021 workshop will be collocated with EMNLP and will take place in a hybrid format with both full virtual participation and in-person attendance in Punta Cana, Dominican Republic possible.
+The NLLP 2021 workshop was collocated with EMNLP and took place in a hybrid format with both full virtual participation and in-person attendance in Punta Cana, Dominican Republic possible.
+
+In 2022, the NLLP Workshop was collocated with EMNLP and once more took place in hybrid form, both with online participation and in-person attendance in Abu Dhabi, United Arab Emirates. 
 
