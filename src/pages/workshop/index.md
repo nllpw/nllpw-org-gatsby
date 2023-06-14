@@ -50,7 +50,7 @@ All deadlines are 11.59pm UTC -12h
 - [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen (Denmark)
 - [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) - Utrecht University (The Netherlands)
 - [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg (US)
-- - [Gerasimos (Jerry) Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/) - Maastricht University (The Netherlands)
+- [Gerasimos (Jerry) Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/) - Maastricht University (The Netherlands)
 
 <img src="/images/NLLP2023.png" width="500"/>
 
