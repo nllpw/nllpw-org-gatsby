@@ -24,7 +24,7 @@ seo:
 template: page
 ---
 
-The NLLP Workshop 2023 will take place on **8 December 2023** and will be co-located with the  [EMNLP 2023](https://2023.emnlp.org/) conference in Singapore.
+The NLLP Workshop 2023 will take place on **7 December 2023** and will be co-located with the [EMNLP 2023](https://2023.emnlp.org/) conference in Singapore.
 
 #### Call for papers & submissions
 
