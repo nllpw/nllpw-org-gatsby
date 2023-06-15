@@ -104,7 +104,7 @@ Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://a
 
 ### EMNLP 2023 Submissions
 
-Authors of any papers that have been reviewed for EMNLP 2023 and were rejected have the opportunity to send their paper and reviews to be considered for publication in the NLLP workshop proceedings. The deadline for submitting papers and reviews is **10 October 2023**. The decision of publication will be announced by **17 October 2023**. The submission should be done via the workshop submission website: [https://softconf.com/emnlp2023/nllp2023] ("EMNLP 2023 Submission with reviews" submission type)
+Authors of any papers that have been reviewed for EMNLP 2023 and were rejected have the opportunity to send their paper and reviews to be considered for publication in the NLLP workshop proceedings. The deadline for submitting papers and reviews is **10 October 2023**. The decision of publication will be announced by **17 October 2023**. The submission should be done via the workshop submission website: https://softconf.com/emnlp2023/nllp2023 ("EMNLP 2023 Submission with reviews" submission type)
 
 ### Double-Blind reviewing
 
