@@ -25,4 +25,6 @@ seo:
 template: page
 ---
 
-## TBD
+## NLLP 2023 Keynote: Jerrold Soh
+
+[<img src="/images/keynote2023.png" width="600"/>]([https://humanads.eu](https://scholar.google.com/citations?user=Q_BoKqYAAAAJ&hl=en)https://scholar.google.com/citations?user=Q_BoKqYAAAAJ&hl=en)
