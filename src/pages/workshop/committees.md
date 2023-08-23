@@ -36,4 +36,23 @@ template: page
 
 ## Programe Committee
 
-- TBD
+- [Tomaso Agnoloni](http://www.ittig.cnr.it/en/persone/ricerca/tommaso-agnoloni/) - Institute of Legal Information Theory and Technologies (Italy)
+- [Ion Androutsopoulos](https://www2.aueb.gr/users/ion/) - Athens University of Economics and Business (Greece)
+- [Elliott Ash](https://elliottash.com/) - ETH Zurich (Switzerland)
+- [Thales Bertaglia](https://thalesbertaglia.com) - Maastricht University
+- [Andrew Blair-Stanek](https://www.law.umaryland.edu/Directory/profile.asp?id=893) - Johns Hopkins University (US)
+- [Stephanie Brandl](https://stephaniebrandl.github.io) - University of Copenhagen (Denmark)
+- [Breck Baldwin](https://scholar.google.com/citations?user=aVzTeEUAAAAJ&hl=en) - Columbia University
+- [Rajarathnam Chandramouli](http://www.mouli.me/) - Stevens Institute of Technology (US)
+- [Daniel Chen](http://users.nber.org/~dlchen/) - Toulouse School of Economics (France)
+- [Ashish Chouhan](https://www.srh-hochschule-heidelberg.de/hochschule/hochschulteam/ashish-chouhan) -	Heidelberg University & SRH Hochschule Heidelberg (Germany)
+- [Claire Barale](https://www.inf.ed.ac.uk/people/students/Claire_Barale.html) - University of Edinburgh (UK)
+- Tony Davis - Southern Oregon University (US)
+- [Stefania Degaetano-Ortlieb](https://stefaniadegaetano.com/) - Saarland University (Germany)
+- [Luigi Di Caro](https://luigidicaro.me/) - Turin University (Italy)
+- Emmanouil Fergadiotis - NCSR "Demokritos" & Athens University of Economics and Business (Greece)
+- [Nicolas Garneau](https://scholar.google.fr/citations?user=P67ZucoAAAAJ&hl=fr) - University of Copenhagen (Denmark)
+- [Ivan Habernal](https://www.trusthlt.org/) - Technical University of Darmstadt (Germany)
+- [Ben Hagag](https://www.darrow.ai) - Darrow.ai
+- [Nils Holzenberger](https://www.cs.jhu.edu/~nholzen1/) - Johns Hopkins University (US)
+
