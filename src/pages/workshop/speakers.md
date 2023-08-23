@@ -27,4 +27,4 @@ template: page
 
 ## NLLP 2023 Keynote: Jerrold Soh
 
-[<img src="/images/keynote2023.png" width="600"/>]([https://humanads.eu](https://scholar.google.com/citations?user=Q_BoKqYAAAAJ&hl=en)https://scholar.google.com/citations?user=Q_BoKqYAAAAJ&hl=en)
+[<img src="/images/NLLP2023-4.png" width="600"/>](https://scholar.google.com/citations?user=Q_BoKqYAAAAJ&hl=en)
