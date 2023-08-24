@@ -63,7 +63,6 @@ template: page
 - [Manolis Koubarakis](http://cgi.di.uoa.gr/~koubarak/) - University of Athens (Greece)
 - [Junyi Jessy Li](https://liberalarts.utexas.edu/linguistics/faculty/jl67946) - University of Texas at Austin (US)
 - [Ruta Liepina](https://www.unibo.it/sitoweb/ruta.liepina/en) - University of Bologna (Italy)
-- How Khang Lim - Singapore Management University (Singapore)
 - [Antoine Louis](https://www.maastrichtuniversity.nl/p70072559) - Maastricht University (The Netherlands)
 - [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html) - New York University (US)
 - [Jelena Mitrović](https://ca-roll.github.io/) - University of Passau (Germany) & Institute for AI R&D of Serbia (Serbia)
