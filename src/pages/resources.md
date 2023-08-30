@@ -3,7 +3,7 @@ title: Resources
 subtitle: 
 seo:
   title: Resources
-  description: Pubplication, models, data sets, and related events to NLLP 2021
+  description: Publications, models, data sets, and related events to NLLP 2021
   robots: 
     - nofollow
 template: page
@@ -13,6 +13,13 @@ If you have any suggestions for additions to the lists below, please reach out t
 
 ## Publications
 
+#### 2023
+- Ivan Habernal, Daniel Faber, Nicola Recchia, Sebastian Bretthauer, Iryna Gurevych, Indra Spiecker genannt Döhmann, Christoph Burchard: [Mining Legal Arguments in Court Decisions](https://link.springer.com/article/10.1007/s10506-023-09361-y). Artificial Intelligence and Law 2023
+- Joel Niklaus, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho: [MultiLegalPile: A 689GB Multilingual Legal Corpus](https://arxiv.org/abs/2306.02069). DMLR@ICLR 2023
+- Neel Guha, Julian Nyarko, Daniel E. Ho, Christopher Ré, Joel Niklaus, Megan Ma, Michael Livermore, Peter Henderson, Sean Rehaag, Sharad Goel, Shang Gao, Spencer Williams, Sunny Gandhi, Tom Zur, Varun Iyer, Zehua Li: [LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models](https://arxiv.org/pdf/2306.02069.pdf)
+- Ilias Chalkidis*, Nicolas Garneau*, Catalina Goanta, Daniel Katz and Anders Søgaard: [LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development](https://aclanthology.org/2023.acl-long.865.pdf). ACL 2023
+
+
 #### 2022
 - Peter Henderson, Mark S. Krass, Lucia Zheng, Neel Guha, Christopher D. Manning, Dan Jurafsky, Daniel E. Ho: [Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset](https://arxiv.org/pdf/2207.00220.pdf). arXiv 2022.
 - Yixiao Ma, Qingyao Ai, Yueyue Wu, Yunqiu Shao, Yiqun Liu, Min Zhang, Shaoping Ma: [Incorporating Retrieval Information into the Truncation of Ranking Lists for Better Legal Search](https://dl.acm.org/doi/pdf/10.1145/3477495.3531998). SIGIR 2022
@@ -20,6 +27,7 @@ If you have any suggestions for additions to the lists below, please reach out t
 - Yi Feng, Chuanyi Li, Vincent Ng: [Legal Judgment Prediction via Event Extraction with Constraints](https://aclanthology.org/2022.acl-long.48.pdf). ACL 2022
 - Antoine Louis, Gerasimos Spanakis: [A Statutory Article Retrieval Dataset in French](https://aclanthology.org/2022.acl-long.468.pdf). ACL 2022
 - Ilias Chalkidis, Abhik Jana, Dirk Hartung, Michael Bommarito, Ion Androutsopoulos, Daniel Martin Katz, Nikolaos Aletras: [LexGLUE: A Benchmark Dataset for Legal Language Understanding in English](https://aclanthology.org/2022.acl-long.297.pdf). ACL 2022
+- Ilias Chalkidis, Tommaso Pasini, Sheng Zhang, Letizia Tomada, Sebastian Schwemer, Anders Søgaard: [FairLex: A Multilingual Benchmark for Evaluating Fairness in Legal Text Processing](https://aclanthology.org/2022.acl-long.301.pdf). ACL 2022
 - Arnav Kapoor, Mudit Dhawan, Anmol Goel, Arjun T H, Akshala Bhatnagar, Vibhu Agrawal, Amul Agrawal, Arnab Bhattacharya, Ponnurangam Kumaraguru, Ashutosh Modi: [HLDC: Hindi Legal Documents Corpus](https://aclanthology.org/2022.findings-acl.278.pdf). ACL Findings 2022
 - Feng Yao, Chaojun Xiao, Xiaozhi Wang, Zhiyuan Liu, Lei Hou, Cunchao Tu, Juanzi Li, Yun Liu, Weixing Shen, Maosong Sun: [LEVEN: A Large-Scale Chinese Legal Event Detection Dataset](https://aclanthology.org/2022.findings-acl.17.pdf). ACL Findings 2022
 - Sophia Althammer, Sebastian Hofstätter, Mete Sertkan, Suzan Verberne, Allan Hanbury: [PARM: A Paragraph Aggregation Retrieval Model for Dense Document-to-Document Retrieval](https://arxiv.org/pdf/2201.01614.pdf). ECIR 2022
@@ -92,13 +100,20 @@ If you have any suggestions for additions to the lists below, please reach out t
 - [Website privacy policies annotated for data practices (Usable Privacy Policy Project)](https://www.usableprivacy.org/activities)
 - [US Congressional Bill Corpus 1993-2010](http://www.cs.cmu.edu/~ark/bills/) [[Yano et al, 2012]](http://www.cs.cmu.edu/~nasmith/papers/yano+smith+wilkerson.naacl12.pdf)
 - [Securities Class Action Clearinghouse (Stanford Law)](https://securities.stanford.edu)
+- [FairLex: Multilingual Legal Fairness Benchmark](https://huggingface.co/datasets/coastalcph/fairlex)[[Chalkidis et al, 2022]]([https://arxiv.org/abs/2306.02069](https://aclanthology.org/2022.acl-long.301.pdf)
+- [LexFiles: Multinational Legal Corpora](https://huggingface.co/datasets/lexlms/lex_files)[[Chalkidis*, Garneau* et al, 2023]](https://aclanthology.org/2023.acl-long.865.pdf)
+- [LegalLAMA: Legal NLU Benchmark](https://huggingface.co/datasets/lexlms/legal_lama)[[Chalkidis*, Garneau* et al, 2023]](https://aclanthology.org/2023.acl-long.865.pdf)
+- [MultiLegalPile: Multilingual Legal Corpora](https://huggingface.co/datasets/joelito/Multi_Legal_Pile)[[Niklaus et al, 2023]](https://arxiv.org/abs/2306.02069)
+- [LegalBench: Legal Benchmark for LLMs](https://github.com/HazyResearch/legalbench)[[Guha et al, 2023]](https://arxiv.org/pdf/2306.02069.pdf)
 
 ## Models
 
 - [Legal BERT](https://huggingface.co/nlpaueb/legal-bert-base-uncased) [[Chalkidis et al, 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.261/)
-- [Legal BERT](https://github.com/reglab/casehold)[[Zheng et al, 2021 - using Harvard Law case corpus]](https://arxiv.org/pdf/2104.08671.pdf)
+- [CaseLaw BERT](https://github.com/reglab/casehold)[[Zheng et al, 2021 - using Harvard Law case corpus]](https://arxiv.org/pdf/2104.08671.pdf)
 - [NER Models for legal entities in German](https://github.com/elenanereiss/Legal-Entity-Recognition) [Leitner et al, 2020](https://www.aclweb.org/anthology/2020.lrec-1.551.pdf)
 - [Legal GPT-1 and GPT-2](https://github.com/applicaai/contract-discovery) [[Borchmann et al, 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.380.pdf)
+- [Legal RoBERTa and Longformer](https://huggingface.co/lexlms)[[Chalkidis*, Garneau* et al, 2023]](https://aclanthology.org/2023.acl-long.865.pdf)
+- [Legal XLM-R](https://huggingface.co/joelito/legal-xlm-roberta-large)[[Niklaus et al, 2023]](https://arxiv.org/abs/2306.02069)
 
 ## Related events and workshops
 
