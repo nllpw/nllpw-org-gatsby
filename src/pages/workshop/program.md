@@ -229,7 +229,7 @@ All times are in [SGT time zone](https://greenwichmeantime.com/time/united-arab-
 			</td>
 		</tr>
 		<tr bgcolor="#FDF6F0">
-			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">15:15 - 15:20/td>
+			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">15:15 - 15:20</td>
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b>
 			Legal Passage Retrieval: A pragmatic approach to legal AI</b> <br />Robert Mahari, Dominik Stammbach, Elliott Ash, Alex Pentland
 			</td>
