@@ -43,7 +43,7 @@ All times are in [SGT time zone](https://greenwichmeantime.com/time/united-arab-
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">09:15 - 09:20</td>
-			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b>NLP for Crypto-Asset Regulation: A Roadmap</b> <br />
+			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b>Legal NLP Meets MiCAR: Advancing the Analysis of Crypto White Papers</b> <br />
 			Carolina Camassa</td>
 		</tr>		
 		<tr bgcolor="#FDF6F0">
