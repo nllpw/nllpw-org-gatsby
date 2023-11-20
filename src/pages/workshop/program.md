@@ -121,7 +121,7 @@ All times are in [SGT time zone](https://greenwichmeantime.com/time/united-arab-
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">11:10 - 11:15</td>
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b>
-			Large Language Models are legal but they are not: Underscoring the need for better Legal LLMs
+			Large Language Models are legal but they are not: Making the case for a powerful LegalLLM
 			</b> <br />Thanmay Jayakumar, Fauzan Farooqui and Luqman Farooqui
 			</td>
 		</tr>
