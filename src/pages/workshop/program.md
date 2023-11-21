@@ -87,7 +87,7 @@ All times are in [SGT time zone](https://greenwichmeantime.com/time/united-arab-
 		</tr>			
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">10:05 - 10:10</td>
-			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b>Large Language Models for Legally Enforceable Hate Speech Detection</b> <br />
+			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b>Legally Enforceable Hate Speech Detection</b> <br />
 			Chu Fei Luo, Rohan Bhambhoria, Samuel Dahan, Xiaodan Zhu</td>
 		</tr>			
 		<tr bgcolor="#FDF6F0">
