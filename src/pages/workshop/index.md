@@ -32,7 +32,7 @@ The NLLP Workshop 2024 will take place between 12 - 16 November 2024 and will be
 
 You can watch the entire workshop recording on YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MJwSNfOSxwQ?si=D_IJZsLBiAA8abD3&amp;start=180" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NY-SxAVUaqk?si=IRpGDuQvMGE311uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Proceedings
 
