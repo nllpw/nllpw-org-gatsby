@@ -48,14 +48,14 @@ The full call for papers can be found [here](https://nllpw.org/workshop/call/). 
 
 #### Important dates
 
-~~- **Submission deadline** ― 25 September 2023~~
-~~- **Notification** ― 6 13 October 2023~~
-~~- **Submission of EMNLP papers with reviews** ― 10 October 2023~~
-~~- **ARR Committment deadline** ― 10 October 2023~~
-~~- **ARR and EMNLP notification** ― 17 October 2023~~
-~~- **Camera ready due** ― 20 October 2023~~
-~~- **Presentation due** ― 1 December 2023~~
-~~- **Workshop** ― 7 December 2023~~
+- ~~**Submission deadline** ― 25 September 2023~~
+- ~~**Notification** ― 6 13 October 2023~~
+- ~~**Submission of EMNLP papers with reviews** ― 10 October 2023~~
+- ~~**ARR Committment deadline** ― 10 October 2023~~
+- ~~**ARR and EMNLP notification** ― 17 October 2023~~
+- ~~**Camera ready due** ― 20 October 2023~~
+- ~~**Presentation due** ― 1 December 2023~~
+- ~~**Workshop** ― 7 December 2023~~
 
 ~~All deadlines are 11.59pm UTC -12h~~
 
