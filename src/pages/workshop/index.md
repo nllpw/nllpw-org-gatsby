@@ -24,7 +24,23 @@ seo:
 template: page
 ---
 
-The NLLP Workshop 2023 will take place on **7 December 2023** and will be co-located with the [EMNLP 2023](https://2023.emnlp.org/) conference in Singapore.
+The NLLP Workshop 2023 took place on **7 December 2023** and was co-located with the [EMNLP 2023](https://2023.emnlp.org/) conference in Singapore.
+
+The NLLP Workshop 2024 will take place between 12 - 16 November 2024 and will be co-located with the EMNLP 2024 conference in Miami, Florida.
+
+#### Recording
+
+You can watch the entire workshop recording on YouTube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MJwSNfOSxwQ?si=D_IJZsLBiAA8abD3&amp;start=180" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Proceedings
+
+The full conference proceedings are available on the [ACL Anthology](https://aclanthology.org/volumes/2023.nllp-1/).
+
+#### Program
+
+The workshop program is [available here](https://nllpw.org/workshop/program/).
 
 #### Call for papers & submissions
 
@@ -32,16 +48,16 @@ The full call for papers can be found [here](https://nllpw.org/workshop/call/). 
 
 #### Important dates
 
-- **Submission deadline** ― ~~18~~ 25 September 2023
-- **Notification** ― ~~6~~ 13 October 2023
-- **Submission of EMNLP papers with reviews** ― 10 October 2023
-- **ARR Committment deadline** ― 10 October 2023
-- **ARR and EMNLP notification** ― 17 October 2023
-- **Camera ready due** ― 20 October 2023 
-- **Presentation due** ― 1 December 2023
-- **Workshop** ― 7 December 2023
+~~- **Submission deadline** ― 25 September 2023~~
+~~- **Notification** ― 6 13 October 2023~~
+~~- **Submission of EMNLP papers with reviews** ― 10 October 2023~~
+~~- **ARR Committment deadline** ― 10 October 2023~~
+~~- **ARR and EMNLP notification** ― 17 October 2023~~
+~~- **Camera ready due** ― 20 October 2023~~
+~~- **Presentation due** ― 1 December 2023~~
+~~- **Workshop** ― 7 December 2023~~
 
-All deadlines are 11.59pm UTC -12h
+~~All deadlines are 11.59pm UTC -12h~~
 
 #### Organizing Committee 
 
