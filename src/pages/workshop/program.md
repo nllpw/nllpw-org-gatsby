@@ -43,7 +43,7 @@ All times are in [SGT time zone](https://greenwichmeantime.com/time/united-arab-
 		</tr>
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">09:15 - 09:20</td>
-			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b>Legal NLP Meets MiCAR: Advancing the Analysis of Crypto White Papers</b> <br />
+			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b> Legal NLP Meets MiCAR: Advancing the Analysis of Crypto White Papers</b> <br />
 			Carolina Camassa</td>
 		</tr>		
 		<tr bgcolor="#FDF6F0">
@@ -231,7 +231,7 @@ All times are in [SGT time zone](https://greenwichmeantime.com/time/united-arab-
 		<tr bgcolor="#FDF6F0">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">15:15 - 15:20</td>
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b>
-			Legal Passage Retrieval: A pragmatic approach to legal AI</b> <br />Robert Mahari, Dominik Stammbach, Elliott Ash, Alex Pentland
+			The Law and NLP: Bridging Disciplinary Disconnects</b> <br />Robert Mahari, Dominik Stammbach, Elliott Ash, Alex Pentland
 			</td>
 		</tr>
 		<tr bgcolor="#FDF6F0">
