@@ -82,6 +82,14 @@ To submit a paper, please access the [submission link](https://softconf.com/emnl
 
 Conference proceedings will be published on the [ACL Anthology](https://aclanthology.org/).
 
+## Shared Task 
+
+Together with [Darrow.ai](https://www.darrow.ai/) we organize the LegalLens Shared task. More information is provided [here](https://www.codabench.org/competitions/3052/). 
+
+Participants will be invited to describe their system in a paper for the NLLP workshop proceedings. The task organizers will write an overview paper that describes the task and summarizes the different approaches taken, and analyzes their results.
+
+More information on the submission of description papers will follow.
+
 ### Ethics section
 
 The NLLP workshop adheres to the same standards regarding [ethics as the EMNLP 2024 conference](https://aclrollingreview.org/cfp#ethics-policy). Authors will be allowed extra space after the 8th page (4th for short papers) for an optional broader impact statement or other discussion of ethics. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted.
