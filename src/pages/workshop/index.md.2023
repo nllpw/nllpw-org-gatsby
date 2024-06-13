@@ -24,17 +24,19 @@ seo:
 template: page
 ---
 
+The NLLP Workshop 2023 took place on **7 December 2023** and was co-located with the [EMNLP 2023](https://2023.emnlp.org/) conference in Singapore.
+
 The NLLP Workshop 2024 will take place between 12 - 16 November 2024 and will be co-located with the EMNLP 2024 conference in Miami, Florida.
 
 #### Recording
 
-We plan to record the workshop on YouTube. For 2023 version see below:
+You can watch the entire workshop recording on YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NY-SxAVUaqk?si=IRpGDuQvMGE311uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Proceedings
 
-The full conference proceedings will be available on the ACL Anthology.
+The full conference proceedings are available on the [ACL Anthology](https://aclanthology.org/volumes/2023.nllp-1/).
 
 #### Program
 
@@ -42,17 +44,20 @@ The workshop program is [available here](https://nllpw.org/workshop/program/).
 
 #### Call for papers & submissions
 
-The full call for papers can be found [here](https://nllpw.org/workshop/call/). To submit a paper, please access the [submission link](https://softconf.com/emnlp2024/nllp).
+The full call for papers can be found [here](https://nllpw.org/workshop/call/). To submit a paper, please access the [submission link](https://softconf.com/emnlp2023/nllp2023).
 
 #### Important dates
 
-- **Submission deadline** ― 3 September 2024
-- **Submission of EMNLP papers with reviews and ARR committment** ― 27 September 2024
-- **Notification for direct submissions, ARR and EMNLP papers** ― 8 October 2024
-- **Camera ready due** ― 15 October 2024 (tentative) 
-- **Workshop** ― 15 or 16 November 2024
+- ~~**Submission deadline** ― 25 September 2023~~
+- ~~**Notification** ― 6 13 October 2023~~
+- ~~**Submission of EMNLP papers with reviews** ― 10 October 2023~~
+- ~~**ARR Committment deadline** ― 10 October 2023~~
+- ~~**ARR and EMNLP notification** ― 17 October 2023~~
+- ~~**Camera ready due** ― 20 October 2023~~
+- ~~**Presentation due** ― 1 December 2023~~
+- ~~**Workshop** ― 7 December 2023~~
 
-All deadlines are 11.59pm UTC -12h
+~~All deadlines are 11.59pm UTC -12h~~
 
 #### Organizing Committee 
 
@@ -63,7 +68,7 @@ All deadlines are 11.59pm UTC -12h
 - [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg (US)
 - [Gerasimos (Jerry) Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/) - Maastricht University (The Netherlands)
 
-<!-- <img src="/images/NLLP2023.png" width="500"/> --> 
+<img src="/images/NLLP2023.png" width="500"/>
 
 #### Sponsors
 
@@ -71,7 +76,6 @@ All deadlines are 11.59pm UTC -12h
 [<img src="/images/ercwhite.png" width="250"/>](https://humanads.eu)
 
 #### Past editions:
-- [NLLP 2023](https://nllpw.org/workshop/nllp-2023)
 - [NLLP 2022](https://nllpw.org/workshop/nllp-2022)
 - [NLLP 2021](https://nllpw.org/workshop/nllp-2021)
 - [NLLP 2020](https://sites.google.com/view/nllp/home)
