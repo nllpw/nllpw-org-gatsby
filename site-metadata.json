@@ -20,16 +20,16 @@
             "url": "/workshop/call/"
           },
           {
-            "label": "Program",
-            "url": "/workshop/program/"
-          },
-          {
             "label": "Committees",
             "url": "/workshop/committees/"
           },
           {
             "label": "Speakers",
             "url": "/workshop/speakers/"
+          },
+          {
+            "label": "NLLP 2023",
+            "url": "/workshop/nllp-2023"
           },
           {
             "label": "NLLP 2022",
