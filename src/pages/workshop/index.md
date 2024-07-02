@@ -24,25 +24,15 @@ seo:
 template: page
 ---
 
-The NLLP Workshop 2024 will take place between 12 - 16 November 2024 and will be co-located with the EMNLP 2024 conference in Miami, Florida.
+The NLLP Workshop 2024 will take place on either 15 or 16 November 2024 (exact date TBC) and will be co-located with the [EMNLP 2024 conference](https://2024.emnlp.org/) in Miami, Florida.
 
-#### Recording
+#### Call for papers 
 
-We plan to record the workshop on YouTube. For 2023 version see below:
+The full call for papers can be found [here](https://nllpw.org/workshop/call/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NY-SxAVUaqk?si=IRpGDuQvMGE311uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+#### Submissions
 
-#### Proceedings
-
-The full conference proceedings will be available on the ACL Anthology.
-
-#### Program
-
-The workshop program is [available here](https://nllpw.org/workshop/program/).
-
-#### Call for papers & submissions
-
-The full call for papers can be found [here](https://nllpw.org/workshop/call/). To submit a paper, please access the [submission link](https://softconf.com/emnlp2024/nllp).
+To submit a paper, please access the [submission link](https://softconf.com/emnlp2024/nllp).
 
 #### Important dates
 
@@ -54,6 +44,8 @@ The full call for papers can be found [here](https://nllpw.org/workshop/call/). 
 
 All deadlines are 11.59pm UTC -12h
 
+<img src="/images/NLLP2024.png" width="500"/> 
+
 #### Organizing Committee 
 
 - [Nikolaos Aletras](http://nikosaletras.com) - University of Sheffield (UK)
@@ -62,8 +54,6 @@ All deadlines are 11.59pm UTC -12h
 - [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) - Utrecht University (The Netherlands)
 - [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg (US)
 - [Gerasimos (Jerry) Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/) - Maastricht University (The Netherlands)
-
-<!-- <img src="/images/NLLP2023.png" width="500"/> --> 
 
 #### Sponsors
 
