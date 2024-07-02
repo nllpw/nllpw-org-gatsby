@@ -26,13 +26,13 @@ template: page
 
 The NLLP Workshop 2024 will take place on either 15 or 16 November 2024 (exact date TBC) and will be co-located with the [EMNLP 2024 conference](https://2024.emnlp.org/) in Miami, Florida.
 
-#### Call for papers 
+#### Call for papers and Submissions
 
 The full call for papers can be found [here](https://nllpw.org/workshop/call/).
 
-#### Submissions
-
 To submit a paper, please access the [submission link](https://softconf.com/emnlp2024/nllp).
+
+<img src="/images/NLLP2024.png" width="500"/>
 
 #### Important dates
 
@@ -43,8 +43,6 @@ To submit a paper, please access the [submission link](https://softconf.com/emnl
 - **Workshop** ― 15 or 16 November 2024
 
 All deadlines are 11.59pm UTC -12h
-
-<img src="/images/NLLP2024.png" width="500"/> 
 
 #### Organizing Committee 
 
