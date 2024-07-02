@@ -62,7 +62,7 @@
     ]
   },
   "footer": {
-    "content": "&copy; NLLP 2023. Built with  <a href=\"https://www.gatsbyjs.com/\" target=\"_blank\" rel=\"noopener\">Gatsby</a>. Deployed on  <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener\">Netlify</a>.",
+    "content": "&copy; NLLP 2024. Built with  <a href=\"https://www.gatsbyjs.com/\" target=\"_blank\" rel=\"noopener\">Gatsby</a>. Deployed on  <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener\">Netlify</a>.",
     "has_social": true,
     "social_links": [
       {
@@ -92,7 +92,7 @@
       }
     ]
   },
-  "title": "NLLP 2023",
+  "title": "NLLP 2024",
   "domain": "https://adorable-spider-f59d7.netlify.app",
   "favicon": "/images/favicon.png",
   "seoPreview": "https://adorable-spider-f59d7.netlify.app/images/prev.png"
