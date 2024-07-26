@@ -132,7 +132,7 @@ All long, short and theme papers must follow the [ACL Author Guidelines](https:/
 - **Submission of EMNLP papers with reviews and ARR committment** ― 27 September 2024
 - **Notification for direct submissions, ARR and EMNLP papers** ― 8 October 2024
 - **Camera ready due** ― 15 October 2024 (tentative) 
-- **Workshop** ― 15 or 16 November 2024
+- **Workshop** ― 16 November 2024
 
 All deadlines are 11.59pm UTC -12h
 
