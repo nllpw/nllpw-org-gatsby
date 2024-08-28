@@ -36,7 +36,7 @@ To submit a paper, please access the [submission link](https://softconf.com/emnl
 
 #### Important dates
 
-- **Submission deadline** ― 3 September 2024
+- **Submission deadline** ― 10 September 2024 ~3 September 2024~
 - **Submission of EMNLP papers with reviews and ARR committment** ― 27 September 2024
 - **Notification for direct submissions, ARR and EMNLP papers** ― 8 October 2024
 - **Camera ready due** ― 15 October 2024 (tentative) 
