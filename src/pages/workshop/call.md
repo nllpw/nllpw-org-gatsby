@@ -108,7 +108,7 @@ If the preliminary version of a paper was posted in arXiv, the authors should NO
 
 ### ACL Rolling Review Submissions
 
-Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until **27 September 2024**. This should include submissions to ARR for the **15 August** deadline.  The decision of publication will be announced by **8 October 2024**.  The committment should be done via the workshop submission website: https://softconf.com/emnlp2024/nllp/ ("ACL Rolling Review Committment" submission type)
+Our workshop also welcomes submissions from [ACL Rolling Review (ARR)](https://aclrollingreview.org/). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until **27 September 2024**. This should include submissions to ARR for the **15 June** deadline.  The decision of publication will be announced by **8 October 2024**.  The committment should be done via the workshop submission website: https://softconf.com/emnlp2024/nllp/ ("ACL Rolling Review Committment" submission type)
 
 ### EMNLP 2024 Submissions
 
@@ -128,7 +128,7 @@ All long, short and theme papers must follow the [ACL Author Guidelines](https:/
 
 ## Important deadlines
 
-- **Submission deadline** ― 3 September 2024
+- **Submission deadline** ― 10 September 2024 ~3 September 2024~
 - **Submission of EMNLP papers with reviews and ARR committment** ― 27 September 2024
 - **Notification for direct submissions, ARR and EMNLP papers** ― 8 October 2024
 - **Camera ready due** ― 15 October 2024 (tentative) 
