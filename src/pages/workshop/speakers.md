@@ -25,7 +25,7 @@ seo:
 template: page
 ---
 
-## NLLP 2024 Keynote: Omri Ben-Shahar (University of Chicago Law School)
+##  Omri Ben-Shahar (University of Chicago Law School)
 
 **Title**: Privacy Protection, At What Cost?
 
