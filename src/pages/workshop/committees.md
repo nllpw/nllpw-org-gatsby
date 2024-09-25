@@ -49,7 +49,7 @@ template: page
 - [Rajarathnam Chandramouli](http://www.mouli.me/) - Stevens Institute of Technology (US)
 - Jiahong Chen - University of Sheffield (UK)
 - Odysseas Spyridon Chlapanis - Athens University of Business and Economics (Greece)
-- [Ashish Chouhan](https://www.srh-hochschule-heidelberg.de/hochschule/hochschulteam/ashish-chouhan) -	Heidelberg University & SRH Hochschule Heidelberg (Germany)
+- [Ashish Chouhan](https://ds.ifi.uni-heidelberg.de/team/chouhan/) -	Heidelberg University (Germany)
 - [Marina Danilevsky](https://research.ibm.com/people/marina-danilevsky) - IBM Research (US)
 - Tony Davis - Southern Oregon University (US)
 - [Stefania Degaetano-Ortlieb](https://stefaniadegaetano.com/) - Saarland University (Germany)
