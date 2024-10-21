@@ -16,16 +16,20 @@
         "url": "/workshop/",
         "children": [
           {
-            "label": "Call for Papers",
-            "url": "/workshop/call/"
+            "label": "Program",
+            "url": "/workshop/program/"
+          },
+          {
+            "label": "Speaker",
+            "url": "/workshop/speakers/"
           },
           {
             "label": "Committees",
             "url": "/workshop/committees/"
           },
           {
-            "label": "Speakers",
-            "url": "/workshop/speakers/"
+            "label": "Call for Papers",
+            "url": "/workshop/call/"
           },
           {
             "label": "NLLP 2023",
