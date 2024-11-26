@@ -24,25 +24,15 @@ seo:
 template: page
 ---
 
-The NLLP Workshop 2024 will take place on 16 November 2024 and will be co-located with the [EMNLP 2024 conference](https://2024.emnlp.org/) in Miami, Florida.
+The NLLP Workshop 2025 will take place between 5-9 November 2026 and will be co-located with the EMNLP 2025 conference in Suzhou, China.
 
 #### Call for papers and Submissions
 
-The full call for papers can be found [here](https://nllpw.org/workshop/call/).
+The full call for papers will be posted in Spring 2025.
 
-To submit a paper, please access the [submission link](https://softconf.com/emnlp2024/nllp).
+#### NLLP 2024
 
-<img src="/images/NLLP2024.png" width="500"/>
-
-#### Important dates
-
-- **Submission deadline** ― 10 September 2024 ~3 September 2024~
-- **Submission of EMNLP papers with reviews and ARR committment** ― 27 September 2024
-- **Notification for direct submissions, ARR and EMNLP papers** ― 8 October 2024
-- **Camera ready due** ― 15 October 2024 (tentative) 
-- **Workshop** ― 16 November 2024
-
-All deadlines are 11.59pm UTC -12h
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yGk3ESP9LpA?si=yfNtzhfd-6WfAgCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Organizing Committee 
 
@@ -59,6 +49,7 @@ All deadlines are 11.59pm UTC -12h
 [<img src="/images/ercwhite.png" width="250"/>](https://humanads.eu)
 
 #### Past editions:
+- [NLLP 2024](https://nllpw.org/workshop/nllp-2024)
 - [NLLP 2023](https://nllpw.org/workshop/nllp-2023)
 - [NLLP 2022](https://nllpw.org/workshop/nllp-2022)
 - [NLLP 2021](https://nllpw.org/workshop/nllp-2021)
