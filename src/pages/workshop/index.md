@@ -2,37 +2,41 @@
 title: Workshop Overview
 seo:
   title: Home
-  description: The sixth workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2024.
+  description: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: NLLP Workshop 2024
+      value: NLLP Workshop 2025
       keyName: property
     - name: 'og:description'
-      value: The sixth workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2024.
+      value: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: NLLP Workshop 2024
+      value: NLLP Workshop 2025
     - name: 'twitter:description'
-      value: The sixth workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2024.
+      value: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
     - name: 'keywords'
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
 ---
 
-The NLLP Workshop 2025 will take place between 5-9 November 2026 and will be co-located with the EMNLP 2025 conference in Suzhou, China.
+The NLLP Workshop 2025 will take place on 8 November 2025 and will be co-located with the EMNLP 2025 conference in Suzhou, China.
 
-#### Call for papers and Submissions
+#### Important Dates
 
-The full call for papers will be posted in Spring 2025.
+The full call for papers will be posted by mid-June 2025.
 
-#### NLLP 2024
+- **Submission deadline** ― 26 August 2025
+- **Submission of EMNLP papers with reviews or ARR committments** ― 2 September 2025
+- **Notification for direct submissions, ARR and EMNLP papers** ― 30 September 2025
+- **Camera ready due** ― 7 October 2025 (tentative) 
+- **Workshop** ― 8 November 2025
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yGk3ESP9LpA?si=yfNtzhfd-6WfAgCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+All deadlines are 11.59pm UTC -12h
 
 #### Organizing Committee 
 
