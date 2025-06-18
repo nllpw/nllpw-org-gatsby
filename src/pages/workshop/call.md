@@ -24,9 +24,6 @@ seo:
 template: page
 ---
 
-## Call for Papers
-
-
 ## Goal
 
 Following the success of the first six editions of the NLLP workshop (EMNLP 2021 - 2024, KDD 2020, NAACL 2019), the workshop aims to bring together researchers and practitioners working on NLP, LLMs and other AI fields with legal practitioners and researchers.
