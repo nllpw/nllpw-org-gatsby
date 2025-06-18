@@ -28,7 +28,7 @@ The NLLP Workshop 2025 will take place on 8 November 2025 and will be co-located
 
 #### Call for Papers
 
-The call for papers is now [available](https://nllpw.org/workshop/cfp)
+The call for papers is now [available](https://nllpw.org/workshop/call)
 
 #### Important Dates
 
