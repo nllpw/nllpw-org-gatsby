@@ -61,3 +61,4 @@ In 2022, the NLLP Workshop was collocated with EMNLP and once more took place in
 
 In 2023, the NLLP Workshop was collocated with EMNLP allowing for hybrid participation, both with online participation and in-person attendance in Singapore.
 
+In 2024, the NLLP Workshop was collocated with EMNLP allowing for hybrid participation, both with online participation and in-person attendance in Miami, Florida.
