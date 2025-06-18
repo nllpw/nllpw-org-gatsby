@@ -26,9 +26,11 @@ template: page
 
 The NLLP Workshop 2025 will take place on 8 November 2025 and will be co-located with the EMNLP 2025 conference in Suzhou, China.
 
-#### Important Dates
+#### Call for Papers
 
-The full call for papers will be posted by mid-June 2025.
+The call for papers is now [available](https://nllpw.org/workshop/cfp)
+
+#### Important Dates
 
 - **Submission deadline** ― 26 August 2025
 - **Submission of EMNLP papers with reviews or ARR committments** ― 2 September 2025
