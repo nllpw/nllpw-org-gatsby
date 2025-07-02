@@ -56,7 +56,7 @@ All deadlines are 11.59pm UTC -12h
 
   <div class="grid-2-1-right">
 
-  [<img src="/images/nllp2025.png" width="300"/>]
+  [<img src="/images/nllp2025.jpg" width="300"/>]
 
     #### Sponsors
 
