@@ -3,23 +3,23 @@ title: Natural Legal Language Processing - NLLP
 subtitle: 
 seo:
   title: Home
-  description: The sixth workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2024.
+  description: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: NLLP Workshop 2024
+      value: NLLP Workshop 2025
       keyName: property
     - name: 'og:description'
-      value: The sixth workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2024.
+      value: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: NLLP Workshop 2024
+      value: NLLP Workshop 2025
     - name: 'twitter:description'
-      value: The fourth workshop on Natural Legal Language Processing (NLLP 2023) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2024.
+      value: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
     - name: 'keywords'
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
@@ -57,7 +57,7 @@ Leslie Barrett ― Bloomberg
   </div>
 
   <div class="grid-2-1-right">
-    <a class="twitter-timeline" data-height="350" href="https://twitter.com/NllpWorkshop?ref_src=twsrc%5Etfw">Tweets by NllpWorkshop</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" href="https://twitter.com/NllpWorkshop?ref_src=twsrc%5Etfw">Tweets by NllpWorkshop</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
 
