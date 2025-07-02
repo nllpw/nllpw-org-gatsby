@@ -26,6 +26,9 @@ template: page
 
 The NLLP Workshop 2025 will take place on 8 November 2025 and will be co-located with the EMNLP 2025 conference in Suzhou, China.
 
+<div class="grid-2-1">
+  <div class="grid-2-1-left">
+
 #### Call for Papers
 
 The call for papers is now [available](https://nllpw.org/workshop/call)
@@ -49,10 +52,21 @@ All deadlines are 11.59pm UTC -12h
 - [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg (US)
 - [Gerasimos (Jerry) Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/) - Maastricht University (The Netherlands)
 
-#### Sponsors
+  </div>
+
+  <div class="grid-2-1-right">
+
+  [<img src="/images/nllp2025.png" width="300"/>]
+
+    #### Sponsors
 
 [<img src="/images/bloomberg.png" width="250"/>](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/)
 [<img src="/images/ercwhite.png" width="250"/>](https://humanads.eu)
+
+  </div>
+</div>
+
+
 
 #### Past editions:
 - [NLLP 2024](https://nllpw.org/workshop/nllp-2024)
