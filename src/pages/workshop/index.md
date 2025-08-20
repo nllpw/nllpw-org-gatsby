@@ -35,7 +35,7 @@ The call for papers is now [available](https://nllpw.org/workshop/call)
 
 #### Important Dates
 
-- **Submission deadline** ― 26 August 2025
+- **Submission deadline** ― 2 September 2025 ~~26 August 2025~~
 - **Submission of EMNLP papers with reviews or ARR committments** ― 2 September 2025
 - **Notification for direct submissions, ARR and EMNLP papers** ― 30 September 2025
 - **Camera ready due** ― 7 October 2025 (tentative) 
