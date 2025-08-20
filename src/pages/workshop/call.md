@@ -138,7 +138,7 @@ Submissions that do not conform to the required styles, including paper size, ma
 
 ## Important deadlines
 
-- **Submission deadline** ― 26 August 2025
+- **Submission deadline** ― 2 September ~~26 August 2025~~
 - **Submission of EMNLP papers with reviews and ARR committment** ― 2 September 2025
 - **Notification for direct submissions, ARR and EMNLP papers** ― 30 September 2025
 - **Camera ready due** ― 7 October 2025
