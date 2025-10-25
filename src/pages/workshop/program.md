@@ -268,7 +268,6 @@ All times are in [CST time zone](https://www.timeanddate.com/worldclock/china/su
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">15:10 - 15:30</td>
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b>Joint Q&amp;A</b></td>
 		</tr>			
-		
 		<tr bgcolor="#F8E2CF">
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px" nowrap="nowrap" valign="top">15:30 - 16:00</td>
 			<td style="padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px"><b>Break</b></td>
