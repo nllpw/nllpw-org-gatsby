@@ -3,26 +3,27 @@ title: Invited speakers
 subtitle: 
 seo:
   title: Home
-  description: The sixth workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2024.
+  description: The eight workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: NLLP Workshop 2024
+      value: NLLP Workshop 2026
       keyName: property
     - name: 'og:description'
-      value: The sixth workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2024.
+      value: The sixth workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: NLLP Workshop 2024
+      value: NLLP Workshop 2026
     - name: 'twitter:description'
-      value: The sixth workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2024.
+      value: The sixth workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
     - name: 'keywords'
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
+
 ---
 
 TBA

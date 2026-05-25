@@ -2,23 +2,23 @@
 title: Call for papers
 seo:
   title: Home
-  description: The seventh workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
+  description: The eight workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: NLLP Workshop 2025
+      value: NLLP Workshop 2026
       keyName: property
     - name: 'og:description'
-      value: The seventh workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
+      value: The sixth workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: NLLP Workshop 2024
+      value: NLLP Workshop 2026
     - name: 'twitter:description'
-      value: The seventh workshop on Natural Legal Language Processing (NLLP 2024) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
+      value: The sixth workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
     - name: 'keywords'
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
@@ -26,7 +26,7 @@ template: page
 
 ## Goal
 
-Following the success of the first six editions of the NLLP workshop (EMNLP 2021 - 2024, KDD 2020, NAACL 2019), the workshop aims to bring together researchers and practitioners working on NLP, LLMs and other AI fields with legal practitioners and researchers.
+Following the success of the first seven editions of the NLLP workshop (EMNLP 2021 - 2025, KDD 2020, NAACL 2019), the workshop aims to bring together researchers and practitioners working on NLP, LLMs and other AI fields with legal practitioners and researchers.
 
 We welcome submissions describing original work on legal data, as well as data with legal relevance.
 
