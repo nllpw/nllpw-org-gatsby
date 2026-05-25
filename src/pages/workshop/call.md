@@ -26,11 +26,13 @@ template: page
 
 ## Goal
 
-Following the success of the first seven editions of the NLLP workshop (EMNLP 2021 - 2025, KDD 2020, NAACL 2019), the workshop aims to bring together researchers and practitioners working on NLP, LLMs and other AI fields with legal practitioners and researchers.
+Natural Language Processing (NLP) is rapidly transforming the legal domain, enabling new capabilities in legal reasoning, information access, and decision support. However, legal applications pose unique challenges: legal systems are high-stakes, socially consequential, and deeply rooted in structured reasoning, jurisdictional variation, and normative interpretation. Errors in legal NLP systems can have significant legal, financial, and societal consequences.
+
+Following the success of the first seven editions of the NLLP workshop (EMNLP 2021 - 2025, KDD 2020, NAACL 2019), the NLLP Workshop aims to bring together researchers and practitioners from NLP, machine learning, law, and related disciplines to advance the development of robust, interpretable, and socially responsible NLP systems for the legal domain. We particularly encourage work that goes beyond benchmark performance to address legal validity, reasoning quality, real-world deployment, and societal impact.
 
 We welcome submissions describing original work on legal data, as well as data with legal relevance.
 
-- Applications of NLP to legal tasks including, but not limited to:
+- Applications of NLP methods to tasks specific to the legal domain including:
   - Case outcome analysis and prediction
   - Summarization and analysis of long-form and complex legal documents
   - Information extraction
@@ -38,11 +40,28 @@ We welcome submissions describing original work on legal data, as well as data w
   - Chatbots and assistants for legal or negotiation support
   - Legal analysis and commentary
   - Legal argumentation analysis
-  - Legal reasoning
   - Information retrieval and question-answering (incl. retrieval-augmented generation)
-  - Detection and mitigation of legal misinformation
   - Copyright and intellectual property law applications, incl. infringement detection, licensing compliance, generative content auditing
   - Agentic applications for conducting tasks in the legal domain
+- Legal Reasoning and Generation. We place special emphasis on legal reasoning as a central challenge for NLP systems. Legal reasoning involves structured, multi-step inference grounded in statutes, precedent, and interpretive principles. We seek work that advances:
+  - Long-form legal reasoning and chain-of-thought grounded in legal sources
+  - Issue spotting, fact abstraction, and legal rule application
+  - Analogical reasoning using precedent and case-based reasoning
+  - Distinguishing binding vs persuasive authority
+  - Modeling doctrinal consistency and legal validity (not just linguistic plausibility)
+  - Faithfulness to cited authorities and traceable reasoning steps
+  - Integration of symbolic reasoning, rules, and structured knowledge with LLMs
+  - Detection and mitigation of hallucinations in legal reasoning
+  - Argument quality, completeness, and counterargument handling
+- Tasks, Resources, Evaluation and Benchmarking for Legal NLP:
+  - Evaluation of legal correctness, reasoning quality, and reliability
+  - Task overviews and survey papers that identify current research gaps
+  - Benchmarks for legal reasoning across jurisdictions and languages
+  - Human and expert evaluation methodologies
+  - Calibration, uncertainty estimation, and robustness in legal predictions
+  - Limitations of LLMs as evaluators (“judges”) in legal contexts
+  - Dataset creation, annotation protocols, and reproducibility
+  - Methods for automated evaluation of LLM performance on legal tasks
 - Methods for applying Large Language Models (LLMs) to the legal domain including, but not limited to:
   - Adaptation of LLMs to the legal domain
   - Prompt engineering and prompt chaining
@@ -98,13 +117,13 @@ We accept papers reporting original (unpublished) research of two types:
 
 Appendices, references, optional [limitations](https://aclrollingreview.org/cfp#limitations) section, optional ethics section and acknowledgements do not count against the maximum page limit and should be formatted according to the guidelines below. 
 
-To submit a paper, please access the submission link [https://openreview.net/group?id=EMNLP/2025/Workshop/NLLP](https://openreview.net/group?id=EMNLP/2025/Workshop/NLLP).
+To submit a paper, please access the submission link [https://openreview.net/group?id=EMNLP/2026/Workshop/NLLP](https://openreview.net/group?id=EMNLP/2026/Workshop/NLLP).
 
 Conference proceedings will be published on the [ACL Anthology](https://aclanthology.org/).
 
 ### Ethics section
 
-The NLLP workshop adheres to the same standards regarding ethics as the EMNLP 2025 conference [here](https://aclrollingreview.org/cfp#ethics-policy). Authors will be allowed extra space after the 8th page (4th for short papers) for an optional broader impact statement or other discussion of ethics. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted.
+The NLLP workshop adheres to the same standards regarding ethics as the EMNLP 2026 conference [here](https://aclrollingreview.org/cfp#ethics-policy). Authors will be allowed extra space after the 8th page (4th for short papers) for an optional broader impact statement or other discussion of ethics. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted.
 
 ### Non-archival option
 
@@ -112,19 +131,19 @@ The authors have the option of submitting previously unpublished research as non
 
 ### Dual Submission and Pre-print Policy
 
-Papers that are under consideration at other workshops, conferences or journals during the review period must explicitly indicate so at submission time. Authors of papers accepted for presentation at the NLLP 2025 workshop must notify the organizers by the camera-ready deadline as to whether the paper will be published or withdrawn.
+Papers that are under consideration at other workshops, conferences or journals during the review period must explicitly indicate so at submission time. Authors of papers accepted for presentation at the NLLP 2026 workshop must notify the organizers by the camera-ready deadline as to whether the paper will be published or withdrawn.
 
 There is no anonymity period or limitation on posting or discussing non-anonymous preprints while the work is under peer review. However, if the preliminary version of a paper was posted on arXiv, the paper should *not* have a self-reference to it in the submission.
 
 ### ACL Rolling Review Submissions
 
-Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 2 September 2025. This should include submissions to ARR for the May deadline. The decision of publication will be announced by 7 October 2025. The commitment should be done via the dedicated page on the [submission website](https://openreview.net/group?id=EMNLP/2025/Workshop/NLLP_ARR_Commitment).
+Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 27 August 2026. This should include submissions to ARR for the May deadline. The decision of publication will be announced by 15 September 2026. The commitment should be done via the dedicated page on the [submission website](https://openreview.net/group?id=EMNLP/2026/Workshop/NLLP_ARR_Commitment).
 
 ### EMNLP 2025 Submissions
 
-Authors of any papers that have been reviewed for EMNLP 2025 and were rejected have the opportunity to send their paper and reviews to be considered for publication in the NLLP workshop proceedings as long as the topics are relevant to those described in this call for papers.
+Authors of any papers that have been reviewed for EMNLP 2026 and were rejected have the opportunity to send their paper and reviews to be considered for publication in the NLLP workshop proceedings as long as the topics are relevant to those described in this call for papers.
 
-The deadline for submitting papers and reviews is 2 September 2025. The decision of publication will be announced by 7 October 2025. The submission should be done via the workshop [submission website](https://openreview.net/group?id=EMNLP/2025/Workshop/NLLP_ARR_Commitment).
+The deadline for submitting papers and reviews is 27 August 2026. The decision of publication will be announced by 15 September 2026. The submission should be done via the workshop [submission website](https://openreview.net/group?id=EMNLP/2026/Workshop/NLLP_ARR_Commitment).
 
 ### Double-Blind reviewing
 
@@ -136,13 +155,13 @@ Paper submissions must use the official ACL style templates, which are available
 
 Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
-## Important deadlines
+## Important dates
 
-- **Submission deadline** ― 2 September 2025 ~~26 August 2025~~
-- **Submission of EMNLP papers with reviews and ARR committment** ― 2 September 2025
-- **Notification for direct submissions, ARR and EMNLP papers** ― 30 September 2025
-- **Camera ready due** ― 7 October 2025
-- **Workshop** ― 8 November 2025
+- **Submission deadline** ― 11 August 2026
+- **Submission of EMNLP papers with reviews and ARR committment** ― 27 August 2026
+- **Notification for direct submissions, ARR and EMNLP papers** ― 15 September 2026
+- **Camera ready due** ― 22 September 2026
+- **Workshop** ― 28 or 29 October 2026 (exact date TBA)
 
 All deadlines are 11.59pm UTC -12h
 
@@ -150,4 +169,15 @@ All deadlines are 11.59pm UTC -12h
 
 Presentation format for each paper and schedule will be announced between acceptance notification and the camera-ready deadline.
 
-At least one author of each accepted paper must register for the NLLP 2025 workshop by the registration deadline in order for the submission to be published in the proceedings.
+At least one author of each accepted paper must register for the NLLP 2026 workshop by the registration deadline in order for the submission to be published in the proceedings.
+
+## Organizing Committee
+
+Nikolaos Aletras - University of Sheffield
+Leslie Barrett - Bloomberg
+Ilias Chalkidis - University of Copenhagen
+Catalina Goanta - Utrecht University
+Daniel Preotiuc-Pietro - Bloomberg
+Gerasimos (Jerry) Spanakis - Maastricht University
+Shanshan Xu - University of Copenhagen
+
