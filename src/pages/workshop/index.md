@@ -71,7 +71,7 @@ All deadlines are 11.59pm UTC -12h
 
 
 #### Past editions:
-- [NLLP 2025- [ShanShan Xu](https://sxu.notion.site/) - University of Copenhagen (Denmark)](https://nllpw.org/workshop/nllp-2025)
+- [NLLP 2025](https://nllpw.org/workshop/nllp-2025)
 - [NLLP 2024](https://nllpw.org/workshop/nllp-2024)
 - [NLLP 2023](https://nllpw.org/workshop/nllp-2023)
 - [NLLP 2022](https://nllpw.org/workshop/nllp-2022)
