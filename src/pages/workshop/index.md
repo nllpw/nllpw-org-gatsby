@@ -1,30 +1,28 @@
 ---
 title: Workshop Overview
-seo:
-  title: Home
-  description: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
+  description: The eight workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: NLLP Workshop 2025
+      value: NLLP Workshop 2026
       keyName: property
     - name: 'og:description'
-      value: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
+      value: The sixth workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: NLLP Workshop 2025
+      value: NLLP Workshop 2026
     - name: 'twitter:description'
-      value: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
+      value: The sixth workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
     - name: 'keywords'
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
 ---
 
-The NLLP Workshop 2025 will take place on 8 November 2025 and will be co-located with the EMNLP 2025 conference in Suzhou, China.
+The NLLP Workshop 2026 will take place on 28 or 29 October 2026 and will be co-located with the <a href="https://2026.emnlp.org/" target="_blank">EMNLP 2026</a> conference in Budapest, Hungary.
 
 <div class="grid-2-1">
   <div class="grid-2-1-left">
@@ -35,11 +33,11 @@ The call for papers is now [available](https://nllpw.org/workshop/call)
 
 #### Important Dates
 
-- **Submission deadline** ― 2 September 2025 ~~26 August 2025~~
-- **Submission of EMNLP papers with reviews or ARR committments** ― 2 September 2025
-- **Notification for direct submissions, ARR and EMNLP papers** ― 30 September 2025
-- **Camera ready due** ― 7 October 2025 (tentative) 
-- **Workshop** ― 8 November 2025
+- **Submission deadline** ― 11 August 2026
+- **Submission of EMNLP papers with reviews or ARR committments** ― 27 August 2026
+- **Notification for direct submissions, ARR and EMNLP papers** ― 15 September 2026
+- **Camera ready due** ― 22 September 2026
+- **Workshop** ― 28 or 29 October 2026
 
 All deadlines are 11.59pm UTC -12h
 
@@ -51,12 +49,13 @@ All deadlines are 11.59pm UTC -12h
 - [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) - Utrecht University (The Netherlands)
 - [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg (US)
 - [Gerasimos (Jerry) Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/) - Maastricht University (The Netherlands)
+- [ShanShan Xu](https://sxu.notion.site/) - University of Copenhagen (Denmark)
 
   </div>
 
   <div class="grid-2-1-right" style="padding-left: 20px">
 
-  [<img src="/images/nllp2025.jpg" width="300"/>]()
+  [<img src="/images/nllp2026.png" width="300"/>]()
 
     #### Sponsors
 
@@ -69,6 +68,7 @@ All deadlines are 11.59pm UTC -12h
 
 
 #### Past editions:
+- [NLLP 2025- [ShanShan Xu](https://sxu.notion.site/) - University of Copenhagen (Denmark)](https://nllpw.org/workshop/nllp-2025)
 - [NLLP 2024](https://nllpw.org/workshop/nllp-2024)
 - [NLLP 2023](https://nllpw.org/workshop/nllp-2023)
 - [NLLP 2022](https://nllpw.org/workshop/nllp-2022)
