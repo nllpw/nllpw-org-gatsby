@@ -1,7 +1,8 @@
 ---
 title: Call for papers
+subtitle: Call for papers
 seo:
-  title: Home
+  title: Call for papers
   description: The eight workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
   extra:
     - name: 'og:type'

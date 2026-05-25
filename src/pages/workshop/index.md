@@ -1,5 +1,8 @@
 ---
 title: Workshop Overview
+subtitle: Overview
+seo:
+  title: Home
   description: The eight workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
   extra:
     - name: 'og:type'
