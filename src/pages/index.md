@@ -1,63 +1,77 @@
 ---
-title: Natural Legal Language Processing - NLLP
-subtitle: 
-seo:
-  title: Home
-  description: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
+title: Workshop Overview
+  description: The eight workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: NLLP Workshop 2025
+      value: NLLP Workshop 2026
       keyName: property
     - name: 'og:description'
-      value: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
+      value: The sixth workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: NLLP Workshop 2025
+      value: NLLP Workshop 2026
     - name: 'twitter:description'
-      value: The seventh workshop on Natural Legal Language Processing (NLLP 2025) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2025.
+      value: The sixth workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
     - name: 'keywords'
       value: 'nllp, emnlp, nlp, nlproc, natural language processing, natural legal language processing, legal text, legal domain language'
 template: page
 ---
 
+The NLLP Workshop 2026 will take place on 28 or 29 October 2026 and will be co-located with the <a href="https://2026.emnlp.org/" target="_blank">EMNLP 2026</a> conference in Budapest, Hungary.
+
 <div class="grid-2-1">
   <div class="grid-2-1-left">
 
-**Slack**: Join our [Slack community](https://join.slack.com/t/nllp/shared_invite/zt-1dag0kin4-IeoYogteA4fri_UgRRMJFQ)
-    
-**Youtube**: Watch our the latest [workshop presentations and talks](https://www.youtube.com/channel/UCqqT9g-V0IsghloVF6S75dw)
+#### Call for Papers
 
-**Twitter**: Follow the latest [NLLP announcements](https://twitter.com/nllpworkshop?lang=en)
+The call for papers is now [available](https://nllpw.org/workshop/call)
 
-**Google Groups**: Join our [mailing list](https://groups.google.com/forum/#!forum/nllp)  
+#### Important Dates
 
-**Hashtags**: Post relevant content - #nllp #nlproc
+- **Submission deadline** ― 11 August 2026
+- **Submission of EMNLP papers with reviews or ARR committments** ― 27 August 2026
+- **Notification for direct submissions, ARR and EMNLP papers** ― 15 September 2026
+- **Camera ready due** ― 22 September 2026
+- **Workshop** ― 28 or 29 October 2026
 
-**E-mail**: Get in touch with [the organizers](mailto:nllp.chairs@gmail.com)
+All deadlines are 11.59pm UTC -12h
 
-## Organizers
+#### Organizing Committee 
 
-[Nikolaos Aletras](http://www.nikosaletras.com/) - University of Sheffield
-
-Leslie Barrett ― Bloomberg
-
-[Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen
-
-[Catalina Goanta]([https://www.maastrichtuniversity.nl/catalina.goanta](https://www.uu.nl/staff/ECGoanta)) - Utrecht University
-
-[Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg
-
-[Gerasimos (Jerry) Spanakis](https://www.maastrichtuniversity.nl/g-spanakis) - Maastricht University 
+- [Nikolaos Aletras](http://nikosaletras.com) - University of Sheffield (UK)
+- Leslie Barrett - Bloomberg (US)
+- [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen (Denmark)
+- [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) - Utrecht University (The Netherlands)
+- [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg (US)
+- [Gerasimos (Jerry) Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/) - Maastricht University (The Netherlands)
+- [ShanShan Xu](https://sxu.notion.site/) - University of Copenhagen (Denmark)
 
   </div>
 
-  <div class="grid-2-1-right">
-    <a class="twitter-timeline" href="https://twitter.com/NllpWorkshop?ref_src=twsrc%5Etfw">Tweets by NllpWorkshop</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <div class="grid-2-1-right" style="padding-left: 20px">
+
+  [<img src="/images/nllp2026.png" width="300"/>]()
+
+    #### Sponsors
+
+[<img src="/images/bloomberg.png" width="250"/>](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/)
+[<img src="/images/ercwhite.png" width="250"/>](https://humanads.eu)
+
   </div>
 </div>
 
+
+
+#### Past editions:
+- [NLLP 2025- [ShanShan Xu](https://sxu.notion.site/) - University of Copenhagen (Denmark)](https://nllpw.org/workshop/nllp-2025)
+- [NLLP 2024](https://nllpw.org/workshop/nllp-2024)
+- [NLLP 2023](https://nllpw.org/workshop/nllp-2023)
+- [NLLP 2022](https://nllpw.org/workshop/nllp-2022)
+- [NLLP 2021](https://nllpw.org/workshop/nllp-2021)
+- [NLLP 2020](https://sites.google.com/view/nllp/home)
+- [NLLP 2019](https://sites.google.com/view/nllp/nllp-2019)
