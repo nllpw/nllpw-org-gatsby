@@ -117,7 +117,7 @@ We accept papers reporting original (unpublished) research of two types:
 
 Appendices, references, optional [limitations](https://aclrollingreview.org/cfp#limitations) section, optional ethics section and acknowledgements do not count against the maximum page limit and should be formatted according to the guidelines below. 
 
-To submit a paper, please access the submission link [https://openreview.net/group?id=EMNLP/2026/Workshop/NLLP](https://openreview.net/group?id=EMNLP/2026/Workshop/NLLP).
+To submit a paper, please access the [submission website](https://openreview.net/group?id=EMNLP/2026/Workshop/NLLP).
 
 Conference proceedings will be published on the [ACL Anthology](https://aclanthology.org/).
 
@@ -139,7 +139,7 @@ There is no anonymity period or limitation on posting or discussing non-anonymou
 
 Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 27 August 2026. This should include submissions to ARR for the May deadline. The decision of publication will be announced by 15 September 2026. The commitment should be done via the dedicated page on the [submission website](https://openreview.net/group?id=EMNLP/2026/Workshop/NLLP_ARR_Commitment).
 
-### EMNLP 2025 Submissions
+### EMNLP 2026 Submissions
 
 Authors of any papers that have been reviewed for EMNLP 2026 and were rejected have the opportunity to send their paper and reviews to be considered for publication in the NLLP workshop proceedings as long as the topics are relevant to those described in this call for papers.
 
@@ -180,4 +180,3 @@ Catalina Goanta - Utrecht University
 Daniel Preotiuc-Pietro - Bloomberg
 Gerasimos (Jerry) Spanakis - Maastricht University
 Shanshan Xu - University of Copenhagen
-
