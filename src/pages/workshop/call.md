@@ -161,7 +161,7 @@ Submissions that do not conform to the required styles, including paper size, ma
 - **Submission of EMNLP papers with reviews and ARR committment** ― 27 August 2026
 - **Notification for direct submissions, ARR and EMNLP papers** ― 15 September 2026
 - **Camera ready due** ― 22 September 2026
-- **Workshop** ― 28 or 29 October 2026 (exact date TBA)
+- **Workshop** ― 28 October 2026
 
 All deadlines are 11.59pm UTC -12h
 
