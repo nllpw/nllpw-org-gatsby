@@ -173,10 +173,12 @@ At least one author of each accepted paper must register for the NLLP 2026 works
 
 ## Organizing Committee
 
-Nikolaos Aletras - University of Sheffield
-Leslie Barrett - Bloomberg
-Ilias Chalkidis - University of Copenhagen
-Catalina Goanta - Utrecht University
-Daniel Preotiuc-Pietro - Bloomberg
-Gerasimos (Jerry) Spanakis - Maastricht University
-Shanshan Xu - University of Copenhagen
+- Nikolaos Aletras - University of Sheffield
+- Leslie Barrett - Bloomberg
+ Ilias Chalkidis - University of Copenhagen
+- Catalina Goanta - Utrecht University
+- Daniel Preotiuc-Pietro - Bloomberg
+-Gerasimos (Jerry) Spanakis - Maastricht University
+- Shanshan Xu - University of Copenhagen
+
+
