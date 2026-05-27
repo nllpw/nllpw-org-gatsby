@@ -25,7 +25,7 @@ seo:
 template: page
 ---
 
-The NLLP Workshop 2026 will take place on 28 or 29 October 2026 and will be co-located with the <a href="https://2026.emnlp.org/" target="_blank">EMNLP 2026</a> conference in Budapest, Hungary.
+The NLLP Workshop 2026 will take place on 28 October 2026 and will be co-located with the <a href="https://2026.emnlp.org/" target="_blank">EMNLP 2026</a> conference in Budapest, Hungary.
 
 <div class="grid-2-1">
   <div class="grid-2-1-left">
@@ -40,7 +40,7 @@ The call for papers is now [available](https://nllpw.org/workshop/call)
 - **Submission of EMNLP papers with reviews or ARR committments** ― 27 August 2026
 - **Notification for direct submissions, ARR and EMNLP papers** ― 15 September 2026
 - **Camera ready due** ― 22 September 2026
-- **Workshop** ― 28 or 29 October 2026
+- **Workshop** ― 28 October 2026
 
 All deadlines are 11.59pm UTC -12h
 
