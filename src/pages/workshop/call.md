@@ -157,7 +157,7 @@ Submissions that do not conform to the required styles, including paper size, ma
 
 ## Important dates
 
-- **Submission deadline** ― 11 August 2026
+- **Submission deadline** ― 18 August 2026 ~~11 August 2026~~
 - **Submission of EMNLP papers with reviews and ARR committment** ― 27 August 2026
 - **Notification for direct submissions, ARR and EMNLP papers** ― 15 September 2026
 - **Camera ready due** ― 22 September 2026
