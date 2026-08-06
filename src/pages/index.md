@@ -3,7 +3,7 @@ title: Natural Legal Language Processing - NLLP
 subtitle: 
 seo:
   title: Home
-  description: The eight workshop on Natural Legal Language Processing (NLLP 2065) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
+  description: The eight workshop on Natural Legal Language Processing (NLLP 2026) explores methods and applications of Natural Language Processing for the Legal Domain by focusing on legal text and text with legal significance. Co-located with EMNLP 2026.
   extra:
     - name: 'og:type'
       value: website
@@ -44,7 +44,7 @@ template: page
 
 [Nikolaos Aletras](http://www.nikosaletras.com/) - University of Sheffield
 
-Leslie Barrett ― Bloomberg
+Leslie Barrett ― Bloomberg Law
 
 [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen
 
@@ -54,7 +54,7 @@ Leslie Barrett ― Bloomberg
 
 [Gerasimos (Jerry) Spanakis](https://www.maastrichtuniversity.nl/g-spanakis) - Maastricht University 
 
-[ShanShan Xu](https://sxu.notion.site/) - University of Copenhagen (Denmark)
+[ShanShan Xu](https://sxu.notion.site/) - University of Copenhagen
 
   </div>
 
