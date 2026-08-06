@@ -36,7 +36,7 @@ The call for papers is now [available](https://nllpw.org/workshop/call)
 
 #### Important Dates
 
-- **Submission deadline** ― 11 August 2026
+- **Submission deadline** ― 18 August 2026 ~~11 August 2026~~
 - **Submission of EMNLP papers with reviews or ARR committments** ― 27 August 2026
 - **Notification for direct submissions, ARR and EMNLP papers** ― 15 September 2026
 - **Camera ready due** ― 22 September 2026
@@ -47,7 +47,7 @@ All deadlines are 11.59pm UTC -12h
 #### Organizing Committee 
 
 - [Nikolaos Aletras](http://nikosaletras.com) - University of Sheffield (UK)
-- Leslie Barrett - Bloomberg (US)
+- Leslie Barrett - Bloomberg Law (US)
 - [Ilias Chalkidis](https://iliaschalkidis.github.io/) - University of Copenhagen (Denmark)
 - [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) - Utrecht University (The Netherlands)
 - [Daniel Preotiuc-Pietro](http://www.preotiuc.ro) - Bloomberg (US)
