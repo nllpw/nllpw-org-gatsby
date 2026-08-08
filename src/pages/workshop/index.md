@@ -34,6 +34,12 @@ The NLLP Workshop 2026 will take place on 28 October 2026 and will be co-located
 
 The call for papers is now [available](https://nllpw.org/workshop/call)
 
+#### Shared Task 
+
+We are organizing a shared task!
+
+[ChildSafeAds: Commercial Content in Child-Facing YouTube Videos](https://www.codabench.org/competitions/17595/)
+
 #### Important Dates
 
 - **Submission deadline** ― 18 August 2026 ~~11 August 2026~~
