@@ -32,6 +32,10 @@
             "url": "/workshop/call/"
           },
           {
+            "label": "Shared Task",
+            "url": "/workshop/sharedtask/"
+          },
+          {
             "label": "NLLP 2025",
             "url": "/workshop/nllp-2025"
           },
