@@ -26,6 +26,8 @@ template: page
 
 ## ChildSafeAds — Commercial Content in Child-Facing YouTube Videos
 
+Official page: (https://www.codabench.org/competitions/17595/)[https://www.codabench.org/competitions/17595/]
+
 Imagine you work at an authority responsible for monitoring commercial content that reaches minors on video platforms. How would you build that monitoring system, and what can it achieve at each level of data access and cost?
 
 Influencer marketing reaching children and teenagers is widespread on YouTube and frequently undisclosed. Assessing it at platform scale needs automated support, but doing so responsibly means classifying what is being sold, categorising it, and reasoning about the advertising-law concerns it raises. This task puts those three together on real data.
@@ -59,6 +61,3 @@ A bonus track invites teams to go further and collect off-platform destination d
 1. Register (approval required; registering accepts the data-use terms).
 2. Download Public Data and the Starting Kit from the Participate tab.
 3. Run the majority baseline to produce a valid submission, check it with the included format checker, and submit.
-Download Public Data and the Starting Kit from the Participate tab.
-Run the majority baseline to produce a valid submission, check it with the included format checker, and submit.
-See the Data, Evaluation, and Terms pages for specifics.
