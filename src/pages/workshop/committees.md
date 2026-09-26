@@ -117,7 +117,7 @@ template: page
 - Santosh T.Y.S.S - Amazon (United States of America)
 - Dimitrios Tsarapatsanis - University of York (United Kingdom)
 - Gijs van Dijck - Maastricht University (The Netherlands)
-- Apurv Verga - Bloomberg (United States of America)
+- Apurv Verma - Bloomberg (United States of America)
 - Jianqiang Wang - University of Buffalo (United States of America)
 - Olivia Wang - UC Santa Cruz (United States of America)
 - Hannes Westermann - Maastricht University (The Netherlands)
